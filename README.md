@@ -16,16 +16,16 @@ This section outlines the risks related to the business. Naturally, at the very 
 
 * COVID has severely impacted the business effectively cutting demand by more than half, forcing the company to retire aircraft earlier than expected, forcing the company to furlough employees, ask for government financial assistance, raise capital by issuing securities on the open market, etc. 
 * High levels of debt may hinder ability to acquire additional financing, which the company says they **need** in order to operate successfully
- * Unhedged interest rate exposure? See PDF page 55.  
+  * Unhedged interest rate exposure? See PDF page 55.  
 * Liquidity problems may arise from pension (etc.) obligations and obligations towards advance ticket sales
- * Credit card companies may withhold part of the payment until service has been provided (many refunds as well are occurring)
+   * Credit card companies may withhold part of the payment until service has been provided (many refunds as well are occurring)
 * Loss of key personnel/inability to attract talent
 * Economic conditions beyond control
- * Covid is mentioned here again, naturally, but also includes topics such as geopolitical events, interest rate events, disease outbreaks, and other so-called Acts of God
+   * Covid is mentioned here again, naturally, but also includes topics such as geopolitical events, interest rate events, disease outbreaks, and other so-called Acts of God
 * Union disputes
- * I can imagine that events such as this are stochastic and cannot necessarily be controlled for. Each airline has many unions representing their employees, each with their own mandates. 
+   * I can imagine that events such as this are stochastic and cannot necessarily be controlled for. Each airline has many unions representing their employees, each with their own mandates. 
 * Problems with third-party regional operators
- * Third party operators can suffer from similar risks, thus creating a service outage in a strategic area
- * Service providers including maintenance and ground services can also pose such risks
+   * Third party operators can suffer from similar risks, thus creating a service outage in a strategic area
+   * Service providers including maintenance and ground services can also pose such risks
 * Damage to reputation/brand image
- * Hard to control for in a systematic way (I assume) 
+  * Hard to control for in a systematic way (I assume) 
