@@ -29,3 +29,49 @@ This section outlines the risks related to the business. Naturally, at the very 
    * Service providers including maintenance and ground services can also pose such risks
 * Damage to reputation/brand image
   * Hard to control for in a systematic way (I assume) 
+  * Perception of safety of travel 
+* Accidents involving operations
+  * Another event that may be difficult to control for in a look-ahead way, consider the 737 MAX crashes and their impact on airlines
+* Challenges involving integration of technology
+  * Not very idiosyncratic
+* Challenges involving promotions or business models that are designed to increase revenues
+  * This is something that is idiosyncratic and has certainly affected airlines before (consider the infamous unlimited AAirPass)
+* Problems arising from theft of intellectual property and branding rights
+  * Not very idiosyncratic
+* Litigations from regular course of business
+  * Unsure about this one, there can be lawsuits mentioned that are severe and quite idiosyncratic, however every airline will likely have similar lawsuits
+* Net Operating Losses (NOL) tax deductions which can be carried forward can expire if unused
+  * Not idiosyncratic whatsoever
+* Full value of goodwill may not be realized
+  * Again, this may be something that is difficult to control for
+
+The next section speaks about risks related to the airline industry as a whole. If this project evolves into a long/short strategy like I plan, many of these aspects will be controlled for. However, in this section there are also aspects unique to the company listed including marketing relationships, joint business information, etc.
+
+
+## Part 2: Properties
+
+Naturally, the change in number of planes both owned and leased is very important to the business, both at full capacity, and at limited capacity i.e. during COVID. Having less planes is preferable during COVID because these assets depreciate, and without providing revenue, the company is forced to pay storage and maintenance costs and receive nothing in exchange. This is why some planes were forced to be retired during COVID. 
+
+## Part 3: Legal Proceedings
+
+This is perhaps of some great value to our analysis. Lawsuits can be generally idiosyncratic to companies, however, I'm not sure how material the decisions and outcomes are in general. This is something I will need to investigate. #ToDo
+
+## Part 4: Mine Safety Disclosures
+
+Not applicable.
+
+## Part 5: Common Stock Information
+
+Dividends and share repurchases are important drivers of a stock price (fundamentally). It also gives investors a general idea of how the company is performing. For example, raising a dividend generally indicates that revenues are up and the company is in a financially good position. Share repurchases indicate that the company fundamentally believes their shares are undervalued. Repurchases can allow the company to increase its own equity stake, or the shares could be retired. In any case, repurchases generally benefit investors by raising many important per-share accounting figures such as Earnings-Per-Share (EPS). 
+
+## Part 6: Selected Consolidated Financial Data
+
+While not necessarily natural language, these numbers will allow us to compare companies quantitatively. Naturally, the magnitude of the numbers may not be as relevant as the percent changes, since the big 4 airlines are different in size. (#ToDo verify this makes sense). 
+
+The non-GAAP special items will also need to be verified. I'm not sure if these can be used to compare companies or not. #ToDo
+
+The Operating Costs per Available Seat Mile (CASM) table may be extremely useful as these are the most important drivers of the companies, adjusted for the most important aspect of airfare (available seat-mile). 
+
+## Part 7: Management's Discussion and Analysis
+
+This section will be extremely important for any type of NLP task. It appears to offer commentary on the financial health of the company directly from management. Naturally, if management has a negative sentiment, then we know for sure that the company is not doing well. 
