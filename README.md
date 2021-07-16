@@ -1,6 +1,8 @@
 # 10K-10Q-NLP-Project
 
-Analyzing the quarterly 10K/10Q reports from companies. As the project stands right now, I will be more specifically looking at these reports from airlines domiciled in USA. I view the industry as a zero-sum game, which means that even the slightest sentimental difference between reports can be exploited. More information can be found here: https://medium.com/@spandey16/game-theory-and-the-airline-business-865f0a5f0f5b
+Analyzing the quarterly 10K/10Q reports from companies in pursuit of alpha. 
+
+As the project stands right now, I will be more specifically looking at these reports from airlines domiciled in USA. I view the industry as a zero-sum game, which means that even the slightest sentimental difference between reports can be exploited. More information can be found here: https://medium.com/@spandey16/game-theory-and-the-airline-business-865f0a5f0f5b
 
 A 10-K provides investors with information including an outline of the company's business, the risks the company faces, and operating/financial results for the past fiscal year. It is divided into 4 parts which contain a total of 15 items. 
 
@@ -84,6 +86,30 @@ After coming across another mention of fuel costs, I'd like to point out that ev
 
 ### Part 7A: Qualitative and Quantitative Disclosures About Market Risk
 
-This section includes all the risks associated with the business. I can't find anything that may be 
+This section includes all the risks associated with the business. I'm not sure if these will vary between companies, but I doubt it. Fuel costs, currencies, and interest likely affect all airlines in equal magnitude. This will need to be verified, however (#ToDo).
+
+## Part 8A: Consolidated Financial Statements of American Airlines GROUP, Inc.
+
+The first section, displaying the company's income statement is produced by an accounting company. It is an objective perspective into the finances of the company. This is likely useful to evaluate the financial health of the company on a fundamental basis, however, if we are looking for alpha via natural language, it may be more useful to focus on the notes of each section. A vast amount of text is presenting justifying the results of each element, so this may also be a very valuable section. 
+
+## Part 8B: Consolidated Financial Statements and Supplementary Data of American Airlines, Inc.
+
+Similar to part 8A, however, this is information regarding American Airlines, Inc. rather than the parent company which oversees other subsidiaries. 
+
+## Part 9: Changes/Disagreements with Accountants
+
+None.
+
+## Part 9A: Controls and Procedures
+
+This section simply outlines that management and the designated accounting firm of American Airlines (Group) believes that the company has maintained effected internal control over financial reporting. I don't think this will change between companies. 
+
+# Rest
+
+Each item beyond this point is extremely brief, referencing the Proxy Statement (i.e. form DEF 14A). Perhaps investigating this proxy statement is beyond the scope of this exercise, but I will make sure to verify. (#ToDo)
+
+## Part 16: Form 10-K Summary
+
+None. 
 
 
