@@ -74,4 +74,16 @@ The Operating Costs per Available Seat Mile (CASM) table may be extremely useful
 
 ## Part 7: Management's Discussion and Analysis
 
-This section will be extremely important for any type of NLP task. It appears to offer commentary on the financial health of the company directly from management. Naturally, if management has a negative sentiment, then we know for sure that the company is not doing well. 
+This section will be extremely important for any type of NLP task. It appears to offer commentary on the financial health of the company directly from management. Naturally, if management has a negative sentiment, then we know for sure that the company is not doing well. Moreover, this is where a natural language model will shine as this section is very clearly populated with subjective information that will vary between companies. The tables representing financial results would also offer an objective perspective, bolstering any decisions made by a sentiment/NLP model. With that said, I'm not sure if combining the two is beyond the scope of this project(#ToDo). I would assume there would be the most alpha in a section like this versus the rest of the 10-K when viewing it from a NLP perspective, but I will keep an open mind for the entire document. 
+
+The "Other Costs" section appears to have a lot of information condensed into a few sentences with respect to both subjective sentiment and objective industry-wide numbers (e.g. CASM).
+
+Sources and Uses of Cash section--Fundamentally I'm sure this would be useful, but I'm not sure if it would be valuable for the sake of this project? (#ToDo).
+
+After coming across another mention of fuel costs, I'd like to point out that even without COVID, the industry is extremely sensitive to price changes in fuel. Because we are not interested in predicting the future price of jet fuel, I would like to remove this beta by taking both long and short positions in the industry. 
+
+### Part 7A: Qualitative and Quantitative Disclosures About Market Risk
+
+This section includes all the risks associated with the business. I can't find anything that may be 
+
+
