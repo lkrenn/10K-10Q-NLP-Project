@@ -1,4 +1,4 @@
-# 10K-10Q-NLP-Project
+# 10K/10Q NLP Project
 
 The goal of this project is to analyze the quarterly 10K/10Q reports from companies in pursuit of alpha. 
 
