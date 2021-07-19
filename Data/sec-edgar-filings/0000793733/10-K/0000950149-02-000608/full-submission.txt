@@ -1,0 +1,3189 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TCbdTfdojhwOgQEQ30QP+WXNE4RxS7dEsmNJl/6dSj34yrEsGvjEL/cbkG6PX+dc
+ pqlzB3KzyyZie3F2izgQQQ==
+
+<SEC-DOCUMENT>0000950149-02-000608.txt : 20020415
+<SEC-HEADER>0000950149-02-000608.hdr.sgml : 20020415
+ACCESSION NUMBER:		0000950149-02-000608
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20011231
+FILED AS OF DATE:		20020401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SKYWEST INC
+		CENTRAL INDEX KEY:			0000793733
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		IRS NUMBER:				870292166
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14719
+		FILM NUMBER:		02595927
+
+	BUSINESS ADDRESS:	
+		STREET 1:		444 S RIVER RD
+		CITY:			ST GEORGE
+		STATE:			UT
+		ZIP:			84790
+		BUSINESS PHONE:		8016343000
+
+	MAIL ADDRESS:	
+		STREET 1:		444 SOUTH RIVER ROAD
+		CITY:			ST GEORGE
+		STATE:			UT
+		ZIP:			84790
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>f80339e10-k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+        (X)       ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d)
+                  OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                      For the year ended December 31, 2001
+
+                                       OR
+
+        ( )       TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)
+                  OF THE SECURITIES EXCHANGE ACT OF 1934
+
+            For the transition period from ___________ to ___________
+
+
+Commission File No. 0-14719
+
+                                  SKYWEST, INC.
+
+Incorporated under the Laws of Utah                              87-0292166
+                                                           (IRS Employer ID No.)
+
+                              444 South River Road
+                             St. George, Utah 84790
+                                 (435) 634-3000
+
+        Securities Registered Pursuant to Section 12(b) of the Act: None
+
+           Securities Registered Pursuant to Section 12(g) of the Act:
+
+                           Common Stock, No Par Value
+
+        Indicate by check mark whether the registrant (1) has filed all
+documents and reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or such shorter
+period that the Registrant was required to file such reports) and (2) has been
+subject to such filing requirements for the past 90 days. YES [X] NO [ ]
+
+        The aggregate market value of Common Stock held by non-affiliates (based
+upon the closing sale price of the Common Stock on the NASDAQ National Market
+System) on March 15, 2002, was approximately $1,471,250,970.
+
+        As of March 15, 2002, there were 56,959,000 shares of Common Stock
+outstanding.
+
+                       Documents Incorporated by Reference
+
+        Portions of the Registrant's Annual Report to Shareholders for the year
+ended December 31, 2001, are incorporated by reference in Part II as specified.
+
+        Portions of the Registrant's Proxy Statement to be used in connection
+with the solicitation of proxies to be voted at the Registrant's 2002 Annual
+Meeting of Shareholders, to be filed with the Commission, are incorporated by
+reference in Part III as specified.
+
+        Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of Registrant's knowledge, in the definitive proxy statement
+incorporated by reference in Part III of this Form 10-K, or any amendment to
+this Form 10-K. [ ]
+
+<PAGE>
+                                  SKYWEST, INC.
+                           ANNUAL REPORT ON FORM 10-K
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                          Page No.
+                                                                                          --------
+<S>      <C>                                                                              <C>
+
+                                            PART I
+
+Item 1.  Business.........................................................................    3
+Item 2.  Properties.......................................................................    9
+Item 3.  Legal Proceedings................................................................   10
+Item 4.  Submission of Matters to a Vote of Security Holders..............................   10
+
+                                           PART II
+
+Item 5.  Market for Registrant's Common Stock and Related Stockholder Matters.............   11
+Item 6.  Selected Financial Data..........................................................   11
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results of
+           Operations.....................................................................   11
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.......................   11
+Item 8.  Financial Statements and Supplementary Data......................................   12
+Item 9.  Changes in and Disagreements on Accounting and Financial Disclosure..............   12
+
+                                          PART III
+
+Item 10. Directors and Executive Officers of the Registrant...............................   12
+Item 11. Executive Compensation...........................................................   12
+Item 12. Security Ownership of Certain Beneficial Owners and Management...................   12
+Item 13. Certain Relationships and Related Transactions...................................   12
+
+                                           PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.................   13
+</TABLE>
+
+<PAGE>
+                                     PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+
+SkyWest, Inc. (the "Company"), through its wholly owned subsidiary, SkyWest
+Airlines, Inc. ("SkyWest"), operates the largest independent regional airline in
+the United States. SkyWest offers scheduled passenger and air freight service
+with nearly 1,000 daily departures to 79 cities in 23 western states and Canada.
+SkyWest has been a code-sharing partner with Delta Air Lines, Inc. ("Delta") in
+Salt Lake City and United Airlines ("United") in Los Angeles since 1987 and
+1997, respectively. In April 1998, SkyWest expanded its United Express Agreement
+to provide service as United Express in United's Portland and Seattle/Tacoma
+markets and in additional Los Angeles markets, which began in April 1998. In
+January 1998, SkyWest expanded its operations to serve as the United Express
+carrier in San Francisco, which began in June 1998. Today, SkyWest operates as
+the Delta Connection in Salt Lake City and Dallas Fort Worth and as United
+Express in Los Angeles, San Francisco, Denver and in the Pacific Northwest.
+SkyWest believes that its success in attracting multiple code-sharing
+relationships is attributable to its delivery of high quality customer service
+with an all cabin-class fleet. As of February 28, 2002, 69% of SkyWest's
+capacity operated under the Delta code and 31% operated under the United code.
+With principal hubs located at Los Angeles, Salt Lake City, San Francisco,
+Portland, Dallas/Fort Worth and Seattle/Tacoma, SkyWest offers a convenient and
+frequent flight schedule designed to maximize connecting and origin-destination
+traffic for its major code-sharing partners. As of December 31, 2001, SkyWest
+operated a fleet of 80 Embraer EMB-120 Brasilia turboprops ("Brasilias") and 45
+Canadair Regional Jets ("CRJs").
+
+Multiple code-sharing relationships have enabled SkyWest to reduce reliance on
+any single major airline code and to enhance and stabilize operating results
+through a mix of SkyWest-controlled flying and contract flying. On
+SkyWest-controlled flights, SkyWest controls scheduling, ticketing, pricing and
+seat inventories and receives a prorated portion of passenger fares. On contract
+routes, the major airline partner controls scheduling, ticketing, pricing and
+seat inventories with SkyWest receiving from its major airline partners
+negotiated payments per flight departure and incentives related to passenger
+volumes and levels of customer service. The Company transitioned all of its
+Delta Connection CRJ flights to contract flying October 1, 2001 and transitioned
+all of its Delta Connection Brasilia flights to contract flying effective
+January 1, 2002. This transition resulted in essentially all SkyWest flights
+operating as contract flying as of January 1, 2002. The Company has agreements
+to acquire an additional 96 CRJs with options for an additional 119 aircraft.
+These aircraft will be allocated between Delta Connection and United Express
+operations.
+
+Since being founded in 1972, the Company has experienced significant growth.
+During the past five years, consolidated operating revenues have increased at a
+compounded annual growth rate of 23.1%, from $262.1 million in 1997 to $601.9
+million in 2001. Total passengers carried by SkyWest have increased from
+approximately 2,899,000 to approximately 6,230,000 over the same period. In
+2001, the Company experienced growth in available seat miles, revenue passenger
+miles, passengers carried and load factors. The Company generated net income of
+$56.4 million in 2001, $60.9 million in 2000 and $53.9 million in 1999. During
+1999, the Company sold the operations of Scenic Airlines, Inc., and recorded a
+loss on the sale of $0.4 million net of income taxes. The amount has been
+reflected as discontinued operations in the Company's consolidated financial
+statements. Additionally, during 2000, the Company sold the operations of
+National Parks Transportation in order to focus on the core airline business and
+continued development of its Delta and United relationships. The improvement
+since fiscal 1997 reflects, among other factors, the addition of United as a
+code-sharing partner in October 1997.
+
+JOINT MARKETING AND CODE SHARING AGREEMENTS
+
+Since April 1987, SkyWest has operated as the Delta Connection in certain
+SkyWest markets pursuant to the terms of a joint marketing and code sharing
+agreement with Delta. In July 1990, SkyWest and Delta entered into a revised
+Delta Connection Agreement, modified in April 1997 and May 1999, under which
+SkyWest coordinates with Delta to facilitate interline connections at the Salt
+Lake City International Airport. The primary benefit of this affiliation is the
+use of the Delta designation code (DL) in listing flights in the Official
+Airline Guide and in the computerized reservation systems used throughout the
+industry. SkyWest's code sharing arrangement with Delta allocates to SkyWest, on
+certain flights, a portion of the passenger fare on a formula or other basis,
+subject to periodic adjustments. This code sharing agreement also provides for
+negotiated minimum payments per flight departure and incentives related to
+passenger volumes and
+
+
+                                       3
+<PAGE>
+levels of customer service, on certain flights. SkyWest also participates in
+cooperative advertising and marketing activities with Delta, including Delta's
+Frequent Flyer Program, the Delta Meeting Network and Delta Dream Vacations.
+
+The Company believes the arrangement created between SkyWest and Delta is
+similar to those which exist between other major and regional airlines. The
+Delta Connection Agreement terminates in June 2010, and is subject to earlier
+termination in various circumstances, including upon 180 days advance notice by
+either party for any or no reason. During the year ended December 31, 2001,
+Delta sold its ownership interest in the Company, which consisted of
+approximately 6.2 million shares of common stock and represented approximately
+11.1% of the Company's outstanding common stock.
+
+In 2000 and 1997, the Company reached separate ten-year agreements with Delta
+and United, respectively, to fly routes under contract flying arrangements. The
+Company is compensated on a fee-per-departure basis plus incentive payments
+based on operational performance. The fee-per-departure and incentive amounts
+are negotiated on an annual basis based on projected operating costs. The
+agreements with Delta and United contain certain provisions pursuant to which
+the parties could terminate the agreement, subject to certain rights of the
+other party, if certain performance criteria are not maintained.
+
+MARKETS AND ROUTES
+
+SkyWest's flight schedules are structured to facilitate the connection of its
+passengers with flights of Delta and United at the airports it serves. The
+following table shows selected information about the cities served by SkyWest as
+of March 15, 2002.
+
+
+                                       4
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                       Served
+        State and City                                                 Since(1)
+        --------------                                                --------
+<S>                                                                   <C>
+          Alabama:
+             Birmingham.............................................     2001
+             Mobile.................................................     2002
+          Arizona:
+             Yuma...................................................     1979
+             Phoenix................................................     2000
+          California:
+             San Diego..............................................     1968
+             Palm Springs...........................................     1970
+             Los Angeles............................................     1977
+             Imperial...............................................     1979
+             Ontario................................................     1981
+             Santa Maria............................................     1982
+             Santa Barbara..........................................     1983
+             Bakersfield............................................     1983
+             Fresno.................................................     1985
+             Sacramento.............................................     1986
+             San Francisco..........................................     1995
+             San Jose...............................................     1986
+             San Luis Obispo........................................     1986
+             Orange County..........................................     1986
+             Monterey...............................................     1987
+             Cresent City...........................................     1998
+             Eureka.................................................     1998
+             Redding................................................     1998
+             Chico..................................................     1998
+             Modesto................................................     1998
+             Visalia................................................     1998
+             Inyokern...............................................     1998
+             Oxnard.................................................     1998
+             Carlsbad...............................................     1998
+          Colorado:
+             Grand Junction.........................................     1983
+             Colorado Springs.......................................     1995
+             Denver.................................................     2000
+             Durango................................................     2001
+             Montrose...............................................     2001
+          Florida:
+             Pensacola..............................................     2001
+             Tallahassee............................................     2002
+          Idaho:
+             Pocatello..............................................     1980
+             Idaho Falls............................................     1982
+             Twin Falls.............................................     1983
+             Boise..................................................     1988
+             Sun Valley.............................................     1990
+          Iowa:
+             Des Moines.............................................     2001
+          Kansas:
+             Wichita................................................     2001
+</TABLE>
+
+
+                                       5
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                       Served
+        State and City                                                 Since(1)
+        --------------                                                 --------
+<S>                                                                    <C>
+          Minnesota:
+             Minneapolis............................................     2000
+          Missouri:
+             Kansas City............................................     2001
+          Montana:
+             West Yellowstone.......................................     1986(2)
+             Helena.................................................     1988(2)
+             Bozeman................................................     1988
+             Billings...............................................     1988
+             Butte..................................................     1988
+             Missoula...............................................     1998
+          Nebraska:
+             Omaha .................................................     1998
+          New Mexico:
+             Albuquerque............................................     1995
+          Nevada:
+             Las Vegas..............................................     1974
+             Elko...................................................     1982
+             Reno...................................................     1982
+          North Carolina:
+             Greensboro.............................................     2001
+          Oklahoma:
+             Oklahoma City..........................................     2001
+             Tulsa..................................................     2001
+          Oregon:
+             Eugene.................................................     1995
+             Portland...............................................     1995
+             Redmond................................................     1998
+             Medford................................................     1998
+          South Dakota:
+             Rapid City.............................................     1994
+          Tennessee:
+             Memphis................................................     2001
+             Nashville..............................................     2002
+          Texas:
+             Austin.................................................     2001
+             Dallas.................................................     2001
+             El Paso................................................     2001
+             Houston................................................     2001
+          Utah:
+             Cedar City.............................................     1972
+             Salt Lake City.........................................     1972
+             St. George.............................................     1972
+          Washington:
+             Pasco..................................................     1996
+             Yakima.................................................     1998
+             Seattle................................................     1998
+             Spokane................................................     1999
+</TABLE>
+
+
+                                       6
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                       Served
+        State and City                                                 Since(1)
+        --------------                                                 --------
+<S>                                                                    <C>
+          Wyoming:
+             Jackson Hole...........................................     1986
+             Casper.................................................     1994
+             Cody...................................................     1995
+          Canada:
+             Vancouver B.C..........................................     1997
+             Calgary................................................     1999
+</TABLE>
+
+- ----------
+
+(1)   Refers to the calendar year service was initiated.
+
+(2)   Service is provided on a seasonal basis.
+
+
+                                       7
+<PAGE>
+GOVERNMENT REGULATION
+
+All interstate air carriers, including SkyWest, are subject to regulation by the
+Department of Transportation ("DOT"), the Federal Aviation Administration
+("FAA") and certain other governmental agencies. Regulations promulgated by the
+DOT primarily relate to economic aspects of air service. The FAA requires
+operating, air worthiness and other certificates; approval of personnel who may
+engage in flight, maintenance or operation activities; record keeping procedures
+in accordance with FAA requirements; and FAA approval of flight training and
+retraining programs. Generally, governmental agencies enforce their regulations
+through, among other mechanisms, certifications, which are necessary for
+SkyWest's continued operations, and proceedings, which can result in civil or
+criminal penalties or revocation of operating authority. The FAA can also issue
+maintenance directives and other mandatory orders relating to, among other
+things, grounding of aircraft, inspection of aircraft, installation of new
+safety-related items and the mandatory removal and replacement of aircraft parts
+that have failed or may fail in the future.
+
+SkyWest believes it is operating in compliance with FAA regulations and holds
+all necessary operating and airworthiness certificates and licenses. The Company
+incurs substantial costs in maintaining current certifications and otherwise
+complying with the laws, rules and regulations to which it is subject. SkyWest's
+flight operations, maintenance programs, record keeping and training programs
+are conducted under FAA approved procedures. SkyWest does not operate at any
+airports where landing slots are restricted.
+
+All air carriers are required to comply with federal laws and regulations
+pertaining to noise abatement and engine emissions. All air carriers are also
+subject to certain provisions of the Federal Communications Act of 1934, as
+amended, because of their extensive use of radio and other communication
+facilities. The Company is also subject to certain other federal and state laws
+relating to protection of the environment, labor relations and equal employment
+opportunity. Management believes that the Company is in compliance in
+all-material respects with these laws and regulations.
+
+COMPETITION AND ECONOMIC CONDITIONS
+
+The airline industry is highly competitive. The Company not only competes with
+other regional airlines, some of which are owned by or are operated as code
+sharing partners of major airlines, but also faces competition from low-fare
+airlines and major airlines on certain routes. The Company is the dominant
+regional airline operating out of the Salt Lake City International Airport;
+however, Southwest Airlines, a national low-fare airline, also operates out of
+the Salt Lake City International Airport, which results in significant price
+competition at the Salt Lake City hub. Competition in the Southern California
+and Pacific Northwest markets, which the Company serves from its hubs in Los
+Angeles, Seattle/Tacoma and Portland, is particularly intense, with a large
+number of carriers in these markets. The Company's principal competitor in the
+Los Angeles International Airport is American Eagle. The Company's principal
+competitor in the Seattle/Tacoma and Portland markets is Horizon Airlines.
+
+The principal competitive factors in the regional airline industry are fare
+pricing, customer service, routes served, flight schedules, aircraft types and
+code-sharing relationships. Certain of the Company's competitors are larger and
+have significantly greater financial resources than the Company. Moreover,
+federal deregulation of the industry allows competitors to rapidly enter markets
+and to quickly discount and restructure fares. The airline industry is
+particularly susceptible to price discounting because airlines incur only
+nominal costs to provide service to passengers occupying otherwise unsold seats.
+
+Generally, the airline industry is highly sensitive to general economic
+conditions, in large part due to the discretionary nature of a substantial
+percentage of both business and pleasure travel. In the past, many airlines have
+reported decreased earnings or substantial losses resulting from periods of
+economic recession, heavy fare discounting and other factors. Economic downturns
+combined with competitive pressures have contributed to a number of bankruptcies
+and liquidations among major and regional carriers. The effect of economic
+downturns is somewhat mitigated by the Company's fixed-fee arrangements with
+respect to certain flights. Nonetheless, the per passenger component in such fee
+structures would be affected by an economic downturn. In addition, if the
+Company's major airline code-sharing partners experience longer-term declines in
+passenger loads or are injured by low ticket prices, high fuel prices or other
+factors, they will likely seek to reduce the Company's fixed fees or cancel a
+number of flights in order to reduce their costs.
+
+
+                                       8
+<PAGE>
+EMPLOYEES
+
+As of March 15, 2002, the Company employed 4,509 full-time equivalent employees
+consisting of 1,750 pilots and flight attendants, 1,841 customer service
+personnel, 637 mechanics and other maintenance personnel, and 281 administration
+and support personnel. The Company's employees are not currently represented by
+any union. The Company is aware, however, that collective bargaining group
+organization efforts among its employees occur from time to time and management
+anticipates that such efforts will continue in the future. During August 1999,
+the question of whether or not to join the Airline Pilots Association ("ALPA")
+was submitted to the Company's pilots, who voted against joining ALPA by a
+narrow margin. Under governing rules, the Company's pilots may again vote on
+this issue at any time because one year has passed since the previous vote. If
+unionization efforts are successful, the Company may by subjected to risks of
+work interruption or stoppage and/or incur additional expenses associated with
+union representation of its employees. In connection with the Company's proposed
+acquisition of an additional 96 CRJs and related expansion, the Company
+anticipates hiring approximately 2,500 additional employees, many of whom may be
+represented by a union in their current employment. The Company has never
+experienced any work stoppages and considers its relationships with its
+employees to be good.
+
+SEASONALITY
+
+As is common in the airline industry, SkyWest's operations are favorably
+affected by increased travel, historically occurring in the summer months, and
+are unfavorably affected by decreased business travel during the months from
+November through January and by inclement weather which occasionally results in
+cancelled flights, principally during the winter months. However, SkyWest does
+expect some mitigation of the historical seasonal trends due to the transition
+from some at risk flying to essentially all contract flying effective January 1,
+2002.
+
+FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K contains various forward-looking statements and
+information that are based on management's beliefs, as well as assumptions made
+by and information currently available to management. When used in this
+document, the words "believe," "anticipate," "estimate," "project," "expect,"
+and similar expressions are intended to identify forward-looking statements.
+Although the Company believes that the expectations reflected in such
+forward-looking statements are reasonable, it can give no assurance that such
+expectations will prove to have been correct. Such statements are subject to
+certain risks, uncertainties and assumptions. Should one or more of these risks
+or uncertainties materialize, or should underlying assumptions prove incorrect,
+actual results may vary materially from those anticipated, estimated, projected
+or expected. Among the key factors that may have a direct bearing on the
+Company's operating results include, among other things, changes in SkyWest's
+code-sharing relationships, fluctuations in the economy and the demand for air
+travel, the degree and nature of competition and SkyWest's ability to expand
+services in new and existing markets and to maintain profit margins in the face
+of pricing pressures.
+
+ITEM 2. PROPERTIES
+
+FLIGHT EQUIPMENT
+
+As of March 15, 2002, SkyWest owned or leased the following types of aircraft:
+
+<TABLE>
+<CAPTION>
+                                NUMBER OF                    SCHEDULED  AVERAGE
+                                 AIRCRAFT                     FLIGHT    CRUISING   AVERAGE
+                              -------------      PASSENGER     RANGE      SPEED     AGE
+TYPE OF AIRCRAFT              OWNED   LEASED     CAPACITY     (MILES)     (MPH)    (YEARS)
+- ----------------              -----   ------     ---------   ---------  --------   --------
+<S>                           <C>     <C>        <C>         <C>        <C>        <C>
+Brasilia...................    21       59           30         300        300       6.8
+Canadair Regional Jet......     6       48           50         850        530       1.9
+</TABLE>
+
+SkyWest's aircraft are turboprop and jet aircraft designed to operate more
+economically over short-haul routes with lower passenger load factors than
+larger jet aircraft. These factors make it economically feasible for SkyWest to
+provide high frequency service in markets with relatively low volumes of
+passenger traffic. Passenger comfort features of these aircraft
+
+
+                                       9
+<PAGE>
+include stand-up headroom, a lavatory, overhead baggage compartments and flight
+attendant service. Fiscal year 1995 marked the introduction of the CRJs. SkyWest
+currently operates 54 of these aircraft on stage lengths up to 850 miles.
+
+During 2001, SkyWest took delivery of 33 CRJs in connection with the Delta
+Connection and United Express expansion. Additionally, as of December 31, 2001
+SkyWest had agreed to acquire an additional 96 CRJs and related spare parts
+inventory and support equipment at an aggregate cost of approximately $1.9
+billion. SkyWest commenced delivery of these aircraft in January 2002 and
+deliveries are scheduled to continue through January 2005. Depending on the
+state of the aircraft financing market at the time of delivery, management will
+determine whether to acquire these aircraft through third party, long-term loans
+or lease agreements. SkyWest also has options to acquire 119 additional CRJs at
+fixed prices (subject to cost escalations) and the delivery schedules are
+exercisable at various dates through April 2008.
+
+GROUND FACILITIES
+
+Employees of SkyWest perform substantially all routine airframe and engine
+maintenance and periodic inspection of equipment. Maintenance is performed
+primarily at facilities in Palm Springs, California, Salt Lake City, Utah, and
+Fresno, California. SkyWest owns a 56,600 square foot maintenance facility in
+Palm Springs, California and leases a 90,000 square foot aircraft maintenance
+and training facility at the Salt Lake City International Airport. The facility
+consists of a 40,000 square foot maintenance hangar and 50,000 square feet of
+training and other facilities. The facility was constructed and is owned by the
+Salt Lake City Airport Authority. SkyWest is leasing the facility under an
+operating lease arrangement over a 36-year term. The Company also leases a
+90,000 square foot maintenance hanger and 15,000 square foot office facility in
+Fresno, California. SkyWest finished construction on an additional aircraft
+maintenance and training facility in Salt Lake City during November 2001. This
+facility is 131,300 square feet, consisting of a 58,400 square foot maintenance
+hangar and 72,900 square feet of training and office space. In January 2002, the
+Company entered into a sale-lease-back agreement with the Salt Lake Airport
+Authority. Under the agreement the Company received approximately $18 million in
+cash in exchange for the newly constructed facility and entered into a 26 year
+operating lease agreement. The sales price was equal to the construction costs
+and no gain or loss was recognized.
+
+SkyWest leases ticket counters, check-in and boarding and other facilities in
+the passenger terminal areas in the majority of the airports it serves and
+staffs these facilities with SkyWest personnel. Delta and United provide ticket
+handling and/or ground support services for SkyWest in 52 of the 81 airports
+SkyWest serves.
+
+The Company's corporate headquarters are located in a 63,000 square foot
+building and a newly constructed 55,000 square foot building in St. George,
+Utah. The newly constructed facility is adjacent to the old office building and
+includes office space for maintenance management and flight operations including
+pilot management, dispatch and flight attendant management. The old office
+building is being remodeled to make more efficient use of space and should be
+fully operational in June 2002. Both facilities are owned by the Company and
+were internally funded with cash generated from operations. Management deems the
+Company's current facilities as being suitable and necessary to support existing
+operations and believes the Company's facilities will be adequate for the
+foreseeable future.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+The Company is subject to certain legal actions, which it considers routine to
+its business activities. As of December 31, 2001, management believes, after the
+consultation with legal counsel, that the ultimate outcome of such legal matters
+will not have a material adverse effect on the Company's financial position,
+liquidity or results of operations.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of year 2001.
+
+
+                                       10
+<PAGE>
+                                     PART II
+
+
+ITEM 5.   MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+The Company's common stock is traded on the Nasdaq National Market under the
+symbol "SKYW." At March 15, 2002, there were approximately 1,038 stockholders of
+record. Securities held of record do not include shares held in securities
+position listings. The following table sets forth the range of high and low
+closing sales prices for the Company's common stock, after adjustment for the
+stock dividend described below.
+
+<TABLE>
+<CAPTION>
+                                             2001                    2000
+                                      ------------------      ------------------
+Quarter                                High        Low         High         Low
+- -------                               ------      ------      ------      ------
+<S>                                   <C>         <C>         <C>         <C>
+First                                 $28.81      $17.75      $19.57      $13.75
+Second                                 30.49       20.56       23.25       16.94
+Third                                  33.94       11.25       25.86       18.68
+Fourth                                 26.50       17.17       29.97       23.37
+</TABLE>
+
+The transfer agent for the Company's common stock is Zions First National Bank,
+Salt Lake City, Utah.
+
+During 2000 and 2001, the Board of Directors declared regular quarterly
+dividends of $0.02 per quarter. On November 7, 2000, the Board of Directors
+declared a stock dividend, payable to stockholders of record on November 30,
+2000, of one share of the Company's common stock for each share of the Company's
+common stock outstanding on the record date.
+
+On February 5, 2002, the Company's Board of Directors declared a regular
+quarterly cash dividend of $0.02 per share payable to stockholders of record on
+March 29, 2002, distributable April 10, 2002.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+The information required by this item is incorporated herein by reference to
+page 13 of the Company's Annual Report to Shareholders for the year ended
+December 31, 2001, furnished herewith to the Commission as Exhibit 13.1 to this
+Report on Form 10-K.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+The information required by this item is incorporated herein by reference to
+pages 14 through 21 of the Company's Annual Report to Shareholders for the year
+ended December 31, 2001, furnished herewith to the Commission as Exhibit 13.1 to
+this Report on Form 10-K.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The information required by this item is incorporated herein by reference to
+pages 20 through 21 of the Company's Annual Report to Shareholders for the year
+ended December 31, 2001, furnished herewith to the Commission as Exhibit 13.1 to
+this Annual Report on Form 10-K.
+
+
+                                       11
+<PAGE>
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The consolidated financial statements of the Company included on pages 22
+through 36 of the Company's Annual Report to Shareholders for the year ended
+December 31, 2001, furnished herewith to the Commission as Exhibit 13.1 to this
+Report on Form 10-K, are incorporated herein by reference.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+                                    PART III
+
+All items in Part III are incorporated herein by reference to the Company's
+Proxy Statement for its 2002 annual stockholders meeting to be held May 7, 2002,
+to be filed with the Commission.
+
+<TABLE>
+<CAPTION>
+                                                                            Headings in
+                                                                          Proxy Statement
+                                                                          ---------------
+<S>        <C>                                                     <C>
+ITEM 10.   DIRECTORS AND EXECUTIVE OFFICERS                        "Election of Directors" and
+           OF THE REGISTRANT.                                      "Executive Officers"
+
+ITEM 11.   EXECUTIVE COMPENSATION.                                 "Executive Compensation" and
+                                                                   "Report of the Compensation
+                                                                    Committee"
+
+ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL                "Election of Directors" and
+              OWNERS AND MANAGEMENT.                               "Security Ownership of Certain
+                                                                    Beneficial Owners and Management"
+
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.         "Certain Relationships and
+                                                                    Related Transactions"
+</TABLE>
+
+
+
+                                       12
+<PAGE>
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+      (a)   Documents Filed:
+
+            1.    Financial Statements. The following consolidated financial
+                  statements of SkyWest, Inc., included in the Annual Report to
+                  Shareholders for the year ended December 31, 2001, are
+                  incorporated herein by reference in Item 8 of this Report on
+                  Form 10-K.
+
+                  -     Report of independent public accountants
+
+                  -     Consolidated balance sheets as of December 31, 2001 and
+                        2000
+
+                  -     Consolidated statements of income for the years ended
+                        December 31, 2001, 2000 and 1999
+
+                  -     Consolidated statements of stockholders' equity for the
+                        years ended December 31, 2001, 2000 and 1999
+
+                  -     Consolidated statements of cash flows for the years
+                        ended December 31, 2001, 2000 and 1999
+
+                  -     Notes to consolidated financial statements
+
+            2.    Financial Statement Schedules. The following consolidated
+                  financial statement schedule of SkyWest, Inc. is included in
+                  Item 14(d) hereof.
+
+                  -     Report of independent public accountants on financial
+                        statement schedule
+
+                  -     Schedule II -- Valuation and qualifying accounts
+
+            All other schedules for which provision is made in the applicable
+            accounting regulations of the Securities and Exchange Commission are
+            not required under the related instructions or are not applicable,
+            and therefore have been omitted.
+
+      (b)   Reports on Form 8-K.
+
+            None
+
+                                       13
+<PAGE>
+     (c)   Exhibits
+
+<TABLE>
+<CAPTION>
+                                                                            Incorporated by      Filed
+Number     Exhibit                                                             Reference        Herewith
+- ------     -------                                                          ----------------    --------
+<S>        <C>                                                              <C>                 <C>
+ 3.1       Restated Articles of Incorporation..............................       (1)
+
+ 3.2       Amended By-Laws.................................................       (3)
+
+ 4.1       Articles IV and VI of Restated Articles of Incorporation
+           describing the Common Shares and shareholders rights
+           (included in Exhibit 3.1).......................................       (1)
+
+ 4.2       Article II of the Amended By-Laws defining the
+           rights of Common Shareholders (included in
+           Exhibit 3.2)....................................................       (3)
+
+10.1       SkyWest, Inc. Amended and Combined Incentive and
+           Non-Statutory Stock Option Plan.................................       (3)
+
+10.2       Delta Connection agreement dated January 13, 1987
+           between Delta Air Lines, Inc. and SkyWest
+           Airlines, Inc...................................................       (2)
+
+10.3       United Express Agreement dated October 1, 1997 and
+           subsequent amendments dated January 15, 1998 and
+           February 9, 1998................................................       (6)
+
+10.4       Stock Option agreement dated January 28,
+           1987 between Delta Air Lines, Inc. and
+           SkyWest, Inc....................................................       (2)
+
+10.5       Lease Agreement dated December 1,1989 between
+           Salt Lake City Corporation and SkyWest Airlines,
+           Inc.............................................................       (4)
+
+10.6       SkyWest, Inc. 1995 Employee
+           Stock Purchase Plan.............................................       (5)
+
+10.7       SkyWest, Inc. Executive Stock Incentive Plan....................       (7)
+
+10.8       SkyWest, Inc. Allshare Stock Option Plan........................       (7)
+
+10.9       Master Purchase Agreement between Bombardier and
+           SkyWest Airlines, Inc...........................................       (8)
+
+13.1       Certain portions of the Annual Report to Shareholders
+           for the year ended December 31, 2001, are incorporated
+           by reference into this Report on Form 10-K......................                          X
+
+23.1       Consent of independent public accountants.......................                          X
+
+99.1       Arthur Andersen LLP quality assurance representation letter ....                          X
+
+</TABLE>
+
+                                       14
+
+
+<PAGE>
+- ----------
+
+(1)   Incorporated by reference to Registration Statement on Form S-1, File No.
+      33-5823.
+
+(2)   Incorporated by reference to Registrant's 10-Q filed for the quarter ended
+      December 31, 1986.
+
+(3)   Incorporated by reference to Registration Statement on Form S-8, File No.
+      33-41285.
+
+(4)   Incorporated by reference to Registrant's Form 10-K filed for the year
+      ended March 31, 1992.
+
+(5)   Incorporated by reference to Registrant's Form 10-K filed for the year
+      ended March 31, 1995.
+
+(6)   Incorporated by reference to Registrant's Forms 8-K filed on January 21,
+      1998 and February 11, 1998.
+
+(7)   Incorporated by reference to Registrant's Form 10-Q filed on July 28,
+      2000.
+
+(8)   Incorporated by reference to Registrant's Form 10-Q filed on February 13,
+      2001.
+
+
+                                       15
+<PAGE>
+(d)   Financial Statement Schedule.
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                         ON FINANCIAL STATEMENT SCHEDULE
+
+
+To SkyWest, Inc.:
+
+We have audited in accordance with auditing standards generally accepted in the
+United States, the consolidated financial statements included in SkyWest, Inc.'s
+Annual Report to Shareholders incorporated by reference in this Form 10-K, and
+have issued our report thereon dated February 22, 2002. Our audits were made for
+the purpose of forming an opinion on the basic financial statements taken as a
+whole. The schedule listed in Item 14(a)(2) is the responsibility of the
+Company's management and is presented for the purpose of complying with the
+Securities and Exchange Commission's rules and is not part of the basic
+financial statements. This schedule has been subjected to the auditing
+procedures applied in the audit of the basic financial statements and, in our
+opinion, fairly states in all material respects the financial data required to
+be set forth therein in relation to the basic financial statements taken as a
+whole.
+
+
+/s/ Arthur Andersen LLP
+
+Salt Lake City, Utah
+February 22, 2002
+
+
+                                       16
+<PAGE>
+                         SKYWEST, INC. AND SUBSIDIARIES
+
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+              FOR THE YEARS ENDED DECEMBER 31, 2001, 2000 AND 1999
+
+<TABLE>
+<CAPTION>
+                                                           Additions
+                                           Balance at      Charged to                          Balance
+                                           Beginning       Costs and                           at End
+           Description                      of Year         Expenses        Deductions         of Year
+           -----------                    ------------    ------------     ------------     ------------
+<S>                                       <C>             <C>              <C>              <C>
+Year Ended December 31, 2001:
+  Engine overhaul accrual                 $ 12,990,259    $  4,115,809     $(11,512,868)    $  5,593,200
+  Allowance for inventory obsolescence         480,000              --               --          480,000
+  Allowance for doubtful
+     accounts receivable                        57,922          35,544          (30,810)          62,656
+                                          ------------    ------------     ------------     ------------
+                                          $ 13,528,181    $  4,151,353     $(11,543,678)    $  6,135,856
+                                          ============    ============     ============     ============
+
+Year Ended December 31, 2000:
+  Engine overhaul accrual                 $  8,886,666    $  4,614,960     $   (511,367)    $ 12,990,259
+  Allowance for inventory obsolescence         380,000         100,000               --          480,000
+  Allowance for doubtful
+     accounts receivable                        62,125          81,782          (85,985)          57,922
+                                          ------------    ------------     ------------     ------------
+                                          $  9,328,791    $  4,796,742     $   (597,352)    $ 13,528,181
+                                          ============    ============     ============     ============
+
+Year Ended December 31, 1999:
+  Engine overhaul accrual                 $  6,285,321    $  3,981,140     $ (1,379,795)    $  8,886,666
+  Allowance for inventory obsolescence         180,000         200,000               --          380,000
+  Allowance for doubtful
+     accounts receivable                       105,870              --          (43,745)          62,125
+                                          ------------    ------------     ------------     ------------
+                                          $  6,571,191    $  4,181,140     $ (1,423,540)    $  9,328,791
+                                          ============    ============     ============     ============
+</TABLE>
+
+
+                                       17
+<PAGE>
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Act of
+1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+                                      SKYWEST, INC.
+
+                                      By /s/ Jerry C. Atkin
+                                         ---------------------------------------
+                                         Jerry C. Atkin
+                                         Chairman, President and Chief Executive
+                                            Officer
+
+Pursuant to the requirement of the Securities Act of 1934, this report has been
+signed below by the following persons in the capacities and on the dates
+indicated.
+
+
+<TABLE>
+<CAPTION>
+           Names                               Capacities                            Date
+           -----                               ----------                            ----
+<S>                          <C>                                                <C>
+
+/s/ Jerry C. Atkin                Chairman of the Board, President and          March 29, 2002
+- ----------------------------             Chief Executive Officer
+Jerry C. Atkin
+
+/s/ Sidney J. Atkin                    Vice Chairman of the Board               March 29, 2002
+- ----------------------------                  and Director
+Sidney J. Atkin
+
+/s/ Bradford R. Rich                    Executive Vice President,               March 29, 2002
+- ---------------------------       Chief Financial Officer and Treasurer
+Bradford R. Rich              (principal financial and accounting officer)
+
+/s/ J. Ralph Atkin                              Director                        March 29, 2002
+- ----------------------------
+J. Ralph Atkin
+
+/s/ Mervyn K. Cox                               Director                        March 29, 2002
+- ----------------------------
+Mervyn K. Cox
+
+/s/ Ian M. Cumming                              Director                        March 29, 2002
+- ----------------------------
+Ian M. Cumming
+
+/s/ Steven F. Udvar-Hazy                        Director                        March 29, 2002
+- ----------------------------
+Steven F. Udvar-Hazy
+
+
+/s/ Henry J. Eyring                             Director                        March 29, 2002
+- ----------------------------
+Henry J. Eyring
+
+/s/ Hyrum W. Smith                              Director                        March 29, 2002
+- ----------------------------
+Hyrum W. Smith
+
+/s/ Robert G. Sarver                            Director                        March 29, 2002
+- ----------------------------
+Robert G. Sarver
+</TABLE>
+
+
+                                       18
+<PAGE>
+SUMMARY FINANCIAL AND OPERATING DATA
+
+<TABLE>
+<CAPTION>
+                                                                     Year Ended December 31,
+                                        ----------------------------------------------------------------------------------
+                                           2001              2000              1999              1998              1997
+                                        ----------        ----------        ----------        ----------        ----------
+<S>                                     <C>               <C>               <C>               <C>               <C>
+Operating revenues (000)                $  601,865        $  522,997        $  455,122        $  352,470        $  262,134
+Operating income (000)                  $   75,256        $   89,047        $   82,819        $   55,658        $   27,348
+Net income (000)                        $   56,428        $   60,874        $   53,858        $   35,787        $   18,385
+
+Net income per common share(1):
+   Basic                                $     1.00        $     1.18        $     1.10        $     0.74        $     0.45
+   Diluted                              $     0.99        $     1.16        $     1.08        $     0.73        $     0.45
+
+Weighted average shares (000)(1):
+   Basic                                    56,365            51,521            48,964            48,316            40,716
+   Diluted                                  57,237            52,644            49,778            49,072            41,188
+Total assets (000)                      $  816,608        $  676,412        $  459,481        $  388,284        $  260,933
+Current assets (000)                    $  383,246        $  361,602        $  240,160        $  206,925        $  116,389
+Current liabilities (000)               $  104,026        $   81,935        $   79,684        $   66,657        $   47,659
+Long-term debt (000)                    $  113,688        $   75,751        $   53,873        $   56,817        $   51,248
+Stockholders' equity (000)              $  551,752        $  484,953        $  298,526        $  243,311        $  142,541
+Return on average equity                      10.9%             16.1%             19.9%             17.0%             14.0%
+
+OPERATING DATA
+Passengers carried                       6,229,867         5,598,499         5,446,872         4,422,328         2,898,972
+Revenue passenger miles (000)            1,732,180         1,277,001         1,161,918           938,172           744,716
+Available seat miles (000)               2,837,278         2,256,635         2,100,062         1,712,333         1,472,721
+Load factor                                   61.1%             56.6%             55.3%             54.8%             50.6%
+Break-even load factor                        53.5%             47.2%             45.6%             46.5%             45.7%
+Yield per revenue passenger mile             34.41 cents       40.42 cents       38.46 cents       36.85 cents       34.27 cents
+Revenue per available seat mile              21.21 cents       23.18 cents       21.67 cents       21.20 cents       17.84 cents
+Cost per available seat mile                 18.56 cents       19.23 cents       17.71 cents       17.70 cents       15.90 cents
+Average passenger trip length                  278               228               213               212               257
+Number of aircraft at end of year              129               103               102                60                60
+</TABLE>
+
+<PAGE>
+QUARTERLY FINANCIAL AND STOCK PRICE DATA
+
+<TABLE>
+<CAPTION>
+                                               Year ended December 31, 2001
+                                   --------------------------------------------------------
+                                    First       Second       Third      Fourth       Year
+                                   --------    --------    --------    --------    --------
+<S>                                <C>         <C>         <C>         <C>         <C>
+Operating revenues (000)           $131,194    $149,664    $155,540    $165,466    $601,865
+Operating income (000)             $ 11,232    $ 24,986    $ 20,133    $ 18,904    $ 75,256
+Net income (000)                   $ 10,193    $ 17,673    $ 14,495    $ 14,067    $ 56,428
+Net income per common share(1):
+    Basic                          $   0.18    $   0.32    $   0.26    $   0.25    $   1.00
+    Diluted                        $   0.18    $   0.31    $   0.25    $   0.25    $   0.99
+Stock price data(1):
+    High                           $  28.81    $  30.49    $  33.94    $  26.50    $  33.94
+    Low                            $  17.75    $  20.56    $  11.25    $  17.17    $  11.25
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                               Year ended December 31, 2000
+                                --------------------------------------------------------
+                                 First       Second      Third       Fourth       Year
+                                --------    --------    --------    --------    --------
+<S>                             <C>         <C>         <C>         <C>         <C>
+Operating revenues (000)        $123,098    $130,387    $138,631    $130,881    $522,997
+Operating income (000)          $ 21,363    $ 25,174    $ 26,673    $ 15,837    $ 89,047
+Net income (000)                $ 13,961    $ 16,547    $ 17,815    $ 12,551    $ 60,874
+Net income per common share:
+    Basic                       $   0.28    $   0.33    $   0.35    $   0.23    $   1.18
+    Diluted                     $   0.28    $   0.33    $   0.34    $   0.22    $   1.16
+Stock price data:
+    High                        $  19.57    $  23.25    $  25.86    $  29.97    $  29.97
+    Low                         $  13.75    $  16.94    $  18.68    $  23.37    $  13.75
+</TABLE>
+
+- ----------
+
+(1)   On November 7, 2000, the Board of Directors declared a 100% stock dividend
+      (one share for each share outstanding) payable to stockholders of record
+      on November 30, 2000. The dividend was distributed on December 15, 2000.
+      The Company paid cash in lieu of issuing fractional shares. All common
+      shares and per share information have been retro actively adjusted to
+      reflect the stock dividend.
+
+      As of December 31, 2001, there were 1,073 holders of common stock. Cash
+      dividends of $0.08 per share on outstanding common stock were declared in
+      each of the years ended December 31, 2001 and 2000.
+
+<PAGE>
+                MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                       CONDITION AND RESULTS OF OPERATIONS
+
+OVERVIEW
+
+The Company, through SkyWest Airlines, Inc. ("SkyWest"), operates a regional
+airline offering scheduled passenger service with over 1,000 daily departures to
+80 cities in 24 western states and Canada. All of SkyWest's flights are operated
+as either Delta Connection or United Express under code-sharing arrangements
+with Delta Air Lines, Inc., ("Delta") or United Airlines, Inc. ("United"). Total
+operating revenues and passengers carried have grown consistently from 1997
+through 2001, at compounded annual growth rates of approximately 23.1% and
+21.1%, respectively. In 1997, SkyWest generated approximately 1.5 billion
+available seat miles ("ASMs") and had a fleet of fifty 30-seat Embraer EMB-120
+Brasilia turboprops ("Brasilias") and ten Canadair Regional Jets ("CRJs") at
+year end. As a result of expanding the Company's code-sharing arrangements with
+Delta and United and additional aircraft acquisitions, SkyWest generated
+approximately 2.8 billion ASMs in 2001 with a fleet of 80 Brasilias and 45 CRJs
+at year end.
+
+SkyWest has been a code-sharing partner with Delta in Salt Lake City and United
+in Los Angeles since 1987 and 1997, respectively. In April 1998, SkyWest
+expanded its United Express Agreement to provide service as United Express in
+United's Portland and Seattle/Tacoma markets and in additional Los Angeles
+markets which began in April 1998. In January 1998, SkyWest expanded its
+operations to serve as the United Express carrier in San Francisco which began
+in June 1998. In November 2001, SkyWest expanded its operations to serve as the
+Delta Connection carrier in Dallas Ft. Worth. Today, SkyWest operates as the
+Delta Connection in Salt Lake City and Dallas Ft. Worth and as United Express in
+Los Angeles, San Francisco, Denver and in the Pacific Northwest. SkyWest
+believes that its success in attracting multiple code-sharing relationships is
+attributed to its delivery of high quality customer service with an all
+cabin-class fleet.
+
+The Company generated net income of $56.4 million in 2001, compared to $60.9
+million in 2000, and $53.9 million in 1999. During 1999, the Company sold the
+operations of Scenic Airlines, Inc., and recorded a loss on the sale of $0.4
+million net of income taxes. The amount has been reflected as Discontinued
+Operations in the Company's financial statements. Additionally, during 2000 the
+Company sold the operations of National Parks Transportation in order to focus
+on the core airline business and continued development of our Delta and United
+relationships. The sale resulted in an immaterial gain. Management believes that
+the Company's continued success reflects, among other factors, the expansion of
+service as a Delta Connection or United Express carrier in the western United
+States.
+
+Multiple code-sharing relationships have enabled SkyWest to reduce reliance on
+any single major airline code and to enhance and stabilize operating results
+through a mix of SkyWest-controlled flying and contract flying. On
+SkyWest-controlled flights, SkyWest controls scheduling, ticketing, pricing and
+seat inventories and receives a prorated portion of passenger fares. On contract
+routes, the major airline partner controls scheduling, ticketing, pricing and
+seat inventories with SkyWest receiving from its major airline partners
+negotiated payments per flight departure and incentives related to passenger
+volumes and levels of customer service. The Company transitioned all of its
+Delta Connection CRJ flights to contract flying October 1, 2001 and transitioned
+all if its Delta Connection Brasilia flights to contract flying effective
+January 1, 2002. This transition resulted in essentially all SkyWest flights
+operating as contract flying as of January 1, 2002. During the year ended
+December 31, 2001, approximately 55% of SkyWest's capacity was under the Delta
+code and 45% was under the United code. The Company has agreements to acquire an
+additional 96 CRJs and options for an additional 119 CRJs with deliveries which
+begin in January 2002. These aircraft will be allocated between the Company's
+Delta Connection and United Express operations.
+
+On September 11, 2001, the FAA grounded all flights to, from, and within the
+United States as a result of the terrorist attacks in New York, Washington D.C.,
+and Pennsylvania. All airports were closed and did not reopen until September
+13, 2001. When flights were permitted to resume, passenger traffic and yields
+were significantly lower than prior to the attacks. United reduced its flight
+schedule to approximately 80% of the schedule it flew prior to September 11th.
+As a result, SkyWest terminated the leases related to seven Brasilias flown
+under the United Code. The termination of these leases resulted in a $3.7
+million write-off of unamortized engine overhauls. To help compensate airlines
+for their losses, the U.S. Government passed the Air Transportation Safety and
+System Stabilization Act (the "Act"). Under this Act, management estimates that
+the Company will receive up to approximately $12.3 million to help compensate
+for losses resulting from the terrorist attacks of which $8.2 million had been
+recognized as of December 31, 2001.
+
+<PAGE>
+SIGNIFICANT ACCOUNTING POLICIES
+
+Revenue Recognition
+
+Passenger and freight revenues are recognized when service is provided. Under
+the Company's contract flying agreements with Delta and United, revenue is
+considered earned when the flight is completed. Passenger tickets sold but not
+used and the liability to other airlines are recorded as air traffic liability.
+
+In 2000 and 1997, the Company reached separate ten-year agreements with Delta
+and United, respectively, to fly routes under contract flying arrangements. The
+Company is compensated on a fee-per-departure basis plus incentive payments
+based on operational performance. The fee-per-departure and incentive amounts
+are negotiated on an annual basis based on projected operating costs.
+
+Management believes that substantially all of the Company's ongoing revenues
+will be generated pursuant to the contract flying arrangements with Delta and
+United. Revenue could be impacted by changes to the contracts, the annual
+contract negotiations and the Company's ability to earn the incentive payments.
+
+Maintenance
+
+The Company operates under an FAA approved continuous inspection and maintenance
+program. The Company's maintenance accounting policy is a combination of
+expensing certain events as incurred, accruing for certain maintenance events at
+rates estimated to be sufficient to cover those events and capitalizing the cost
+of certain maintenance events and expensing the capitalized cost over its
+estimated useful life (the "deferral method"). The Company uses the deferral
+method of accounting for overhauls of Brasilia engines. For the CRJs, through
+July 2001 the Company was accruing for the engine repair and overhaul costs on a
+per-flight-hour basis. The cost of normal recurring maintenance and any other
+maintenance costs are expensed as incurred. For leased aircraft, the Company is
+subject to lease return provisions that require that a minimum portion of the
+"life" of an overhaul be remaining on the engine at the lease return date. For
+Brasilia engine overhauls related to the leased aircraft to be returned, the
+Company adjusts the estimated useful lives of the final engine overhauls based
+on the respective lease return date.
+
+Effective August 1, 2001, the Company executed a sixteen-year engine services
+agreement with GE Engine Services, Inc. ("GE") covering the scheduled and
+unscheduled repair of SkyWest's CRJ jet engines operated on 146 CRJs already
+delivered or on order for the Delta Connection and United Express operations.
+Under the terms of the agreement, the Company pays a set dollar amount per
+engine hour flown on a monthly basis to GE and GE assumes the responsibility to
+repair the engines when required at no additional expense to the Company,
+subject to certain exclusions. The Company expenses the amount paid to GE based
+on the monthly rates stipulated in the agreement, as engine hours are flown. The
+Company's future maintenance expense on CRJ engines covered under the new
+agreement may increase based on changes in labor and aircraft parts indexes
+subject to escalation caps.
+
+Pursuant to the services agreement, GE agreed to assume the engine maintenance
+related to the Company's CRJ fleet at the effective date of the agreement. At
+inception of the agreement, the Company's engine overhaul accrual related to CRJ
+engines was approximately $5.6 million. This accrual will be amortized to offset
+a portion of the expense related to the services agreement.
+
+Impaired Long Lived Assets
+
+The Company has approximately $586 million of long-lived assets as of December
+31, 2001, including approximately $386 million of flight equipment and related
+fixed assets. In addition to the original cost of these assets, their recorded
+value is impacted by a number of policy elections made by the Company, including
+estimated useful lives and salvage values. The Company reviews its long-lived
+assets for impairment at each balance sheet date for events or changes in
+circumstances that may indicate the book value of an asset may not be
+recoverable. The Company uses an estimate of future undiscounted net cash flows
+of the related asset or group of assets over the remaining life in measuring
+whether the assets are recoverable. The Company assesses the impairment of
+long-lived assets at the lowest level for which there are identifiable cash
+flows that are independent of other groups of assets.
+
+<PAGE>
+NEW ACCOUNTING PRONOUNCEMENTS
+
+In June 1998, the Financial Accounting Standards Board, or FASB, issued
+Statement of Financial Accounting Standard, or SFAS No. 133, Accounting for
+Derivative Instruments and Hedging Activities, which requires companies to
+record derivative financial instruments on the balance sheet as assets or
+liabilities, measured at fair value. Gains or losses resulting from changes in
+the values of those derivatives are accounted for depending on the use of the
+derivative and whether it qualifies for hedge accounting. The key criterion for
+hedge accounting is that the hedging relationship must be highly effective in
+achieving offsetting changes in fair value or cash flows. In June 1999, the FASB
+issued SFAS No. 137, Accounting for Derivative Instruments and Hedging
+Activities -- Deferral of the Effective Date of FASB Statement No. 133, which
+amends SFAS No. 133 to be effective for all fiscal quarters of all fiscal years
+beginning after June 15, 2000. In June 2000, the FASB issued Statement No. 138,
+Accounting for Certain Derivative Instruments and Certain Hedging Activities --
+an Amendment of FASB Statement No. 133. SFAS No. 138 amends SFAS No. 133 to (a)
+exclude from the scope of SFAS No. 133 nonfinancial assets that will be
+delivered in quantities expected to be used or sold by a company over a
+reasonable period in the normal course of business and for which physical
+delivery is probable, (b) permit hedging of a benchmark interest rate, (c) allow
+hedging of foreign-currency-denominated assets and liabilities and (d) allow for
+limited hedging of net foreign currency exposures. The Company has no derivative
+financial and commodity instruments, forward contracts or hedging arrangements
+in cash and cash equivalents. The Company adopted these statements for the year
+ended December 31, 2001, which did not have a material impact on the Company's
+financial position or results of operations.
+
+In June 2001, the FASB issued SFAS No. 141, Business Combinations, and SFAS No.
+142, Goodwill and Other Intangible Assets. SFAS No. 141 requires that all
+business combinations initiated after June 30, 2001 be accounted for under the
+purchase method and addresses the initial recognition and measurement of
+goodwill and other intangible assets acquired in a business combination. SFAS
+No. 142 addresses the initial recognition and measurement of intangible assets
+acquired outside of a business combination and the accounting for goodwill and
+other intangible assets subsequent to their acquisition. SFAS No. 142 provides
+that intangible assets with finite useful lives be amortized and that goodwill
+and intangible assets with indefinite lives will not be amortized, but will
+rather be tested at least annually for impairment. The Company adopted SFAS No.
+141 and No. 142 on January 1, 2002, which did not have a material impact on the
+Company's financial position or results of operations.
+
+In August 2001, the FASB issued SFAS No. 143, Accounting for Asset Retirement
+Obligations, effective for fiscal years beginning after June 15, 2002, with
+earlier application encouraged. This statement requires entities to record the
+fair value of a liability for an asset retirement obligation in the period in
+which it is incurred. When the liability is initially recorded, the entity
+capitalizes the cost by increasing the carrying amount of the related long-lived
+asset. Over time, the liability is accreted to its present value each period,
+and the capitalized cost is depreciated over the useful life of the related
+asset. Upon settlement of the liability, an entity either settles the obligation
+for its recorded amount or incurs a gain or loss upon settlement. The adoption
+of SFAS No. 143 is not expected to have a material impact on the Company's
+results of operations, financial position or liquidity.
+
+In October 2001, the FASB issued SFAS No. 144, Accounting for the Impairment or
+Disposal of Long-Lived Assets, which replaces SFAS Statement No. 121, Accounting
+for the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed
+of, and is effective for years beginning after December 15, 2001. The accounting
+model for long-lived assets to be disposed of by sale applies to all long-lived
+assets, including discontinued operations, and replaces the provisions of APB
+Opinion No. 30, Reporting Results of Operations-Reporting the Effects of
+Disposal of a Segment of a Business, for the disposal of segments of a business.
+This statement requires that those long-lived assets be measured at the lower of
+carrying amount or fair value less cost to sell, whether reported in continuing
+operations or in discontinued operations. Therefore, discontinued operations
+will no longer be measured at net realizable value or include amounts for
+operating loses that have not yet occurred. This statement also broadens the
+reporting of discontinued operations. The adoption of SFAS No. 144 is not
+expected to have a material impact on the Company's results of operations,
+financial position or liquidity.
+
+RESULTS OF OPERATIONS
+
+The following table sets forth information regarding the Company's operating
+expense components. Airline operating expenses are expressed as a percentage of
+total airline operating revenues. Nonairline expenses are expressed as a
+percentage of total nonairline revenues. Total operating expenses and interest
+are expressed as a percentage of total consolidated revenues. Individual expense
+components are also expressed as cents per ASM.
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                             Year Ended December 31,
+                                           -----------------------------------------------------------------------------------------
+                                                       2001                            2000                          1999
+                                           ----------------------------     --------------------------    --------------------------
+                                                       Percent    Cents               Percent    Cents              Percent    Cents
+                                                         of        per                   of       per                 of        per
+                                            Amount     Revenue     ASM       Amount   Revenue     ASM      Amount   Revenue     ASM
+                                           ---------   --------   -----     --------  -------    -----    --------  -------    -----
+<S>                                        <C>         <C>         <C>      <C>       <C>        <C>      <C>       <C>        <C>
+Salaries, wages and employee benefits ...  $ 167,590     27.8%      5.9     $136,771    26.2%      6.1    $118,622    26.2%     5.7
+Aircraft costs ..........................    117,952     19.6       4.2       88,280    16.9       3.9      79,170    17.5      3.8
+Maintenance .............................     54,754      9.1       1.9       43,206     8.3       1.9      40,335     8.9      1.9
+Fuel ....................................     72,202     12.0       2.6       67,827    13.0       3.0      40,302     8.9      1.9
+Other airline expenses ..................    122,292     20.3       4.3       96,942    18.6       4.3      91,267    20.2      4.4
+US government assistance ................     (8,181)    (1.4)     (0.3)          --     0.0       0.0          --     0.0      0.0
+Interest ................................         --      0.0       0.0        2,511     0.5       0.1       2,992     0.7       .2
+                                           ---------               ----     --------             -----    --------             ----
+Total airline expenses ..................    526,609               18.6      435,537              19.3     372,688             17.9
+                                           ---------               ----     --------             -----    --------             ----
+Other ...................................         --                             924                         2,607
+                                           ---------                        --------                      -------
+Total operating expenses and interest ...  $ 526,609               18.6     $436,461              19.3    $375,295             17.9
+                                           =========               ====     ========             =====    ========             ====
+</TABLE>
+
+2001 COMPARED TO 2000
+
+Net income for the year ended December 31, 2001, was $56.4 million, or $0.99 per
+share on a diluted basis, compared to $60.9 million or $1.16 per share on a
+diluted basis for the year ended December 31, 2000. The principal reason for the
+decrease in net income was due to the disruption of service on September 11,
+2001, when the FAA grounded all flights as a result of the terrorist attacks in
+New York, Washington, D.C. and Pennsylvania and the subsequent decrease in
+demand for airline service. Additionally, the Company experienced decreases in
+passenger revenues as a result of the weakening economy. However, despite these
+factors, consolidated operating revenues increased 15.1% to $601.9 million for
+the year ended December 31, 2001 from $523.0 million for the year ended December
+31, 2000.
+
+Passenger revenues, which represented 99.0% of consolidated operating revenues,
+increased 15.5% to $596.0 million for the year ended December 31, 2001 from
+$516.2 million or 98.7% of consolidated operating revenues for the year ended
+December 31, 2000. The increase was due primarily to a 35.6% increase in revenue
+passenger miles as the Company continued to increase its services with its
+code-sharing partners and placed 30 CRJs in service. Seventeen were scheduled
+deliveries and 13 were remarketed by the aircraft manufacturer. Twenty-five of
+these aircraft were placed in service under the Delta Connection operations and
+five were placed in service under the United Express operations. Additionally,
+during the year ended December 31, 2001, seven Brasilias were returned to the
+lessor early, resulting in a $3.7 million write-off of unamortized engine
+overhauls and three Brasilias were returned to the lessor due to normal lease
+expirations. All ten Brasilias were flown under the United Express operations.
+Revenue per available seat mile decreased 8.6% to 21.2 cents for the year ended
+December 31, 2001 from 23.2 cents for the year ended December 31, 2000 primarily
+due to an increase in ASMs produced by CRJs and the disruption in service
+resulting from the September 11th terrorist attacks.
+
+Passenger load factor increased to 61.1% for the year ended December 31, 2001
+from 56.6% for the year ended December 31, 2000. The increase in load factor was
+due primarily to the further development of code-sharing relationships with
+United and Delta whereby SkyWest is experiencing higher than average load
+factors as the Company transitions to CRJs in its new markets. The increase was
+also due, in part, to refinements in SkyWest's flight schedules.
+
+Total operating expenses and interest increased 20.6% to $526.6 million for the
+year ended December 31, 2001 compared to $436.5 million for the year ended
+December 31, 2000. As a percentage of consolidated operating revenues, total
+operating expenses and interest increased to 87.5% for the year ended December
+31, 2001 from 83.5% for the year ended December 31, 2000. The total increase in
+operating expenses as a percentage of consolidated operating revenues was
+primarily due to the service disruption resulting from the September 11th
+terrorist attacks on the US, and increased infrastructure and build-up costs
+associated with new aircraft deliveries in connection with SkyWest's planned
+expansion.
+
+Airline operating costs per ASM (including interest expense) decreased 3.6% to
+18.6 cents for the year ended December 31, 2001 from 19.3 cents for the year
+ended December 31, 2000 despite the September 11th events. The primary reason
+for the decrease was the increased capacity by CRJs which are less expensive to
+operate on an ASM basis than the Brasilias. Additionally, during the year ended
+2001, the Company recognized approximately $8.2 million in funds received under
+Air Transportation Safety and System Stabilization Act
+
+<PAGE>
+which partially offset increased costs caused by the September 11, 2001
+terrorist attacks. Other factors relating to the change in operating expenses
+are discussed below.
+
+Salaries, wages and employee benefits increased as a percentage of airline
+operating revenues to 27.8% for the year ended December 31, 2001 from 26.2% for
+the year ended December 31, 2000. The increase was principally the result of the
+service disruption and the decrease in demand for airline service resulting from
+the September 11th events. The average number of full-time equivalent employees
+for the year ended December 31, 2001 was 4,726 compared to 4,160 for the year
+ended December 31, 2000, an increase of 13.6%. The increase in number of
+employees was due in large part, to the addition of personnel required for
+SkyWest's current and anticipated expansion. Salaries, wages and employee
+benefits per ASM decreased to 5.9 cents for the year ended December 31, 2001
+compared to 6.1 cents for the year ended December 31, 2000. The decrease in
+costs was due to the increase in stage lengths flown by CRJs that have been
+added to SkyWest's fleet and continued operational improvements.
+
+Aircraft costs, including aircraft rent and depreciation, increased as a
+percentage of airline operating revenues to 19.6% for the year ended December
+31, 2001 from 16.9% for the year ended December 31, 2000. The increase was due
+primarily to the early termination and return of seven leased Brasilias flown
+under the United code. The termination of these leases resulted in a $3.7
+million write-off of unamortized engine overhauls related to the aircraft.
+Aircraft costs per ASM increased slightly to 4.2 cents for the year ended
+December 31, 2001 from 3.9 cents for the year ended December 31, 2000. The
+increase in costs was due to the $3.7 million write-off, a higher mix of new
+aircraft within the fleet and build-up costs associated with the delivery of
+these new aircraft.
+
+Maintenance expense increased as a percentage of airline operating revenues to
+9.1% for the year ended December 31, 2001 compared to 8.3% for the year ended
+December 31, 2000. The increase was due primarily to airline operating revenues
+increasing only 15.5% period-over-period, while ASMs increased 25.7%.
+Maintenance expense increased 26.7% period-over-period due to the increase in
+ASMs and increased general maintenance costs in connection with the return of
+three Brasilias through lease termination. Maintenance expense per ASM remained
+constant at 1.9 cents for both periods because the increase in ASMs produced by
+the CRJs was offset by the $3.7 million write-off relating to the early
+termination of seven Brasilia leases.
+
+Fuel costs decreased as a percentage of airline operating revenues to 12.0% for
+the year ended December 31, 2001 from 13.0% for the year ended December 31,
+2000. This decrease was primarily due to the average price of fuel decreasing
+13.4% per gallon to $1.03 from $1.19. Fuel costs per ASM decreased to 2.6 cents
+for the year ended December 31, 2001 from 3.0 cents for the year ended December
+31, 2000.
+
+Other expenses, primarily consisting of commissions, landing fees, station
+rentals, computer reservation system fees and hull and liability insurance,
+increased as a percentage of airline operating revenues to 20.3% for the year
+ended December 31, 2001 from 18.6% for the year ended December 31, 2000. The
+increase was primarily the result of SkyWest aircraft being grounded because of
+the September 11, 2001 terrorist attacks and the increase in liability insurance
+as a result of the September 11th events. Expenses other than insurance per ASM
+remained constant at 4.3 cents for both years ended December 31, 2001 and 2000
+due to the change in mix from the thirty-seat Brasilias to the fifty-seat CRJs.
+
+In September 2001, the U.S. Federal Government passed the Air Transportation
+Safety and System Stabilization Act (the "Act"). Under the Act, funds were made
+available to compensate air carriers for direct losses suffered as a result of
+any Federal ground stop order and incremental losses beginning September 11,
+2001, and ending December 31, 2001, resulting from the September 11, 2001,
+terrorist attacks on the United States. Management estimates that the Company
+will receive up to approximately $12.3 million under the Act to partially
+compensate for losses resulting from the September 11, 2001 terrorist attacks.
+During the year ended December 31, 2001, the Company recognized approximately
+$8.2 million under the Act as a Contra expense in its consolidated statement of
+income.
+
+2000 COMPARED TO 1999
+
+Net income for the year ended December 31, 2000 was $60.9 million, or $1.16 per
+share on a diluted basis, compared to $53.9 million, or $1.08 per share on a
+diluted basis, for the year ended December 31, 1999. Consolidated operating
+revenues increased 14.9% to $523.0 million for the year ended December 31, 2000
+from $455.1 million for the year ended December 31, 1999.
+
+Passenger revenues, which represented 98.7% of consolidated operating revenues,
+increased 15.5%, to $516.2 million, for the year ended December 31, 2000 from
+$446.9 million or 98.2% of consolidated operating revenues for the year ended
+December 31, 1999. The increase was due primarily to a 9.9% increase in revenue
+passenger miles as the Company continued to increase its services with
+
+<PAGE>
+its code-sharing partners and took delivery of four CRJs. Two of these aircraft
+were placed in service under the Delta Connection operations and two were placed
+in service under the United Express operations. Additionally, during the year
+ended December 31, 2000, one Brasilia was returned to the lessor due to the
+lease expiration. On SkyWest-controlled flights, SkyWest continued its efforts
+to maximize revenue by use of a sophisticated revenue management and control
+system that utilizes historical booking data and trends to optimize revenue.
+Revenue per ASM increased 6.9% to 23.2 cents for the year ended December 31,
+2000 from 21.7 cents for the year ended December 31, 1999.
+
+Passenger load factor increased to 56.6% for the year ended December 31, 2000
+from 55.3% for the year ended December 31, 1999. The increase in load factor was
+due primarily to the further development of code-sharing relationships with
+United and Delta whereby SkyWest experienced higher than average load factors in
+its new markets. The increase was also due, in part, to refinements in SkyWest's
+flight schedules.
+
+Total operating expenses and interest increased 16.3% to $436.5 million for the
+year ended December 31, 2000 compared to $375.3 million for the year ended
+December 31, 1999. As a percentage of consolidated operating revenues, total
+operating expenses and interest increased to 83.5% for the year ended December
+31, 2000 from 82.5% for the year ended December 31, 1999. The total increase in
+operating expenses as a percentage of consolidated operating revenues was
+primarily due to build-up costs associated with future aircraft deliveries in
+SkyWest's planned expansion.
+
+Airline operating costs per ASM (including interest expense) increased 7.8% to
+19.3 cents for the year ended December 31, 2000 from 17.9 cents for the year
+ended December 31, 1999. The primary reason for the increase was due to build-up
+costs associated with future aircraft deliveries in SkyWest's planned expansion.
+Other factors relating to the change in operating expenses are discussed below.
+
+Salaries, wages and employee benefits as a percentage of airline operating
+revenues remained constant at 26.2% for both years ended December 31, 2000 and
+1999. The average number of full-time equivalent employees for the year ended
+December 31, 2000 was 4,160 compared to 3,572 for the year ended December 31,
+1999, an increase of 16.5%. The increase in number of personnel was due in large
+part, to the addition of personnel required for SkyWest's expansion. Salaries,
+wages and employee benefits per ASM increased to 6.1 cents for the year ended
+December 31, 2000 from 5.7 cents for the year ended December 31, 1999. The
+increase in costs was due primarily to the increase in the number of full-time
+employees required for future expansion.
+
+Aircraft costs, including aircraft rent and depreciation, decreased as a
+percentage of airline operating revenues to 16.9% for the year ended December
+31, 2000 from 17.5% for the year ended December 31, 1999. The decrease in cost
+is primarily due to operating revenues increasing 15.5% year over year and
+aircraft costs increasing only 11.5% year over year. Aircraft costs per ASM
+increased to 3.9 cents for the year ended December 31, 2000 from 3.8 cents for
+the year ended December 31, 1999. The increase in cost is due to a higher mix of
+new aircraft within the fleet and build-up costs associated with the delivery of
+new aircraft.
+
+Maintenance expense decreased as a percentage of airline operating revenues to
+8.3% for the year ended December 31, 2000 from 8.9% for the year ended December
+31, 1999. The decrease was due to airline operating revenues increasing 15.5%
+year over year and maintenance expenses increasing only 7.1% year over year.
+Maintenance cost per ASM was 1.9 cents for both years 2000 and 1999.
+
+Fuel costs increased as a percentage of airline operating revenues to 13.0% for
+the year ended December 31, 2000 from 8.9% for the year ended December 31, 1999.
+The increase was due primarily to the average price of fuel increasing 13.3% per
+gallon to $1.19 from $1.05. Fuel costs per ASM increased to 3.0 cents for the
+year ended December 31, 2000 from 1.9 cents for the year ended December 31, 1999
+as a result of the price per gallon increase.
+
+Other expenses, primarily consisting of commissions, landing fees, station
+rentals, computer reservation system fees and hull and liability insurance,
+decreased as a percentage of airline operating revenues to 18.6% for the year
+ended December 31, 2000 from 20.2% for the year ended December 31, 1999. Other
+expenses per available seat mile decreased to 4.3 cents for the year ended
+December 31, 2000 from 4.4 cents for the year ended 2000 due to the change in
+mix from the thirty-seat Brasilias to the fifty-seat CRJs.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company had working capital of $279.2 million and a current ratio of 3.7:1
+at December 31, 2001 compared to working capital of $279.7 million and a current
+ratio of 4.4:1 at December 31, 2000. The decrease in working capital was
+primarily the result of the Company's acquisition of 33 CRJ's and the associated
+build-up costs. The other principal sources of funds during calendar 2001 were
+$137.9 million generated from operations, $50.1 million of proceeds from the
+issuance of long-term debt, $9.9 million from the sale of
+
+<PAGE>
+common stock in connection with the exercise of stock options and the Employee
+Stock Purchase Plan, and $0.5 million of proceeds from the sale of property and
+equipment. During 2001, the Company invested $113.4 million in flight equipment,
+$43.7 million in marketable securities, $35.2 million in buildings, ground
+equipment and other assets and $17.4 million in net deposits on aircraft and
+rotables. The Company also reduced long-term debt by $10.2 million and paid $4.5
+million in cash dividends. These factors resulted in a $26.0 million decrease in
+cash and cash equivalents during 2001.
+
+The Company's position in marketable securities, consisting primarily of bonds,
+bond funds and commercial paper, increased to $270.5 million at December 31,
+2001 compared to $227.4 million at December 31, 2000. At December 31, 2001,
+total capital mix was 82.9% equity and 17.1% debt compared to 86.5% equity and
+13.5% debt at December 31, 2000.
+
+The Company expended approximately $79.7 million for non-aircraft capital
+expenditures during the year ended December 31, 2001. These expenditures
+consisted primarily of $34.3 million for buildings and ground equipment, $22.6
+million for aircraft engine overhauls, $21.4 million for rotable spares, and
+$1.4 million for aircraft improvements.
+
+The Company has available $10.0 million in an unsecured bank line of credit
+through December 15, 2002, with interest payable at the bank's base rate less
+one-quarter percent, which was a net rate of 4.5% at December 31, 2001. The
+Company believes that in the absence of unusual circumstances the working
+capital available to the Company will be sufficient to meet its present
+requirements, including expansion, capital expenditures, lease payments and debt
+service requirements for at least the next 12 months.
+
+SIGNIFICANT COMMITMENTS AND OBLIGATIONS
+
+The following table summarizes SkyWest's commitments and obligations for the
+years ending December 31, 2002 and 2003 (in millions):
+
+<TABLE>
+<CAPTION>
+                                                        2002            2003
+                                                      ---------       --------
+<S>                                                   <C>             <C>
+Firm aircraft commitments                             $ 635,500       $738,000
+Operating lease payments for aircraft and
+        facility obligations                             97,475         93,612
+Principal maturities on long-term debt                   12,151         11,492
+                                                      ---------       --------
+Total commitments and obligations                     $ 745,126       $843,104
+                                                      =========       ========
+</TABLE>
+
+During the 2001 year, SkyWest took delivery of 33 CRJs in connection with the
+Delta Connection and United Express expansion. Additionally, as of December 31,
+2001 SkyWest had agreed to acquire an additional 96 CRJs and related spare parts
+inventory and support equipment at an aggregate cost of approximately $1.9
+billion. SkyWest commenced delivery of these aircraft in July 2000 and
+deliveries are scheduled to continue through January 2005. Depending on the
+state of the aircraft financing market at the time of delivery, management will
+determine whether to acquire these aircraft through third party, long-term loans
+or lease agreements. SkyWest also has options to acquire 119 additional CRJs at
+fixed prices (subject to cost escalations) and delivery schedules. The options
+are exercisable at various dates through April 2008.
+
+The Company has significant long-term lease obligations primarily relating to
+its aircraft fleet. These leases are classified as operating leases and
+therefore are not reflected as liabilities in the Company's consolidated balance
+sheets. At December 31, 2001, the Company leased 104 aircraft with remaining
+lease terms ranging from one to 16 years. Future minimum lease payments due
+under all long-term operating leases were approximately $1.1 billion at December
+31, 2001. At a 7.5% discount factor, the present value of these lease
+obligations would be equal to approximately $668.9 million at December 31, 2001.
+
+The Company's long-term debt was incurred in connection with the acquisition of
+Brasilia and CRJ aircraft. Certain amounts related to the Brasilia aircraft are
+supported by continuing subsidy payments through the export support program of
+the Federative Republic of Brazil. The subsidy payments reduce the stated
+interest rates to an average effective rate of approximately 3.7%, on $22.5
+million of the long-term debt, at December 31, 2001. The continuing subsidy
+payments are at risk to the Company if the Federative Republic of Brazil does
+not meet its obligations under the export support program. While the Company has
+no reason to believe, based on information currently available, that the Company
+will not continue to receive these subsidy payments from the Federative Republic
+of Brazil in the future, there can be no assurance that such a default will not
+occur. On the remaining long-term debt related to the Brasilia aircraft of $22.4
+million, the lender has assumed the risk of the subsidy payments and the average
+effective rate on this debt is
+
+<PAGE>
+approximately 3.8% at December 31, 2001. The average effective rate on the debt
+related to the CRJ aircraft of $80.9 million was 6.1% at December 31, 2001, and
+is not subject to subsidy payments.
+
+SEASONALITY
+
+As is common in the airline industry, SkyWest's operations are favorably
+affected by increased travel, historically occurring in the summer months, and
+are unfavorably affected by decreased business travel during the months from
+November through January and by inclement weather which occasionally results in
+cancelled flights, principally during the winter months. However, SkyWest does
+expect some mitigation of the historical seasonal trends due to an increase in
+the portion of its operations in contract flying.
+
+FORWARD-LOOKING STATEMENTS
+
+The Company may, from time-to-time, make written or oral forward-looking
+statements. Forward-looking statements may appear in documents filed with the
+Securities and Exchange Commission, in press releases, and in report to
+stockholders. The Private Securities Litigation Reform Act of 1995 contains a
+safe harbor for forward-looking statements. The Company relies on this safe
+harbor in making such disclosures. When used in this document, the words
+"anticipate", "estimate", "project", "expect", and similar expressions are
+intended to identify forward-looking statements. Although Management believes
+that the expectations reflected in such forward-looking statements are
+reasonable, the Company can give no assurance that such expectations will prove
+to have been correct. Such statements are subject to certain risks,
+uncertainties and assumptions. Should one or more of these risks or
+uncertainties materialize, or should underlying assumptions prove incorrect,
+actual results may vary materially from those anticipated, estimated, projected
+or expected. Among the key factors that have a direct bearing on the Company's
+operating results include, among other things, employee relations and labor
+costs, changes in SkyWest's contractual arrangements with it major partners,
+fluctuations in the economy and the demand for air travel, the degree and nature
+of competition and SkyWest's ability to expand services in new and existing
+markets and to maintain profit margins in the face of pricing pressures.
+
+<PAGE>
+           QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+AIRCRAFT FUEL
+
+The Company is exposed to fluctuations in the price and availability of aircraft
+fuel that affect the Company's earnings. The Company's financial statements
+reflect both the cost of fuel purchased for SkyWest-controlled flights, as well
+as fuel purchased for contract flights which is subject to reimbursement by our
+code-sharing partners. During the year ended 2001, the Company limited its
+exposure to fuel price increases with respect to approximately 76% of ASMs
+produced, due to contractual arrangements with Delta and United. These major
+airlines reimburse the Company for the actual cost of fuel on contracted
+flights. For illustrative purposes only, we have estimated the impact of market
+risk using a hypothetical increase in fuel price per gallon of 10% for the year
+ended December 31, 2001 and 2000. Based on this hypothetical assumption and
+after considering the impact of the contractual arrangements, the Company would
+have experienced an increase in fuel expense of approximately $2,816,000 for the
+year ended December 31, 2001 and $2,636,000 for the year ended December 31,
+2000. The Company currently intends to use cash generated by operating
+activities to fund any adverse change in the price of fuel. Under contract
+flying, the Company is able to pass through all fuel costs to the major
+partners, thus mitigating any fuel cost exposure. The Company transitioned
+essentially all flying to contract flying January 1, 2002.
+
+INTEREST RATES
+
+The Company's earnings are affected by changes in interest rates due to the
+amounts of variable rate long-term debt and the amount of cash and securities
+held. The interest rates applicable to variable rate notes may rise and increase
+the amount of interest expense. However, the Company would also receive higher
+amounts of interest income on its cash and securities held at the time. At
+December 31, 2001, the Company had variable rate notes representing 12.7% of the
+total long-term debt and 22.2% at December 31, 2000. For illustrative purposes
+only, the impact of market risk is estimated using a hypothetical increase in
+interest rates of one percentage point for both the Company's variable rate
+long-term debt and cash and securities. Based on this hypothetical assumption,
+the Company would have incurred an additional $193,000 in interest expense and
+received $2,868,000 in additional interest income for the year ended December
+31, 2001 and an additional $142,000 in interest expense and received $2,262,000
+in additional interest income for the year ended December 31, 2000. As a result
+of this hypothetical assumption, the Company believes it could fund interest
+rate increases on its variable rate long-term debt with the increased amounts of
+interest income. Management does not believe the Company has significant
+exposure to the changing interest rates on its fixed-rate long-term debt
+instruments, which represent 87.3% of the total long-term debt at December 31,
+2001 and 77.8% at December 31, 2000.
+
+<PAGE>
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To SkyWest, Inc.:
+
+        We have audited the accompanying consolidated balance sheets of SkyWest,
+Inc. and subsidiaries as of December 31, 2001 and 2000, and the related
+consolidated statements of income, stockholders' equity and cash flows for each
+of the three years in the period ended December 31, 2001. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+        We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+        In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of SkyWest, Inc. and
+subsidiaries as of December 31, 2001 and 2000, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 2001 in conformity with accounting principles generally accepted in
+the United States.
+
+/s/ Arthur Andersen LLP
+
+Salt Lake City, Utah
+February 22, 2002
+<PAGE>
+                         SKYWEST, INC. AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                             (Dollars in thousands)
+
+
+                                     ASSETS
+
+
+<TABLE>
+<CAPTION>
+                                             December 31,    December 31,
+                                                2001            2000
+                                             ---------        ---------
+<S>                                          <C>              <C>
+CURRENT ASSETS:
+   Cash and cash equivalents                 $  40,194        $  66,190
+   Marketable securities                       270,520          227,440
+   Receivables, net                             20,112           23,208
+   Inventories                                  23,283           18,982
+   Prepaid aircraft rents                       14,468           10,712
+   Other current assets                         14,669           15,070
+                                             ---------        ---------
+
+     Total current assets                      383,246          361,602
+                                             ---------        ---------
+
+PROPERTY AND EQUIPMENT:
+   Aircraft and rotable spares                 385,501          291,381
+   Deposits on aircraft                        115,892           98,510
+   Buildings and ground equipment               84,231           50,550
+                                             ---------        ---------
+
+                                               585,624          440,441
+   Less-accumulated depreciation and
+       amortization                           (155,566)        (128,254)
+                                             ---------        ---------
+
+     Total property and equipment, net         430,058          312,187
+                                             ---------        ---------
+
+OTHER ASSETS                                     3,304            2,623
+                                             ---------        ---------
+
+     Total assets                            $ 816,608        $ 676,412
+                                             =========        =========
+</TABLE>
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+
+<PAGE>
+                         SKYWEST, INC. AND SUBSIDIARIES
+                     CONSOLIDATED BALANCE SHEETS (Continued)
+                             (Dollars in thousands)
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+
+<TABLE>
+<CAPTION>
+                                                     December 31,      December 31,
+                                                         2001             2000
+                                                      ---------        ---------
+<S>                                                   <C>              <C>
+CURRENT LIABILITIES:
+   Current maturities of long-term debt               $  12,151        $  10,174
+   Accounts payable                                      63,974           41,273
+   Accrued salaries, wages and benefits                  17,571           13,687
+   Engine overhaul accrual                                5,593           12,990
+   Taxes other than income taxes                          3,845            2,163
+   Air traffic liability                                    892            1,648
+                                                      ---------        ---------
+
+     Total current liabilities                          104,026           81,935
+                                                      ---------        ---------
+
+LONG-TERM DEBT, net of current maturities               113,688           75,751
+                                                      ---------        ---------
+
+DEFERRED INCOME TAXES PAYABLE                            41,643           33,773
+                                                      ---------        ---------
+
+DEFERRED AIRCRAFT CREDITS                                 5,499               --
+                                                      ---------        ---------
+
+COMMITMENTS AND CONTINGENCIES (Note 4)
+
+STOCKHOLDERS' EQUITY:
+   Preferred stock, 5,000,000 shares authorized;             --               --
+   none issued Common stock, no par value,
+   120,000,000 shares authorized; 62,723,510 and        309,691          294,187
+   61,686,038 shares issued, respectively Retained      263,936          212,026
+   earnings Treasury stock, at cost, 5,898,400          (20,285)         (20,285)
+   shares Accumulated other comprehensive loss           (1,590)            (975)
+   (Note 1)                                           ---------        ---------
+
+                                                        551,752          484,953
+     Total stockholders' equity                       ---------        ---------
+
+                                                      $ 816,608        $ 676,412
+     Total liabilities and stockholders' equity       =========        =========
+
+</TABLE>
+
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                         SKYWEST, INC. AND SUBSIDIARIES
+                        CONSOLIDATED STATEMENTS OF INCOME
+                    (In thousands, except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                  For the Year ended December 31,
+                                                            --------------------------------------------
+                                                              2001             2000             1999
+                                                            ---------        ---------        ---------
+<S>                                                         <C>              <C>              <C>
+Operating revenues:
+   Passenger                                                $ 595,985        $ 516,159        $ 446,877
+   Freight and other                                            5,880            6,838            8,245
+                                                            ---------        ---------        ---------
+       Total operating revenues                               601,865          522,997          455,122
+                                                            ---------        ---------        ---------
+
+Operating expenses:
+   Flying operations                                          251,262          208,932          163,314
+   Customer service                                            97,827           72,079           65,367
+   Maintenance                                                 79,089           63,318           57,437
+   Depreciation and amortization                               45,768           32,575           27,402
+   Promotion and sales                                         25,747           26,593           29,454
+   General and administrative                                  35,097           29,529           26,722
+   US Government airline assistance                            (8,181)              --               --
+  Other                                                            --              924            2,607
+                                                            ---------        ---------        ---------
+       Total operating expenses                               526,609          433,950          372,303
+                                                            ---------        ---------        ---------
+
+Operating income                                               75,256           89,047           82,819
+                                                            ---------        ---------        ---------
+Other income (expense):
+   Interest expense                                                --           (2,511)          (2,992)
+   Interest income                                             17,249           12,532            8,149
+   Gain on sales of property and equipment                         --              518              364
+                                                            ---------        ---------        ---------
+       Total other income, net                                 17,249           10,539            5,521
+                                                            ---------        ---------        ---------
+
+Income from continuing operations before
+  provision for income taxes                                   92,505           99,586           88,340
+Provision for income taxes                                     36,077           38,712           34,034
+                                                            ---------        ---------        ---------
+
+Income from continuing operations                              56,428           60,874           54,306
+                                                            ---------        ---------        ---------
+
+Discontinued operations, net of income taxes:
+  Loss from operations of Scenic Airlines                          --               --             (448)
+                                                            ---------        ---------        ---------
+       Total discontinued operations                               --               --             (448)
+                                                            ---------        ---------        ---------
+
+Net income                                                  $  56,428        $  60,874        $  53,858
+                                                            =========        =========        =========
+
+Income from continuing operations per common share:
+  Basic                                                     $    1.00        $    1.18        $    1.11
+  Diluted                                                   $    0.99        $    1.16        $    1.09
+Loss from discontinued operations per common share:
+  Basic and diluted                                                --               --        $   (0.01)
+Net income per common share:
+   Basic                                                    $    1.00        $    1.18        $    1.10
+   Diluted                                                  $    0.99        $    1.16        $    1.08
+Weighted average number of common shares outstanding:
+  Basic                                                        56,365           51,521           48,964
+  Diluted                                                      57,237           52,644           49,778
+</TABLE>
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+<PAGE>
+                         SKYWEST, INC. AND SUBSIDIARIES
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                    (In thousands, except per share amounts)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                           Accumulated
+                                             Common Stock                           Treasury Stock            Other
+                                          --------------------     Retained     -----------------------   Comprehensive
+                                          Shares       Amount      Earnings       Shares       Amount         Loss          Total
+                                         --------    ---------    ---------     ---------     ---------     ---------     ---------
+<S>                                      <C>         <C>          <C>           <C>           <C>         <C>             <C>
+Balance at December 31, 1998               54,383    $ 159,151    $ 104,445        (5,898)    $ (20,285)    $      --     $ 243,311
+   Net income                                  --           --       53,858            --            --            --        53,858
+   Exercise of common stock options           531        2,497           --            --            --            --         2,497
+   Sale of common stock under
+       employee stock purchase plan           130        1,475           --            --            --            --         1,475
+   Tax benefit from exercise of common
+       stock options                           --          328           --            --            --            --           328
+   Cash dividends ($0.06 per share)            --           --       (2,943)           --            --            --        (2,943)
+                                         --------    ---------    ---------     ---------     ---------     ---------     ---------
+
+Balance at December 31, 1999               55,044      163,451      155,360        (5,898)      (20,285)           --       298,526
+                                                                                                                          ---------
+  Comprehensive income:
+   Net income                                  --           --       60,874            --            --            --        60,874
+   Net unrealized depreciation
+     on marketable securities                  --           --           --            --            --          (975)         (975)
+                                                                                                                          ---------
+     Total comprehensive income                --           --           --            --            --            --        59,899
+  Exercise of common stock options            672        2,496           --            --            --            --         2,496
+  Sale of common stock under
+   employee stock purchase plan               179        2,065           --            --            --            --         2,065
+  Sale of common stock, net of
+   offering costs of $349                   5,791      122,070           --            --            --            --       122,070
+  Tax benefit from exercise of common
+   stock options                               --        4,105           --            --            --            --         4,105
+  Cash dividends ($0.08 per share)             --           --       (4,208)           --            --                      (4,208)
+                                         --------    ---------    ---------     ---------     ---------     ---------     ---------
+
+Balance at December 31, 2000               61,686      294,187      212,026        (5,898)      (20,285)         (975)      484,953
+                                                                                                                          ---------
+Comprehensive income:
+   Net income                                  --           --       56,428            --            --            --        56,428
+   Net unrealized depreciation on
+     marketable securities                     --           --           --            --            --          (615)         (615)
+                                                                                                                          ---------
+
+     Total comprehensive income                --           --           --            --            --            --        55,813
+  Exercise of common stock options            875        6,750           --            --            --            --         6,750
+  Sale of common stock under
+   employee stock purchase plan               163        3,170           --            --            --            --         3,170
+  Tax benefit from exercise of common
+   stock options                               --        5,584           --            --            --            --         5,584
+  Cash dividends ($0.08 per share)             --           --       (4,518)           --            --            --        (4,518)
+                                         --------    ---------    ---------     ---------     ---------     ---------     ---------
+
+Balance at December 31, 2001               62,724    $ 309,691    $ 263,936        (5,898)    $ (20,285)    $  (1,590)    $ 551,752
+                                         ========    =========    =========        ======     =========     =========     =========
+</TABLE>
+
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+<PAGE>
+                         SKYWEST, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (In thousands)
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                           For the Years ended December 31,
+                                                                         -------------------------------------
+                                                                           2001          2000          1999
+                                                                         ---------     ---------     ---------
+<S>                                                                      <C>           <C>           <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income                                                               $  56,428     $  60,874     $  53,858
+Adjustments to reconcile net income to net cash
+  provided by operating activities:
+  Depreciation and amortization                                             45,768        32,575        27,402
+  Nonairline depreciation and amortization                                      --           498         1,171
+  Maintenance expense related to disposition of rotable spares               1,218         2,235           807
+  Gain on sales of property and equipment                                       --          (518)         (364)
+  Increase (decrease) in allowance for doubtful accounts                         5          (144)           79
+  Increase in deferred income taxes                                          7,870         6,374         5,899
+  Tax benefit from exercise of common stock options                          5,584         4,105           328
+  Deferred aircraft credits                                                  5,499            --            --
+  Changes in operating assets and liabilities:
+    (Increase) decrease in receivables                                       3,091       (17,916)        2,932
+    Increase in inventories                                                 (4,301)       (3,518)       (2,601)
+    Increase in other current assets                                        (3,355)       (2,379)      (11,716)
+    Decrease in net current assets of discontinued operations                   --            --           777
+    Increase (decrease) in accounts payable                                 22,681        (6,428)       11,182
+    Increase (decrease) in engine overhaul accrual                          (7,397)        2,722         1,627
+    Increase (decrease) in other current liabilities                         4,811         4,041          (457)
+                                                                         ---------     ---------     ---------
+NET CASH PROVIDED BY OPERATING ACTIVITIES                                  137,902        82,521        90,924
+                                                                         ---------     ---------     ---------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Purchases of marketable securities, net of sales                         (43,695)      (67,925)     (158,663)
+  Acquisition of property and equipment:
+      Aircraft and rotable spares                                         (113,456)      (75,828)      (22,275)
+      Deposits on aircraft                                                 (45,138)      (49,265)      (46,745)
+      Buildings and ground equipment                                       (34,298)      (14,248)         (860)
+      Rental vehicles                                                           --        (1,242)       (5,697)
+  Proceeds from sales of property and equipment                                517         5,030         4,099
+  Proceeds from sale of Scenic Airlines                                         --            --         4,963
+  Return of deposits on aircraft and rotable spares                         27,756         5,800            --
+  Increase in net long-term assets of discontinued operations                   --            --         1,809
+  Increase in other assets                                                    (919)         (526)         (832)
+                                                                         ---------     ---------     ---------
+NET CASH USED IN INVESTING ACTIVITIES                                     (209,233)     (198,204)     (224,201)
+                                                                         ---------     ---------     ---------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Proceeds from issuance of long-term debt                                  50,086        32,299         6,998
+  Principal payments on long-term debt                                     (10,173)       (8,884)      (10,716)
+  Net proceeds from issuance of common stock                                 9,920       126,631         3,972
+  Payment of cash dividends                                                 (4,498)       (3,829)       (2,934)
+                                                                         ---------     ---------     ---------
+NET CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES                         45,335       146,217        (2,680)
+                                                                         ---------     ---------     ---------
+
+Increase (decrease) in cash and cash equivalents                           (25,996)       30,534      (135,957)
+Cash and cash equivalents at beginning of year                              66,190        35,656       171,613
+                                                                         ---------     ---------     ---------
+
+CASH AND CASH EQUIVALENTS AT END OF YEAR                                 $  40,194     $  66,190     $  35,656
+                                                                         =========     =========     =========
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+  Cash paid during the year for:
+       Interest                                                          $   4,340     $   3,231     $   2,942
+       Income taxes                                                      $  17,951     $  43,587     $  27,825
+</TABLE>
+
+
+          See accompanying notes to consolidated financial statements.
+
+<PAGE>
+                         SKYWEST, INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+(1) NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+The Company, through SkyWest Airlines, Inc. ("SkyWest"), operates a regional
+airline offering scheduled passenger service with approximately 1,000 daily
+departures to 80 cities in 24 western states and Canada. All SkyWest flights are
+operated as either Delta Connection or United Express under code-sharing
+arrangements with Delta Air Lines, Inc. ("Delta") or United Airlines, Inc.
+("United"). SkyWest operates as the Delta Connection in Salt Lake City and
+Dallas Fort Worth and as the United Express carrier in Los Angeles, San
+Francisco, Denver and in the Pacific Northwest. Revenues generated in connection
+with the code-sharing relationships with Delta and United account for
+substantially all of SkyWest's passenger revenue.
+
+Multiple code-sharing relationships have enabled SkyWest to reduce reliance on
+any single major airline code and to enhance and stabilize operating results
+through a mix of SkyWest controlled flying and contract flying. On SkyWest
+controlled flights, SkyWest controls scheduling, ticketing, pricing and seat
+inventories and receives a prorated portion of passenger fares. On contract
+routes, the major airline partner controls scheduling, ticketing, pricing and
+seat inventories with SkyWest receiving from its major airline partner
+negotiated payments per flight departure and incentives related to passenger
+volumes and levels of customer service. As of December 31, 2001, approximately
+90% of SkyWest's capacity was in contract flying and 10% was in SkyWest
+controlled flying. Beginning January 1, 2002, substantially all of SkyWest's
+flights will be operated under contract flying arrangements.
+
+
+CONSOLIDATION
+
+The accompanying consolidated financial statements include the accounts of
+SkyWest, Inc. and its wholly owned subsidiaries, SkyWest, Scenic Airlines, Inc.
+("Scenic"), and National Parks Transportation, Inc. ("NPT"), collectively (the
+"Company"). All significant intercompany accounts and transactions have been
+eliminated in consolidation.
+
+During the year ended December 31, 2000, the Company sold the operations of
+National Parks Transportation. During the year ended December 31, 1999, the
+Company sold the operations of Scenic (see Note 8).
+
+
+CHANGE IN YEAR-END
+
+On February 6, 2001, the Board of Directors approved a change of SkyWest's
+fiscal year end from March 31 to December 31, effective December 31, 2001. In
+connection with this change, the Company elected to recast the prior periods
+consolidated financial statements to December 31 to be consistent with the
+current year-end.
+
+
+USE OF ESTIMATES
+
+The preparation of financial statements in conformity with accounting principals
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+
+CASH AND CASH EQUIVALENTS
+
+The Company considers all highly liquid investments with an original maturity of
+three months or less to be cash equivalents.
+
+
+<PAGE>
+MARKETABLE SECURITIES
+
+The Company's investments in marketable debt and equity securities are deemed by
+management to be available for sale and are reported at fair market value with
+the net unrealized appreciation or depreciation reported as a component of
+accumulated other comprehensive income (loss) in stockholders' equity. At the
+time of sale, any realized appreciation or depreciation, calculated by the
+specific identification method, will be recognized as a component of operating
+results. The Company's position in marketable securities as of December 31, 2001
+and 2000 is as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                     2001                     2000
+                                         -------------------------  -------------------------
+Investment Types                            Cost      Market Value     Cost      Market Value
+- ----------------                            ----      ------------     ----      ------------
+<S>                                      <C>           <C>          <C>           <C>
+Commercial paper                         $   9,888     $   9,888    $   1,459     $   1,459
+Bond funds                                 186,901       184,295      116,800       115,202
+Corporate notes                             61,599        61,599       92,292        92,292
+Asset backed securities                     10,670        10,670       17,487        17,487
+Other                                        4,068         4,068        1,000         1,000
+                                         ---------     ---------    ---------     ---------
+                                           273,126       270,520      229,038       227,440
+
+Allowance for unrealized depreciation       (2,606)           --       (1,598)           --
+                                         ---------     ---------    ---------     ---------
+Total                                    $ 270,520     $ 270,520    $ 227,440     $ 227,440
+                                         =========     =========    =========     =========
+</TABLE>
+
+Marketable securities had the following maturities as of December 31, 2001 (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                           Maturities                          Amount
+                           ----------                          ------
+<S>                                                         <C>
+                          Year 2002                         $ 174,234
+                          Years 2003 through 2005              85,255
+                          Thereafter                           11,031
+                                                            ----------
+                                                            $ 270,520
+                                                            =========
+</TABLE>
+
+The Company has classified all marketable securities as short-term since it has
+the intent to maintain a liquid portfolio and the ability to redeem the
+securities within the year.
+
+
+INVENTORIES
+
+Inventories include expendable parts, fuel and supplies and are valued at cost
+(FIFO basis) less an allowance for obsolescence based on historical results and
+management's expectations of future operations. Expendable inventory parts are
+charged to expense as used.
+
+
+PROPERTY AND EQUIPMENT
+
+Property and equipment are stated at cost and depreciated over their useful
+lives to their estimated residual values using the straight-line method as
+follows:
+
+             Aircraft and rotable spares                      3 - 18 years
+             Buildings and ground equipment                 3 - 39.5 years
+
+CAPITALIZED INTEREST
+
+Interest is capitalized on aircraft purchase deposits and long-term construction
+projects and is depreciated over the estimated useful life of the asset or the
+aircraft lease term. During the years ended December 31, 2001 and 2000, the
+Company capitalized interest costs of approximately $5,185,000 and $788,000,
+respectively.
+
+
+MAINTENANCE
+
+The Company operates under an FAA approved continuous inspection and maintenance
+program. The Company's maintenance accounting policy is a combination of
+expensing certain events as incurred, accruing for certain maintenance events at
+rates estimated to be sufficient to cover those events and capitalizing the cost
+of certain maintenance events and expensing the capitalized cost over its
+estimated useful life (the "deferral method"). The
+
+<PAGE>
+
+
+
+Company uses the deferral method of accounting for Brasilia engines. For the
+CRJs, through July 2001 the Company was accruing for the engine repair and
+overhaul costs on a per flight hour basis. The cost of normal recurring
+maintenance and any other maintenance costs are expensed as incurred. For leased
+aircraft, the Company is subject to lease return provisions that require that a
+minimum portion of the "life" of an overhaul be remaining on the engine at the
+lease return date. For Brasilia engine overhauls related to leased aircraft to
+be returned, the Company adjusts the estimated useful lives of the final engine
+overhauls based on the respective lease return date.
+
+Effective August 1, 2001, the Company executed a sixteen year engine services
+agreement with GE Engine Services, Inc. ("GE") covering the scheduled and
+unscheduled repair of SkyWest's CRJ jet engines operated on 146 CRJs already
+delivered or on order for the Delta Connection and United Express operations.
+Under the terms of the agreement, the Company pays a set dollar amount per
+engine hour flown on a monthly basis to GE and GE assumes the responsibility to
+repair the engines when required at no additional expense to the Company,
+subject to certain exclusions. The Company expenses the amount paid to GE based
+on the monthly rates stipulated in the agreement, as engine hours are flown. The
+Company's future maintenance expense on CRJ engines covered under the new
+agreement may increase based on changes in labor and aircraft part indexes
+subject to escalation caps.
+
+Pursuant to the services agreement, GE agreed to assume the engine maintenance
+related to the Company's CRJ fleet at the effective date of the agreement. At
+inception of the agreement, the Company's engine overhaul accrual related to CRJ
+engines was approximately $5.6 million. This accrual will be amortized to offset
+a portion of the amounts paid under the services agreement.
+
+
+PASSENGER AND FREIGHT REVENUES
+
+Passenger and freight revenues are recognized when service is provided. Under
+the Company's contract flying agreements with Delta and United, revenue is
+considered earned when the flight is completed. Passenger tickets sold but not
+used and the liability to other airlines are recorded as air traffic liability.
+
+In 2000 and 1997, the Company reached separate ten-year agreements with Delta
+and United, respectively, to fly routes under contract flying arrangements. The
+Company is compensated on a fee-per-departure basis plus incentive payments
+based on operational performance. The fee-per-departure and incentive amounts
+are negotiated on an annual basis based on projected operating costs. The
+agreements with Delta and United contain certain provisions pursuant to which
+the parties could terminate the agreement, subject to certain rights of the
+other party, if certain performance criteria are not maintained.
+
+
+DEFERRED CREDITS
+
+The Company accounts for incentives provided by aircraft manufacturers as
+deferred credits for leased aircraft. These credits are amortized on a
+straight-line basis as a reduction to lease expense over the respective lease
+term. The incentives are credits that may be used to purchase spare parts and
+pay for training expenses.
+
+
+INCOME TAXES
+
+The Company recognizes a liability or asset for the deferred tax consequences of
+all temporary differences between the tax bases of assets and liabilities and
+their reported amounts in the consolidated financial statements that will result
+in taxable or deductible amounts in future years when the reported amounts of
+the assets and liabilities are recovered or settled. As of December 31, 2001 and
+2000, the Company had recorded current deferred tax assets of $7,769,000 and
+$10,194,000, respectively (which are included in other current assets), and
+deferred tax liabilities of $41,643,000 and $33,773,000, respectively.
+
+
+NET INCOME PER COMMON SHARE
+
+Basic net income per common share ("Basic EPS") excludes dilution and is
+computed by dividing net income by the weighted average number of common shares
+outstanding during the period. Diluted net income per common share ("Diluted
+EPS") reflects the potential dilution that could occur if stock options or other
+contracts to issue common stock were exercised or converted into common stock.
+The computation of Diluted EPS does not assume exercise or conversion of
+securities that would have an antidilutive effect on net income per common
+share. During the years ended December 31, 2001, 2000 and 1999, 1,046,000, zero,
+and 340,000 options were excluded from the computation of diluted EPS.
+
+
+<PAGE>
+Following is a reconciliation of the numerator and denominator of Basic EPS to
+the numerator and denominator of Diluted EPS for the years ended December 31,
+2001, 2000 and 1999 (in thousands, except per share amounts):
+
+<TABLE>
+<CAPTION>
+Year ended December 31,                            2001       2000          1999
+- -----------------------                            ----       ----          ----
+<S>                                              <C>        <C>        <C>
+Numerator:
+   Net income                                    $56,428    $60,874    $53,858
+                                                 =======    =======    =======
+
+Denominator:
+   Weighted average common shares outstanding     56,365     51,521     48,964
+   Effect of stock options                           872      1,122        814
+                                                 -------    -------    -------
+                                                  57,237     52,644     49,778
+                                                 =======    =======    =======
+
+Basic EPS                                        $  1.00    $  1.18    $  1.10
+Diluted EPS                                      $  0.99    $  1.16    $  1.08
+</TABLE>
+
+
+COMPREHENSIVE INCOME
+
+The Company reports comprehensive income in accordance with Statement of
+Financial Accounting Standards ("SFAS") Statement No. 130, Reporting
+Comprehensive Income, which establishes standards for reporting and displaying
+comprehensive income and its components in financial statements. Comprehensive
+income includes charges and credits to stockholders' equity that are not the
+results of transactions with shareholders. As of December 31, 2001 and 2000,
+comprehensive income includes net income and adjustments, net of tax, to reflect
+unrealized appreciation and depreciation on marketable securities. The Company
+recorded net unrealized depreciation of $615,000 and $975,000, net of income
+taxes, on marketable securities for the years ended December 31, 2001 and 2000,
+respectively. These adjustments have been reflected in the accompanying
+consolidated statements of stockholders' equity.
+
+
+IMPAIRED LONG LIVED ASSETS
+
+The Company has approximately $586 million of long-lived assets as of December
+31, 2001, including approximately $386 million of flight equipment and related
+fixed assets. In addition to the original cost of these assets, their recorded
+value is impacted by a number of policy elections made by the Company, including
+estimated useful lives and salvage values. The Company reviews its long-lived
+assets for impairment at each balance sheet date for events or changes in
+circumstances that may indicate the book value of an asset may not be
+recoverable. The Company uses an estimate of future undiscounted net cash flows
+of the related asset or group of assets over the remaining life in measuring
+whether the assets are recoverable. The Company assesses the impairment of
+long-lived assets at the lowest level for which there are identifiable cash
+flows that are independent of other groups of assets.
+
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+In June 1998, the Financial Accounting Standards Board, or FASB, issued SFAS No.
+133, Accounting for Derivative Instruments and Hedging Activities, which
+requires companies to record derivative financial instruments on the balance
+sheet as assets or liabilities, measured at fair value. Gains or losses
+resulting from changes in the values of those derivatives are accounted for
+depending on the use of the derivative and whether it qualifies for hedge
+accounting. The key criterion for hedge accounting is that the hedging
+relationship must be highly effective in achieving offsetting changes in fair
+value or cash flows. In June 1999, the FASB issued SFAS No. 137, Accounting for
+Derivative Instruments and Hedging Activities -- Deferral of the Effective Date
+of FASB Statement No. 133, which amends SFAS No. 133 to be effective for all
+fiscal quarters of all fiscal years beginning after June 15, 2000. In June 2000,
+the FASB issued Statement No. 138, Accounting for Certain Derivative Instruments
+and Certain Hedging Activities -- an Amendment of FASB Statement No. 133. SFAS
+No. 138 amends SFAS No. 133 to (a) exclude from the scope of SFAS No. 133
+nonfinancial assets that will be delivered in quantities expected to be used or
+sold by a company over a reasonable period in the normal course of business and
+for which physical delivery is probable, (b) permit hedging of a benchmark
+interest rate, (c) allow hedging of foreign-currency-denominated assets and
+liabilities and (d) allow for limited hedging of net foreign currency exposures.
+The Company has no derivative financial and commodity instruments, forward
+contracts or hedging arrangements in cash and cash equivalents. The Company
+adopted these statements for the year ended December 31, 2001, which did not
+have a material impact on the Company's financial position or results of
+operations.
+
+
+<PAGE>
+In June 2001, the FASB issued SFAS No. 141, Business Combinations, and SFAS No.
+142, Goodwill and Other Intangible Assets. SFAS No. 141 requires that all
+business combinations initiated after June 30, 2001 be accounted for under the
+purchase method and addresses the initial recognition and measurement of
+goodwill and other intangible assets acquired in a business combination. SFAS
+No. 142 addresses the initial recognition and measurement of intangible assets
+acquired outside of a business combination and the accounting for goodwill and
+other intangible assets subsequent to their acquisition. SFAS No. 142 provides
+that intangible assets with finite useful lives be amortized and that goodwill
+and intangible assets with indefinite lives will not be amortized, but will
+rather be tested at least annually for impairment. The Company adopted SFAS No.
+141 and No. 142 on January 1, 2002, which did not have a material impact on the
+Company's financial position or results of operations.
+
+In August 2001, the FASB issued SFAS No. 143, Accounting for Asset Retirement
+Obligations, effective for fiscal years beginning after June 15, 2002, with
+earlier application encouraged. This statement requires entities to record the
+fair value of a liability for an asset retirement obligation in the period in
+which it is incurred. When the liability is initially recorded, the entity
+capitalizes the cost by increasing the carrying amount of the related long-lived
+asset. Over time, the liability is accreted to its present value each period,
+and the capitalized cost is depreciated over the useful life of the related
+asset. Upon settlement of the liability, an entity either settles the obligation
+for its recorded amount or incurs a gain or loss upon settlement. The adoption
+of SFAS No. 143 is not expected to have a material impact on the Company's
+results of operations, financial position or liquidity.
+
+In October 2001, the FASB issued SFAS No. 144, Accounting for the Impairment or
+Disposal of Long-Lived Assets, which replaces SFAS Statement No. 121, Accounting
+for the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed
+of, and is effective for years beginning after December 15, 2001. The accounting
+model for long-lived assets to be disposed of by sale applies to all long-lived
+assets, including discontinued operations, and replaces the provisions of APB
+Opinion No. 30, Reporting Results of Operations-Reporting the Effects of
+Disposal of a Segment of a Business, for the disposal of segments of a business.
+This statement requires that those long-lived assets be measured at the lower of
+carrying amount or fair value less cost to sell, whether reported in continuing
+operations or in discontinued operations. Therefore, discontinued operations
+will no longer be measured at net realizable value or include amounts for
+operating loses that have not yet occurred. This statement also broadens the
+reporting of discontinued operations. The adoption of SFAS No. 144 is not
+expected to have a material impact on the Company's results of operations,
+financial position or liquidity.
+
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The carrying amounts reported in the consolidated balance sheets for cash and
+cash equivalents, receivables and accounts payable approximate fair values
+because of the immediate or short-term maturity of these financial instruments.
+Marketable securities are reported at fair value in the consolidated balance
+sheets. The fair value of the Company's long-term debt is estimated based on
+current rates offered to the Company for similar debt and approximates
+$116,000,000 as of December 31, 2001, as compared to the carrying amount of
+$125,839,000.
+
+
+SEGMENT REPORTING
+
+The Company has adopted SFAS No. 131, Disclosures about Segments of an
+Enterprise and Related Information. This statement requires disclosures related
+to components of a company for which separate financial information is available
+that is evaluated regularly by the Company's chief operating decision maker in
+deciding how to allocate resources and in assessing performance. Management
+believes that the Company has only one operating segment in accordance with SFAS
+No. 131 because the Company's business consists of scheduled airline passenger
+service.
+
+
+<PAGE>
+
+
+
+
+ (2) LONG-TERM DEBT
+
+Long-term debt consists of the following as of December 31, 2001 and 2000:
+
+<TABLE>
+<CAPTION>
+                                                                                     2001          2000
+                                                                                  ---------     ---------
+                                                                                       (in thousands)
+<S>                                                                               <C>           <C>
+Notes payable to banks, due in semi-annual
+    installments plus interest at 6.06% to 6.45%
+    through 2018, secured by aircraft                                             $  50,086     $      --
+
+Notes payable to banks, due in semi-annual installments plus interest at 3.72%
+    to 3.86%, net of the benefits of interest rate subsidies through the
+    Brazilian Export financing program,
+    through 2011, secured by aircraft                                                22,438        24,458
+
+Note payable to bank, due in semi-annual
+    installments plus interest at 7.18% through
+    2012, secured by aircraft                                                        15,808        16,487
+
+Notes payable to banks, due in monthly installments
+    including interest at 6.70% to 7.37% through
+    2006, secured by aircraft                                                        15,674        19,626
+
+Note payable to bank, due in semi-annual installments plus interest based on
+    six- month LIBOR (2.58% at December 31, 2001)
+    through 2016, secured by aircraft                                                15,044        15,566
+
+Other notes payable, secured by aircraft                                              6,789         9,788
+                                                                                  ---------     ---------
+                                                                                    125,839        85,925
+
+Less current maturities                                                             (12,151)      (10,174)
+                                                                                  ---------     ---------
+                                                                                  $ 113,688     $  75,751
+                                                                                  =========     =========
+</TABLE>
+
+<PAGE>
+2. LONG-TERM DEBT (continued)
+
+The aggregate amounts of principal maturities of long-term debt as of December
+31, 2001 are as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+       Year ending December 31,
+       ------------------------
+<S>                                                           <C>
+            2002                                              $  12,151
+            2003                                                 11,492
+            2004                                                 10,754
+            2005                                                 10,619
+            2006                                                  6,572
+            Thereafter                                           74,251
+                                                              ---------
+                                                              $ 125,839
+                                                              =========
+</TABLE>
+
+The Company's long-term debt was incurred in connection with the acquisition of
+Brasilia and CRJ aircraft. Certain amounts related to the Brasilia aircraft are
+supported by continuing subsidy payments through the export support program of
+the Federative Republic of Brazil. The subsidy payments reduce the stated
+interest rates to an average effective rate of approximately 3.7%, on $22.5
+million of the long-term debt, at December 31, 2001. The continuing subsidy
+payments are at risk to the Company if the Federative Republic of Brazil does
+not meet its obligations under the export support program. While the Company has
+no reason to believe, based on information currently available, that the Company
+will not continue to receive these subsidy payments from the Federative Republic
+of Brazil in the future, there can be no assurance that such a default will not
+occur. On the remaining long-term debt related to the Brasilia aircraft of $22.4
+million, the lender has assumed the risk of the subsidy payments which has
+reduced the average effective rate on this debt to approximately 3.8% at
+December 31, 2001. The average effective rate on the debt related to the CRJ
+aircraft of $80.9 million was 6.1% at December 31, 2001, and is not subject to
+subsidy payments.
+
+As of December 31, 2001, the Company had available $10,000,000 in an unsecured
+bank line of credit through December 15, 2002, with interest payable at the
+bank's base rate less one-quarter percent, which was a net rate of 4.5%. The
+line of credit provides for a total of $10,000,000 available for borrowings or
+letters of credit with the same institution. The Company had $5,534,000 of
+letters of credit and no borrowings outstanding under this line of credit as of
+December 31, 2001.
+
+Certain of the Company's long-term debt arrangements contain limitations on,
+among other things, the sale or lease of assets and ratio of long-term debt to
+tangible net worth. As of December 31, 2001, the Company was in compliance with
+all the debt covenants.
+
+
+(3) INCOME TAXES
+
+The provision for income taxes includes the following components (in thousands):
+
+<TABLE>
+<CAPTION>
+                                Year ended December 31,
+                              -----------------------------
+                                2001       2000       1999
+                              -------    -------    -------
+<S>                           <C>        <C>        <C>
+Current tax provision:
+   Federal                    $22,429    $29,201    $27,606
+   State                        4,994      6,092      5,635
+                              -------    -------    -------
+                               27,423     35,293     33,241
+                              -------    -------    -------
+Deferred tax provision :
+   Federal                      7,598      3,024        714
+   State                        1,056        395         79
+                              -------    -------    -------
+                                8,654      3,419        793
+                              -------    -------    -------
+Provision for income taxes    $36,077    $38,712    $34,034
+                              =======    =======    =======
+</TABLE>
+
+
+
+
+<PAGE>
+3. INCOME TAXES (continued)
+
+The following is a reconciliation between the statutory Federal income tax rate
+of 35% and the effective rate which is derived by dividing the provision for
+income taxes by income before provision for income taxes (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                 Year ended December 31,
+                                            ----------------------------------
+                                              2001         2000         1999
+                                            --------     --------     --------
+<S>                                         <C>          <C>          <C>
+Computed "expected" provision for income
+   taxes at the statutory rates             $ 32,377     $ 34,855     $ 30,762
+Increase in income taxes
+   resulting from:
+     State income taxes, net of Federal
+       income tax benefit                      4,165        4,263        2,445
+     Other, net                                 (465)        (406)         827
+                                            --------     --------     --------
+Provision for income taxes                  $ 36,077     $ 38,712     $ 34,034
+                                            ========     ========     ========
+</TABLE>
+
+
+
+The significant components of the net deferred tax assets and liabilities are as
+follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                     As of December 31,
+                                   ---------------------
+                                     2001         2000
+                                   --------     --------
+<S>                                <C>          <C>
+Deferred tax assets:
+   Accrued benefits                $  2,206     $  1,787
+   Engine overhaul accrual            2,237        5,196
+   Accrued reserves and other         3,326        3,211
+                                   --------     --------
+Total deferred tax assets             7,769       10,194
+                                   --------     --------
+
+Deferred tax liabilities:
+       Accelerated depreciation     (40,551)     (33,289)
+       Other                         (1,092)        (484)
+                                   --------     --------
+Total deferred tax liabilities      (41,643)     (33,773)
+                                   --------     --------
+
+Net deferred tax liability         $(33,874)    $(23,579)
+                                   ========     ========
+</TABLE>
+
+
+(4) COMMITMENTS AND CONTINGENCIES
+
+LEASE OBLIGATIONS
+
+The Company leases 104 aircraft, as well as airport facilities, office space,
+and various other property and equipment under noncancelable operating leases
+which are generally on a long-term net rent basis where the Company pays taxes,
+maintenance, insurance and certain other operating expenses applicable to the
+leased property. Management expects that, in the normal course of business,
+leases that expire will be renewed or replaced by other leases. The following
+summarizes future minimum rental payments required under operating leases that
+have initial or remaining noncancelable lease terms in excess of one year as of
+December 31, 2001 (in thousands):
+
+<TABLE>
+<CAPTION>
+            Year ending December 31,
+            ------------------------
+<S>                                                  <C>
+            2002                                     $    97,475
+            2003                                          93,612
+            2004                                          87,730
+            2005                                          89,070
+            2006                                          87,952
+            Thereafter                                   594,820
+                                                     -----------
+                                                     $ 1,050,659
+                                                     ===========
+</TABLE>
+
+Total rental expense for noncancelable operating leases was approximately
+$72,841,000, $56,253,000, and $52,317,000 for the years ended December 31, 2001,
+2000 and 1999, respectively.
+
+
+
+<PAGE>
+4. COMMITMENTS AND CONTINGENCIES (continued)
+
+The above minimum rental payments do not include landing fees, which amounted to
+approximately $14,877,000, $10,873,000, and $11,360,000 for the years ended
+December 31, 2001, 2000 and 1999, respectively.
+
+
+PURCHASE COMMITMENTS AND OPTIONS
+
+During the year ended December 31, 2001, SkyWest took delivery of 33 CRJs in
+connection with the Delta Connection and United Express code-share arrangements.
+Additionally, as of December 31, 2001 SkyWest has agreed to acquire an
+additional 96 CRJs and related spare parts inventory and support equipment
+through purchase commitments at an aggregate cost of approximately $1.9 billion.
+SkyWest will take delivery of these aircraft beginning in January 2002 and
+deliveries will continue through January 2005. Depending on the state of the
+aircraft financing market at the time of delivery, management will determine
+whether to acquire these aircraft through third party, long-term loans or lease
+agreements. SkyWest also has options to acquire 119 additional CRJs at fixed
+prices (subject to cost escalations) and delivery schedules and are exercisable
+at various dates through April 2008. These aircraft will be allocated between
+the United Express and Delta Connection operations.
+
+
+LEGAL MATTERS
+
+The Company is subject to certain legal actions which it considers routine to
+its business activities. As of December 31, 2001, management believes, after
+consultation with legal counsel, that the ultimate outcome of such legal matters
+will not have a material adverse effect on the Company's financial position,
+liquidity or results of operations.
+
+
+STANDBY LETTERS OF CREDIT
+
+As of December 31, 2001, the Company has outstanding letters of credit totaling
+approximately $5,534,000 related to requirements of certain airports, port
+authorities and workers compensation agreements.
+
+
+CONCENTRATION RISK AND SIGNIFICANT CUSTOMERS
+
+The Company monitors its customers' financial condition and requires no
+collateral from its customers. The Company maintains an allowance for doubtful
+accounts receivable based upon expected collectibility of all accounts
+receivable. The Company's allowance for doubtful accounts totaled $63,000 and
+$58,000 as of December 31, 2001 and 2000, respectively. For the years ended
+December 31, 2001, 2000 and 1999, the Company's code-sharing and contract
+relationships with Delta and United combined accounted for more than 95% of
+total revenues.
+
+As of December 31, 2001, the Company has demand deposits and money market
+accounts totaling $15,390,000 with Zions First National Bank and $1,203,000 with
+Wells Fargo Bank. These balances exceed the $100,000 limit for insurance by the
+Federal Deposit Insurance Corporation.
+
+
+(5) CAPITAL TRANSACTIONS
+
+PREFERRED STOCK
+
+The Company is authorized to issue 5,000,000 shares of preferred stock in one or
+more series without shareholder approval. No shares of preferred stock are
+presently outstanding. The Board of Directors is authorized, without any further
+action by the stockholders of the Company, to (i) divide the preferred stock
+into series; (ii) designate each such series; (iii) fix and determine dividend
+rights; (iv) determine the price, terms and conditions on which shares of
+preferred stock may be redeemed; (v) determine the amount payable to holders of
+preferred stock in the event of voluntary or involuntary liquidation; (vi)
+determine any sinking fund provisions; and (vii) establish any conversion
+privileges.
+
+
+
+<PAGE>
+(5) CAPITAL TRANSACTIONS (continued)
+
+STOCK OFFERING
+
+On September 12, 2000, the Company completed a public offering of 5,791,000
+shares of common stock which generated net proceeds of $122.1 million after
+deducting underwriting commissions and other expenses.
+
+SUBSEQUENT CASH DIVIDEND
+
+On February 5, 2002, the Company's Board of Directors declared a regular
+quarterly cash dividend of $0.02 per share payable to stockholders of record on
+March 29, 2002, distributable April 10, 2002.
+
+STOCK OPTIONS
+
+In August 2000, the stockholders approved the adoption of two new stock option
+plans: the Executive Stock Incentive Plan ("Executive Plan") and the 2001
+Allshare Stock Option Plan ("Allshare Plan"). Both plans became effective
+January 1, 2001. These plans replaced the Company's Combined Incentive and
+Non-Statutory Stock Option Plans ("Prior Plans"), however, all outstanding
+options under Prior Plans remain outstanding. No further grants will be made
+under the Prior Plans. As of December 31, 2001, there were approximately
+1,983,000 options outstanding under the Prior Plans. The Executive Plan provides
+for the issuance of options to purchase up to 4,000,000 shares of common stock
+to officers, directors and other management employees of which 554,300 options
+had been issued as of December 31, 2001. The Allshare Plan provides for the
+issuance of options to purchase up to 4,000,000 shares of common stock to
+employees of which 491,611 options had been issued as of December 31, 2001. The
+Executive Plan and Allshare Plan are both administered by the Compensation
+Committee of the Board of Directors who designate option grants as either
+incentive or non-statutory. Incentive stock options are granted at not less than
+100% of the market value of the underlying common stock on the date of grant.
+Non-statutory stock options are granted at a price as determined by the
+Compensation Committee.
+
+Options are exercisable for a period as defined by the Compensation Committee at
+the date granted; however, no stock option will be exercisable before six months
+have elapsed from the date it is granted and no incentive stock option shall be
+exercisable after ten years from the date of grant. The following table
+summarizes the stock option activity for all plans for the years ended December
+31, 2001, 2000 and 1999:
+
+
+<TABLE>
+<CAPTION>
+                                          2001                     2000                           1999
+                               ------------------------   -------------------------    --------------------------
+                                              Weighted                   Weighted                      Weighted
+                               Number of       Average    Number of       Average      Number of        Average
+                                Options         Price      Options         Price        Options          Price
+                               ---------     ----------   ----------     ----------    ----------     -----------
+<S>                            <C>           <C>          <C>            <C>           <C>            <C>
+Outstanding at
+   beginning of year           2,864,434     $    12.39    2,908,628     $     8.61     2,856,702     $     6.80
+Granted                        1,045,911          25.95      696,000          20.13       680,000          13.09
+Exercised                       (874,550)          7.73     (671,960)          3.73      (530,316)          5.04
+Canceled                          (7,261)         11.97      (68,234)         11.47       (97,758)         11.18
+                               ---------                   ---------                    ---------
+Outstanding at end of year     3,028,534     $    18.52    2,864,434     $    12.39     2,908,628     $     8.61
+                               =========                   =========                    =========
+
+Weighted average fair
+   value of options
+   granted during the year                   $    13.80                  $     9.24                   $     6.44
+</TABLE>
+
+The following table summarizes information about stock options outstanding at
+December 31, 2001:
+
+<TABLE>
+<CAPTION>
+                             Options Outstanding                         Options Exercisable
+                -------------------------------------------------   -----------------------------
+Range of                       Weighted Average
+Exercise           Number          Remaining     Weighted Average      Number    Weighted Average
+Prices          Outstanding     Contractual Life   Exercise Price   Exercisable    Exercise Price
+- --------        -----------    ----------------- ----------------   -----------  ----------------
+<S>             <C>            <C>               <C>                <C>          <C>
+$3 to $15        1,286,623         6.8 years          $11.62          606,623         $  9.96
+$16 to $21         696,000         8.4 years           20.13               --              --
+$22 to $26       1,045,911         9.5 years           25.95               --              --
+                 ---------                                            -------
+$3 to $26        3,028,534         8.1 years          $18.52          606,623         $  9.96
+                 =========                                            =======
+</TABLE>
+
+
+
+<PAGE>
+5. CAPITAL TRANSACTIONS (continued)
+
+The Company applies Accounting Principles Board Opinion No. 25 and related
+interpretations in accounting for its stock-based compensation plans. SFAS No.
+123, Accounting for Stock-Based Compensation, requires pro forma information
+regarding net income and net income per share as if the Company had accounted
+for its stock options under the fair value method of the statement. The fair
+value of stock options was estimated at the grant date using the Black-Scholes
+option pricing model with the following assumptions used for grants in the years
+ended December 31, 2001, 2000 and 1999: a risk-free interest rate of 5.1% for
+2001, 5.1% for 2000 and 6.5% for 1999, a volatility factor of the expected
+common stock price of .642 for 2001, .520 for 2000 and .549 for 1999 and a
+weighted average expected life of four years for the stock options for all the
+years presented. For purposes of the pro forma disclosures, the estimated fair
+value of the stock options and employee stock purchases is amortized over the
+vesting period of the respective stock options and employee stock purchases.
+
+Following are the pro forma disclosures and the related impact on net income and
+net income per share (in thousands, except per share information):
+
+
+<TABLE>
+<CAPTION>
+                                        Year Ended December 31,
+                                --------------------------------------
+                                   2001          2000          1999
+                                ----------    ----------    ----------
+<S>                             <C>           <C>           <C>
+Net income:
+     As reported                $   56,428    $   60,874    $   53,858
+     Pro forma                  $   51,295    $   57,497    $   51,788
+Net income per common share:
+     Diluted as reported        $     0.99    $     1.16    $     1.08
+     Diluted pro forma          $     0.90    $     1.09    $     1.04
+</TABLE>
+
+(6) RETIREMENT PLAN AND EMPLOYEE STOCK PURCHASE PLAN
+
+RETIREMENT PLAN
+
+The Company sponsors the SkyWest Airlines Employee's Retirement Plan (the
+"Plan"). Employees who have completed ninety days of service and are 21 years of
+age are eligible for participation in the Plan. Employees may elect to make
+contributions to the Plan. The Company matches 100% of such contributions up to
+2%, 4% or 6% of the individual participant's compensation, based upon length of
+service. Additionally, a discretionary contribution may be made by the Company.
+The Company's combined contributions to the Plan were $6,128,000, $5,242,000 and
+$4,028,000 for the years ended December 31, 2001, 2000 and 1999, respectively.
+
+EMPLOYEE STOCK PURCHASE PLAN
+
+In February 1996, the Company's Board of Directors approved the SkyWest, Inc.
+1996 Employee Stock Purchase Plan the ("Stock Purchase Plan"). All employees who
+have completed 90 days of employment are eligible to participate, except
+employees who own five percent or more of the Company's common stock. The Stock
+Purchase Plan enables employees to purchase shares of the Company's common stock
+at a 15% discount, through payroll deductions. Employees can contribute two to
+15% of their base pay, not to exceed $21,250 each calendar year, for the
+purchase of shares. For the year ended December 31, 2001, 163,922 shares were
+purchased by employees at prices of $23.80 and $15.75 per share. For the year
+ended December 31, 2000, 179,978 shares were purchased by employees at prices of
+$11.90 and $11.04 per share. For the year ended December 31, 1999, 129,700
+shares were purchased by employees at prices of $12.59 and $10.59 per share. In
+addition, as of December 31, 2001, $2,382,205 had been withheld for the future
+purchase of shares. Shares are purchased semi-annually at the lower of the
+beginning or the end of the period price. Employees can terminate their
+participation in the Stock Purchase Plan at anytime upon written notice.
+
+
+(7) US GOVERNMENT AIRLINE ASSISTANCE
+
+In September 2001, the U.S. Federal Government passed the Air Transportation
+Safety and System Stabilization Act (the "Act"). Under the Act, funds were made
+available to compensate air carriers for direct losses suffered as a result of
+any Federal ground stop order and incremental losses beginning September 11,
+2001, and ending December 31, 2001, resulting from the September 11, 2001,
+terrorist attacks on the United States. Management estimates that the Company
+will receive up to approximately $12.3 million under the Act to partially
+compensate for losses directly resulting from the September 11, 2001 terrorist
+attacks of which $10.5 million had been received as of December 31, 2001. During
+the year ended December 31, 2001, the Company recognized approximately $8.2
+million as a contra expense in the accompanying consolidated statement of income
+under the Act.
+
+
+<PAGE>
+(8) DISCONTINUED OPERATIONS
+
+On August 26, 1998, the Company entered into an Asset Purchase Agreement
+("Agreement") with Eagle Canyon Airlines, Inc. ("Eagle") to sell a majority of
+the assets of Scenic. Included under the Agreement were all of the assets,
+properties, rights and business of Scenic related to its Las Vegas based tour
+and scheduled flight operations. The agreement was consummated on December 23,
+1998 with the Company receiving cash proceeds of $16.2 million. Additionally,
+the Company recorded a loss of approximately $0.6 million net of income taxes on
+the sale during the year ended December 31, 1998.
+
+On January 11, 1999, the Company entered into an agreement ("Page Agreement")
+with JCMI, LLC, to sell the remainder of the assets and business of Scenic. The
+Page Agreement includes all of the assets, properties, rights and business of
+Scenic related to its Page, Arizona tour operations. The agreement was
+consummated on March 2, 1999 with the Company receiving total proceeds of $5.0
+million consisting of cash and a secured promissory note of $1.9 million. The
+Company recorded a loss of approximately $0.4 million net of income taxes on the
+sale during the year ended December 31, 1999.
+
+The accompanying consolidated financial statements reflect the operations of
+Scenic as discontinued operations. Accordingly, the revenues, costs and
+expenses, assets and liabilities of Scenic have been excluded from the
+respective captions in the financial statements and have been reported through
+the date of disposition as income (loss) from discontinued operations, net of
+income taxes and net assets of discontinued operations.
+
+
+(9) RELATED-PARTY TRANSACTIONS
+
+During the year ended December 31, 2001, Delta sold its ownership interest in
+the Company which consisted of approximately 6.2 million shares of common stock
+which represented approximately 11% of the outstanding common stock of the
+Company. The Company leases various terminal facilities from Delta and Delta
+provides certain services to the Company, including advertising, reservation and
+ground handling services. Expenses paid to Delta under these arrangements were
+$8,924,000, $6,741,000 and $6,074,000 during the years ended December 31, 2001,
+2000 and 1999, respectively. United also provides services to the Company
+consisting of reservation, passenger and ground handling services. The Company
+paid $8,884,000, $7,199,000 and $8,528,000 to United for services during the
+years ended December 31, 2001, 2000 and 1999, respectively.
+
+
+(10) SUBSEQUENT EVENT
+
+In January 2002, the Company entered into a sale-lease-back agreement with the
+Salt Lake Airport Authority related to a new maintenance hanger and training
+facility constructed by the Company at the Salt Lake City Airport. Under the
+agreement, the Company received approximately $18 million in cash in exchange
+for the newly constructed facility and entered into 26 year operating lease
+agreement. The sales price was equal to the construction costs and no gain or
+loss was recognized.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<FILENAME>f80339ex23-1.txt
+<DESCRIPTION>EXHIBIT 23.1
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 23.1
+
+
+                    CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+As independent public accountants, we hereby consent to the incorporation by
+reference in this Form 10-K of our report dated February 22, 2002 included in
+SkyWest, Inc.'s Annual Report to Shareholders for the year ended December 31,
+2001. We further consent to the incorporation of our report dated February 22,
+2002, incorporated by reference in this Form 10-K, into the Company's previously
+filed Registration Statements No. 33-41285, No. 33-60173 and No. 333-70408.
+
+/s/ Arthur Andersen LLP
+
+Salt Lake City, Utah
+March  29, 2002
+
+
+                                       19
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>f80339ex99-1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 99.1
+
+           ARTHUR ANDERSEN LLP QUALITY ASSURANCE REPRESENTATION LETTER
+
+Office of the Chief Accountant
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C.  20549
+
+March 29, 2002
+
+Dear Sir or Madam:
+
+Arthur Andersen LLP ("Andersen") has represented to SkyWest, Inc. that the audit
+completed for the year ended December 31, 2001, was subject to Andersen's
+quality control system for the United States accounting and auditing practice.
+Andersen has provided assurance to SkyWest that the audit engagement was
+conducted in compliance with professional standards. The audit was conducted
+with the appropriate continuity and availability of personnel as well as the
+appropriate availability of national office consultation.
+
+Sincerely,
+
+/s/ Bradford R. Rich
+    ----------------------------
+    Bradford R. Rich
+    Executive Vice President and
+    Chief Financial Officer
+
+
+                                       20
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3050 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a2043485z10-k.txt
+<DESCRIPTION>10-K
+<TEXT>
+
+<PAGE>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-K
+
+(MARK ONE)
+
+<TABLE>
+<C>        <S>
+   /X/     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934 (FEE REQUIRED)
+</TABLE>
+
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 2000
+                                       OR
+
+<TABLE>
+<C>        <S>
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934 (NO FEE REQUIRED)
+</TABLE>
+
+        FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+                          COMMISSION FILE NO. 0-23224
+
+                            ------------------------
+
+                           GREAT LAKES AVIATION, LTD.
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                            <C>
+                 IOWA                                       42-1135319
+    (State or other jurisdiction of            (I.R.S. Employer Identification No.)
+    Incorporation or organization)
+</TABLE>
+
+                    1022 AIRPORT PARKWAY, CHEYENNE, WY 82001
+                    (Address of principal executive offices)
+
+       Registrant's telephone number, including area code: (307)432-7000
+
+        Securities registered pursuant to Section 12(b) of the Act: NONE
+
+ Securities registered pursuant to Section 12(g) of the Act: COMMON STOCK, PAR
+                                   VALUE $.01
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months, and (2) has been subject to such filing
+requirements for the past 90 days. Yes /X/  No / /
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. / /
+
+    The aggregate market value of voting stock held by nonaffiliates of the
+registrant as of March 26, 2001 was approximately $6,108,096.
+
+    As of March 26, 2001, there were 8,657,651 shares of Common Stock of the
+registrant issued and outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+    Certain portions of the documents listed below have been incorporated by
+reference into the indicated part of this Form 10-K.
+
+<TABLE>
+<CAPTION>
+                   DOCUMENT INCORPORATED                      PART OF FORM 10-K
+                   ---------------------                      -----------------
+<S>                                                          <C>
+Proxy Statement for 2001 Annual Meeting of Shareholders           Part III
+</TABLE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+                                FORM 10-K INDEX
+
+<TABLE>
+<CAPTION>
+                                                                              PAGE
+                                                                            --------
+<S>           <C>                                                           <C>
+PART I....................................................................      1
+    Item 1.   BUSINESS....................................................      1
+    Item 2.   PROPERTIES..................................................      6
+    Item 3.   LEGAL PROCEEDINGS...........................................      6
+    Item 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.........      6
+
+PART II...................................................................      7
+    Item 5.   MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+              STOCKHOLDER MATTERS.........................................      7
+    Item 6.   SELECTED FINANCIAL AND OPERATING DATA.......................      8
+    Item 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+              AND RESULTS OF OPERATIONS...................................      9
+    Item 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+              RISK........................................................     16
+    Item 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.................     17
+    Item 9.   CHANGES AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+              FINANCIAL DISCLOSURES.......................................     37
+
+PART III..................................................................     37
+    Item 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT..........     37
+    Item 11.  EXECUTIVE COMPENSATION......................................     37
+    Item 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+              MANAGEMENT..................................................     37
+    Item 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS..............     37
+
+PART IV...................................................................     37
+    Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM
+              8-K.........................................................     37
+
+SIGNATURES................................................................     40
+
+EXHIBIT INDEX.............................................................     41
+</TABLE>
+
+                                       i
+<PAGE>
+                                     PART I
+
+ITEM 1. BUSINESS
+
+FORWARD-LOOKING INFORMATION
+
+    In accordance with the "safe harbor" provisions of the Private Securities
+Reform Act of 1995, Great Lakes Aviation, Ltd. ("Great Lakes" or the "Company")
+notes that certain statements in this Form 10-K and elsewhere which are
+forward-looking and which provide other than historical information, involve
+risks and uncertainties that may impact the Company's results of operations.
+These forward-looking statements include, among others, statements concerning
+the Company's general business strategies, financing decisions, and expectations
+for funding expenditures and operations in the future. When used herein, the
+words, "believe," "plan," "continue," "hope," "estimate," "project," "intend,"
+"expect," and similar expressions reflected in such forward-looking statements
+are based on reasonable assumptions, and no statements contained in this
+Form 10-K should be relied upon as predictions of future events. Such statements
+are necessarily dependent on assumptions, data or methods that may be incorrect
+or imprecise and may be incapable of being realized. The risks and uncertainties
+inherent in these forward-looking statements could cause actual results to
+differ materially from those expressed in or implied by these statements.
+
+    Important factors that could cause actual results to differ materially from
+the expectations reflected in any forward-looking statement herein include among
+other things: (1) the Company's dependence on its relationship with United
+Airlines; (2) potential code-sharing agreements with other airlines; (3) the
+effect of general economic conditions on the Company; (4) fuel costs; and
+(5) seasonality.
+
+    Readers are cautioned not to place undue reliance on the forward-looking
+statements contained herein, which speak only of the day hereof. The information
+contained in this Form 10-K is believed by the Company to be accurate as of the
+date hereof. Changes may occur after that date and the Company will not update
+that information except as required by law in the normal course of its public
+disclosure practices.
+
+GENERAL
+
+    Great Lakes is a regional airline, which during 2000 operated under the
+marketing identity United Express. On February 1, 2001, the Company and United
+Airlines, Inc. ("United") entered into a new three-year code sharing partnership
+which, as more fully described below, changes the identity under which the
+Company will operate in the future. As of December 31, 2000, the Company's fleet
+consisted of 40 Beechcraft Model 1900D 19-passenger aircraft and eight Embraer
+Brasilia Model 120 30-passenger aircraft. The Company also has four Beechcraft
+Model 1900C aircraft being used exclusively for freight operations.
+
+UNITED EXPRESS AND CODE SHARING RELATIONSHIP
+
+    At December 31, 2000, the Company served 57 destinations in 14 states
+located in the Upper Midwest and West Mountain region, with connections to
+United at Chicago O'Hare, Denver, and Minneapolis/St. Paul. The Company has been
+operating as a "United Express" carrier since 1992.
+
+    On February 1, 2001, the Company and United entered into a new three-year
+code sharing agreement which will become effective May 1, 2001. Under this new
+agreement, the Company no longer will operate under the name "United Express";
+rather, it will operate under its own name and be displayed in reservations
+systems under its own code when it is not flying a segment as part of a code
+sharing flight. The agreement provides for use of United's flight designator for
+Great Lakes flights connecting with United flights in Denver and Chicago, and
+permits the Company to enter into code sharing agreements with certain other
+carriers. The Company will continue to participate in United's Mileage Plus
+frequent flyer
+
+                                       1
+<PAGE>
+program. The agreement also requires United to provide financial support to
+Great Lakes to cover a portion of the Company's cost of returning to marketing
+itself under its own identity.
+
+    The Company is in code sharing negotiations with another carrier which, if
+successful, would substantially increase the availability of long-haul
+connections under a single carrier service identity for its customers at the
+Company's Denver Hub.
+
+MARKETS
+
+    Great Lakes provides direct and connecting service to and from three major
+cities. At December 31, 2000, the Company operated 105 departures daily from
+Denver, 47 departures daily from Chicago O'Hare, and seven departures daily from
+Minneapolis/St. Paul.
+
+ESSENTIAL AIR SERVICE PROGRAM
+
+    The Airline Deregulation Act of 1978 ("The Deregulation Act") allowed
+airlines great freedom to introduce, increase and generally reduce or eliminate
+service to existing markets. Under the Essential Air Service Program, which is
+administered by the Department of Transportation (DOT), certain communities that
+received scheduled air service prior to the passage of the Deregulation Act are
+guaranteed specified levels of "essential air service." The DOT may authorize
+federal subsidies to compensate a carrier providing essential air service in
+otherwise unprofitable or minimally profitable markets. If these subsidies are
+eliminated the Company may discontinue service to some or all of the subsidized
+communities.
+
+    At December 31, 2000, the Company served 27 essential air service
+communities on a subsidized basis. The Company received $14.9 million,
+$16.2 million, and $15.0 million in essential air service subsidies for the
+years ended December 31, 2000, 1999, and 1998, respectively. An airline serving
+a community that qualifies for essential air services is required to give the
+DOT advance notice before it may terminate, suspend or reduce service. Depending
+on the circumstances, the DOT may require the continuation of existing service
+until a replacement carrier is found. EAS rates are normally set for two-year
+periods. Significant fluctuations of fuel and other costs can affect the
+profitability of EAS services during the two-year term.
+
+AIRCRAFT
+
+    At December 31, 2000, the Company's fleet consisted of 44 Beechcraft 1900
+aircraft and eight Embraer passenger aircraft, of which 40 Beechcraft 1900D
+aircraft and eight Embraer Brasilia aircraft were operated in scheduled
+passenger service. The remaining four Beechcraft 1900 aircraft are being
+utilized exclusively for scheduled mail and freight operations. The Beechcraft
+1900 aircraft are pressurized, radar equipped and offer a 300-mile per hour
+cruising speed for 19 passengers, plus cargo, with a range of 850 miles. The
+Beechcraft 1900 aircraft is widely regarded by airlines as an efficient and
+reliable aircraft for regional service. As of December 31, 2000, the Company
+owned 28 of its Beechcraft 1900 aircraft and leased the remaining 16 under
+agreements with remaining terms ranging from nine to thirteen years.
+
+    The 30 passenger Embraer Brasilia aircraft are equipped with advanced
+avionics, have restrooms, are staffed with a flight attendant and offer a
+330-mile per hour cruising speed with a range of 750 miles. As of December 31,
+2000, the Company owned four of its Embraer Brasilia aircraft and leased the
+remaining four under agreements with remaining terms ranging from two to eleven
+years.
+
+                                       2
+<PAGE>
+SUMMARY OF AIRCRAFT ADDITIONS AND DELETIONS
+
+    The table below shows the number and type of aircraft operated by the
+Company on January 1, 2000 and December 31, 2000.
+
+<TABLE>
+<CAPTION>
+                                                                         DECEMBER 31,
+                                                                             2000
+                                          JANUARY 1,   DECEMBER 31,   -------------------
+                                             2000          2000        OWNED      LEASED
+                                          ----------   ------------   --------   --------
+<S>                                       <C>          <C>            <C>        <C>
+Beechcraft 1900C........................       4             4             --        4
+Beechcraft 1900D........................      40            40             28       12
+Embraer 120.............................       8             8              4        4
+                                              --            --        --------      --
+  Total.................................      52            52             32       20
+                                              ==            ==        ========      ==
+</TABLE>
+
+    As of December 31, 2000, the average ages of the Company's owned and leased
+aircraft were 6.3 and 5.2 years, respectively. As of December 31, 1999, the
+average ages of the Company's owned and leased aircraft were 5.3 and 4.2 years,
+respectively.
+
+AIRCRAFT DEBT AND LEASES
+
+    Raytheon Aircraft Corporation together with its financing affiliate
+(collectively, "Raytheon") is the Company's primary aircraft supplier and
+largest creditor. The Company has financed all but one of its Beechcraft 1900
+aircraft and one of its Brasilia aircraft under lease and debt agreements with
+Raytheon. Raytheon had also provided a $5 million working capital line of credit
+and a $5 million short-term loan, both of which were collateralized by all
+Beechcraft spare parts and equipment and accounts receivable. The short-term
+loan was paid on January 7, 2000 from the proceeds of a line of credit entered
+into with Coast Business Credit and on December 1, 2000, the Company converted
+the remaining balance on the working capital line to a three-year term loan
+which is also collateralized by all Beechcraft spare parts and equipment and
+accounts receivable. In addition, as part of a short-term financing in 1997,
+Raytheon was granted a ten year warrant to purchase one million shares of the
+Company's common stock at a price of $.75 per share. On October 5, 2000, the
+Company exercised the call option and retired the warrant after tendering
+payment of $281,750 to Raytheon.
+
+    The Company has financed seven of its Brasilia aircraft through lease and
+debt agreements with other unrelated entities (collectively, the "Brasilia
+Agreements").
+
+MAINTENANCE
+
+    The FAA mandates periodic inspection and maintenance of commercial aircraft.
+The Company performs most maintenance and inspection of its aircraft and engines
+(except engine overhaul) using its own personnel. Heavy maintenance bases are
+located at Cheyenne, Wyoming; Huron, South Dakota; Grand Island, Nebraska and
+Spencer, Iowa. The Spencer location will be consolidated with the Cheyenne
+facility on May 30, 2001. Line maintenance is also performed in Denver, Colorado
+and at Chicago, O'Hare. The Company attempts to perform its maintenance at
+locations where its aircraft are stored overnight to reduce maintenance costs
+and promote a higher level of operating efficiency. Parts and supplies
+inventories are also maintained at these locations to promote the mechanical
+dispatch reliability of the fleet. The Company also maintains an inventory of
+spare engines and propellers for its fleet to allow for minimal downtime during
+major overhauls. The Company internally performs overhauls of selected aircraft
+components for its fleet.
+
+SLOT ALLOCATION
+
+    Under slot rules currently in effect at Chicago O'Hare, scheduled flights
+operate between 6:45 A.M. and 9:14 P.M. only if an airline has obtained a slot
+or slot exemption. As of December 31, 2000, the
+
+                                       3
+<PAGE>
+Company was utilizing 56 slots and slot exemptions allocated to it by DOT/FAA.
+In March 2000, Congress passed legislation that will phase out slot rules at
+Chicago O'Hare by July 1, 2002. At that time, the Company will be able to
+schedule its arrivals and departures without regulatory restrictions.
+
+YIELD MANAGEMENT
+
+    The Company closely monitors its inventory and pricing of available seats
+with a computerized yield management system. This system enables the Company's
+revenue control analysts to examine the Company's past traffic and pricing
+trends and to estimate the optimal allocation of seats by fare class (the number
+of seats made available for sale at various fares). The analysts then monitor
+each flight to adjust seat allocations and booking levels, with the objective of
+maximizing the total revenue for each flight.
+
+MARKETING
+
+    The Company's services are marketed primarily by means of listings in
+computerized reservation systems and the OFFICIAL AIRLINE GUIDE, and through
+direct contact with travel agencies and corporate travel departments. The
+Company's promotional programs emphasize the Company's close affiliation with
+its code sharing partner(s) and the right of the Company's passengers to
+participate in United's "Mileage Plus" frequent flyer program.
+
+COMPETITION
+
+    The Company competes primarily with regional and major air carriers and
+automobile transportation. The Company's competition from other air carriers
+varies from location to location and, in certain areas, comes from regional and
+major carriers who serve the same destinations as the Company but through
+different hub and spoke systems. The domestic airline industry has undergone
+major structural changes since the enactment of the Deregulation Act.
+Deregulation has made possible the rapid entry of competitors into the Company's
+markets, and competitors are able to adjust fares rapidly to improve their
+competitive position.
+
+    Almost all markets are subject to a high degree of price competition both
+from established carriers and low fare jet carriers. The Company believes,
+however, that its ability to compete in its market areas is strengthened by its
+code sharing relationship with United and United's substantial presence at
+Denver and Chicago O'Hare which enhance the importance of the United "UA*"
+flight designator code to Great Lakes in its service area. The Company competes
+with other airlines by offering frequent flights, flexible schedules and low
+fares. In addition, the Company's competitive position benefits from the large
+number of participants in United's "Mileage Plus" frequent flyer program who fly
+regularly to or from the markets served by the Company.
+
+    There can be no assurance that the Company will not experience increased
+competition from existing competitors or from new entrants on one or more of the
+Company's routes.
+
+FUEL
+
+    The Company has not experienced difficulty with fuel availability and
+expects to continue to be able to obtain fuel in quantities sufficient to meet
+its future requirements. The Company contracts directly with refiners for the
+purchase of portions of its fuel. Standard industry contracts generally do not
+provide protection against fuel price increases and do not ensure availability
+of supply. Accordingly, a significant increase in the cost of fuel, if not
+accompanied by an equivalent increase in passenger revenues, would have a
+material impact on the Company's future operating results. During 2000 the
+Company's average price of fuel increased from $0.93 per gallon to $1.26 per
+gallon resulting in $4.9 million of increased costs to the Company for the year.
+
+                                       4
+<PAGE>
+EMPLOYEES
+
+    On December 31, 2000, the Company had 965 full-time and 323 part-time
+employees as follows:
+
+<TABLE>
+<S>                                                           <C>
+CLASSIFICATION:
+Pilots......................................................     303
+Station personnel...........................................     582
+Maintenance personnel.......................................     290
+Administrative and clerical personnel.......................      59
+Flight attendants...........................................      18
+Management..................................................      36
+                                                               -----
+  Total employees...........................................   1,288
+                                                               =====
+</TABLE>
+
+    The Company's pilots are represented by the International Brotherhood of
+Teamsters. The agreement with the pilots became amendable October 30, 2000, and
+negotiations are continuing. The Company's flight attendants are also
+represented by the International Brotherhood of Teamsters, and the agreement
+with the flight attendants becomes amendable April 1, 2002.
+
+    The Company's mechanics and maintenance clerks are represented by the
+International Association of Machinists ("IAM"). The mechanics agreement becomes
+amendable November 1, 2005, and the maintenance clerks agreement becomes
+amendable March 1, 2002.
+
+    The Company believes that relations with its employees are satisfactory.
+
+CHARTER AND FREIGHT SERVICE
+
+    The Company uses available aircraft and from time to time leases four and
+six passenger aircraft from an affiliated company to provide charter services to
+private individuals, corporations and groups such as athletic teams. The Company
+also carries freight, mail and small packages on most of its scheduled flights.
+Revenues from its charter flights and freight deliveries were 3.8 percent,
+4.4 percent and 3.3 percent of the Company's total revenues for the years ended
+December 31, 2000, 1999 and 1998, respectively.
+
+REGULATION
+
+    In accordance with the provisions of the Federal Aviation Act of 1958, as
+amended (the "1958 Act"), the Company is an air carrier subject to regulation by
+the DOT, primarily with respect to economic matters, and is also subject to
+regulation by the FAA with respect to certain safety related matters.
+
+    The 1958 Act eliminated many regulatory constraints so that airlines became
+free to set fares and, with limited exceptions, to establish domestic routes
+without the necessity of seeking government approval. The DOT is still
+authorized to establish consumer protection regulations; to prohibit certain
+pricing practices; to mandate conditions of carriage; and to make ongoing
+determinations of a carrier's fitness, willingness and ability to properly and
+lawfully provide air transportation. The DOT also has the power to bring
+proceedings for the enforcement of its regulations under the 1958 Act, including
+the assessment of civil penalties and the revocation of operating authority, and
+to seek criminal sanctions.
+
+    The Company holds an air carrier-operating certificate issued by the FAA
+pursuant to Part 121 of its regulations. The Company, as a commuter air carrier,
+is licensed under Part 298 of the Economic Regulations of the DOT. The Company
+is subject to the jurisdiction of the FAA with respect to its aircraft
+maintenance and operations, including equipment, ground facilities, dispatch,
+communications, training, weather observation, flight personnel and other
+matters affecting air safety. To ensure compliance with its regulations, the FAA
+requires airlines to obtain an operating certificate and operations
+specifications for the particular aircraft and types of operations conducted by
+the carrier, all of which are subject to suspension or revocation for cause.
+
+                                       5
+<PAGE>
+    The Company is subject to the jurisdiction of the Federal Communications
+Commission regarding the use of its radio facilities. Local governments and
+authorities in certain markets have adopted regulations governing various
+aspects of aircraft operations, including noise abatement and curfews and use of
+airport facilities. The Company believes that it is in compliance with all such
+regulations.
+
+INSURANCE
+
+    The Company carries the types and amounts of insurance required by the DOT
+and customary in the regional airline industry, including coverage for public
+liability, property damage, aircraft loss or damage, baggage and cargo liability
+and workers' compensation. The Company believes that the insurance is adequate
+as to amounts and risks covered. There can be no assurance, however, that the
+limits of the Company's insurance will be sufficient to cover any catastrophic
+loss.
+
+ITEM 2. PROPERTIES
+
+    The Company leases gate and ramp facilities at 54 airports where ticketing,
+passenger loading, and unloading are handled by Company personnel. Payments to
+airport authorities for ground facilities are based on a number of factors,
+including the amount of space used and flight volume. The Company also leases
+aircraft hangar space for maintenance operations at four of the locations it
+serves.
+
+    The Company leases approximately 15,000 square feet of space in Spencer,
+Iowa which was previously used for administrative, flight operations and
+maintenance offices, in addition to approximately 35,000 square feet of aircraft
+maintenance and hangar space located adjacent thereto. The Company leases an
+additional 32,000 square feet of space in Spencer for its certified repair
+station. Both of these leases expire within the next 18 months and the Company
+will not renew these leases. Effective January 1, 2000, the Company entered into
+a lease in Cheyenne, Wyoming, for approximately 42,000 square feet of space for
+administration and maintenance needs. In 1999, construction began on an
+additional leased facility in Cheyenne that the Company occupied in 2000. The
+facility is approximately 54,000 square feet and is used for administrative,
+flight operations, and maintenance offices, maintenance and hangar space. The
+Company believes that it has adequate facilities for the conduct of its current
+and planned operations.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+    The Company is a defendant in a lawsuit arising from the collision of a
+small aircraft with one of the Company's Beechcraft 1900 aircraft in Quincy,
+Illinois on November 19, 1996. The collision occurred at the intersection of two
+runways as the Company's aircraft was landing, and resulted in the death of all
+ten passengers and the two crewmembers. The Company's insurance carrier is
+providing for the Company's defense in the lawsuit and the Company believes that
+all claims arising from the accident will be adequately covered by insurance.
+
+    The Company is a party to several routine pending legal proceedings, none of
+which management believes are material to the Company.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+    There were no matters submitted to a vote of the Company's shareholders
+during the three-month period ended December 31, 2000.
+
+                                       6
+<PAGE>
+                                    PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+    The Company's Common Stock is traded under the symbol "GLUX" on the NASDAQ
+SmallCap Market. The Company's Common Stock began trading on January 19, 1994,
+the date of its initial public offering. The initial public offering price of
+the Company's Common Stock was $11.00 per share.
+
+    The following table sets forth the range of high and low sale prices for the
+Company's Common Stock for each of the fiscal quarters for the past two years as
+reported by Nasdaq. These prices represent inter-dealer prices without
+adjustments for mark-up, mark-down or commission and do not necessarily reflect
+actual transactions.
+
+<TABLE>
+<CAPTION>
+STOCK QUOTATIONS                                                HIGH       LOW
+----------------                                              --------   --------
+<S>                                                           <C>        <C>
+2000
+  First quarter.............................................   $3.00      $1.75
+  Second quarter............................................    2.25       1.47
+  Third quarter.............................................    2.00       1.06
+  Fourth quarter............................................    2.25        .63
+
+1999
+  First quarter.............................................   $3.00      $1.88
+  Second quarter............................................    3.00       2.06
+  Third quarter.............................................    3.13       2.25
+  Fourth quarter............................................    2.88       1.13
+</TABLE>
+
+    As of March 26, 2001, the Company had approximately 1,800 holders of its
+Common Stock. The closing price of its common stock on March 26, 2001, as
+reported by the NASDAQ SmallCap Market was $1.875 per share.
+
+    The transfer agent for the Company's Common Stock is Wells Fargo Bank
+Minnesota, N.A., 161 North Concord Exchange, South St. Paul, Minnesota,
+55075-0738, telephone: (651) 450-4064.
+
+    The Company has not paid any dividends on its Common Stock since its initial
+public offering in January 1994 and expects that for the foreseeable future it
+will follow a policy of retaining earnings in order to finance the continued
+development of its business. Payment of dividends is within the discretion of
+the Company's Board of Directors and will depend upon the earnings, capital
+requirements and operating and financial condition of the Company, and any
+applicable restrictive debt and lease covenants, among other factors.
+
+                                       7
+<PAGE>
+ITEM 6. SELECTED FINANCIAL AND OPERATING DATA
+
+    The following statement of operations and balance sheet data as of and for
+each of the years in the five-year period ended December 31, 2000 are derived
+from the Company's financial statements. The financial statements for the year
+ended December 31, 2000, 1999, 1998, and 1997 have been audited by KPMG LLP, and
+the financial statements for the year ended 1996 have been audited by Arthur
+Andersen LLP, independent public accountants. The financial statements as of
+December 31, 2000 and 1999 and for each of the years in the three-year period
+ended December 31, 2000 and the reports thereon are included elsewhere in this
+Form 10-K. The following selected financial data should be read in conjunction
+with and are qualified in their entirety by the financial statements and the
+notes thereto and the independent auditors' report, which contains an
+explanatory paragraph that states that the Company's significant losses from
+operations raise substantial doubt about the entity's ability to continue as a
+going concern, included elsewhere in this Form 10-K. These financial statements
+and selected data do not include any adjustments that might result from the
+outcome of the uncertainty.
+
+<TABLE>
+<CAPTION>
+                                                                 YEAR ENDED DECEMBER 31,
+                                              -------------------------------------------------------------
+                                                2000         1999         1998         1997         1996
+                                              ---------    ---------    ---------    ---------    ---------
+                                              (IN THOUSANDS, EXCEPT PER SHARE AND SELECTED OPERATING DATA)
+<S>                                           <C>          <C>          <C>          <C>          <C>
+STATEMENT OF OPERATIONS DATA:
+  Passenger and public service revenues...    $126,914     $122,890     $108,467     $ 81,335     $107,528
+  Other revenues..........................       6,676        8,480        5,565        2,455        2,142
+                                              --------     --------     --------     --------     --------
+      Total operating revenues............     133,590      131,370      114,032       83,790      109,670
+                                              --------     --------     --------     --------     --------
+  Operating expenses
+    Salaries, wages and benefits..........      35,162       33,037       29,106       22,091       27,801
+    Aircraft fuel.........................      21,503       16,557       13,974       13,206       19,377
+    Aircraft repairs......................      17,491       17,478        9,426        7,041       13,248
+    Commissions...........................       4,248        5,796        5,560        5,553        7,704
+    Depreciation and amortization.........       7,103        4,779        3,499        4,192        5,634
+    Aircraft rental.......................       9,226       13,194       16,511       10,712       11,643
+    Other rentals and landing fees........       7,808        6,504        6,375        5,443        6,794
+    Other operating expense...............      30,113       25,316       22,922       19,968       25,871
+    Non-recurring expenses................          --           --          146        9,234           --
+                                              --------     --------     --------     --------     --------
+      Total operating expenses............     132,654      122,661      107,519       97,440      118,072
+  Operating (loss) income.................         936        8,709        6,513      (13,650)      (8,402)
+  Interest expense, net...................       9,169        5,974        3,485        4,621        5,875
+  Loss on sale of assets..................          --            7          191           --           --
+                                              --------     --------     --------     --------     --------
+  Income (loss) before income tax
+    expense...............................      (8,233)       2,728        2,837      (18,271)     (14,277)
+  Income tax expense (benefit)............           6           --          115           --       (1,454)
+                                              --------     --------     --------     --------     --------
+  Net income (loss).......................    $ (8,239)    $  2,728     $  2,722     $(18,271)    $(12,823)
+                                              ========     ========     ========     ========     ========
+  Net income (loss) per share: Basic......    $  (0.95)    $   0.32     $   0.34     $  (2.41)    $  (1.69)
+                                              ========     ========     ========     ========     ========
+  Net income (loss) per share: Diluted....    $  (0.95)    $   0.29     $   0.31     $  (2.41)    $  (1.69)
+                                              ========     ========     ========     ========     ========
+  Average number of common shares
+    outstanding--Basic....................       8,646        8,634        7,925        7,589        7,585
+                                              ========     ========     ========     ========     ========
+  Average number of common shares
+    outstanding--Diluted..................       8,646        9,336        8,703        7,589        7,585
+                                              ========     ========     ========     ========     ========
+</TABLE>
+
+                                       8
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                         YEAR ENDED DECEMBER 31,
+                                        ----------------------------------------------------------
+                                           2000         1999        1998       1997        1996
+                                        ----------   ----------   --------   --------   ----------
+<S>                                     <C>          <C>          <C>        <C>        <C>
+BALANCE SHEET DATA:
+Working capital (deficit).............  $  (10,366)  $   (3,112)  $ (3,025)  $ (5,595)  $      603
+Total assets..........................     143,179      148,876     72,281     63,758      118,109
+Long-term debt, net of current
+  maturities..........................      96,054       98,701     28,471     28,471       65,986
+Stockholders' equity..................         130        8,619      5,850      1,127       18,740
+
+SELECTED OPERATING DATA:
+  Available seat miles (000s)(1)......     525,872      526,095    489,213    438,272      678,304
+  Revenue passenger miles (000s)(2)...     265,589      265,733    250,098    202,689      299,607
+  Revenue passengers carried..........   1,117,576    1,057,798    873,186    676,015    1,101,265
+  Departures flown....................     126,770      133,423    122,278    102,722      165,972
+  Passenger load factor(3)............       50.5%        50.5%      51.1%      46.2%        44.2%
+  Break-even passenger load
+    factor(4).........................       52.9%        49.1%      49.3%      59.5%        51.5%
+  Average yield per revenue passenger
+    mile(5)...........................  42.2 CENTS   40.1 CENTS   37.4 CENTS 37.1 CENTS 34.7 CENTS
+  Operating cost per available seat
+    mile(6)...........................  25.2 CENTS   23.3 CENTS   22.0 CENTS 22.2 CENTS 17.4 CENTS
+  Average passenger fare(7)...........  $   100.25   $   100.83     107.26   $ 111.25       102.69
+  Average passenger trip length
+    (miles)(8)........................         238          251        286        300          296
+  Aircraft in service (end of
+    period)...........................          52           52         53         47           54
+  Destinations served (end of
+    period)...........................          57           67         71         51           86
+</TABLE>
+
+------------------------
+
+(1) "Available seat miles" or "ASMs" represent the number of seats available for
+    passengers in scheduled flights multiplied by the number of scheduled miles
+    those seats are flown.
+
+(2) "Revenue passenger miles" or "RPMs" represent the number of miles flown by
+    revenue passengers.
+
+(3) "Passenger load factor" represents the percentage of seats filled by revenue
+    passengers and is calculated by dividing revenue passenger miles by
+    available seat miles.
+
+(4) "Break-even passenger load factor" represents the percentage of available
+    seat miles which must be flown by revenue passengers at the average yield
+    (net of commissions and fees) for airline operations to break even.
+
+(5) "Average yield per revenue passenger mile" represents the average passenger
+    revenue received for each mile a revenue passenger is carried.
+
+(6) "Operating cost per available seat mile" represents operating expenses
+    divided by available seat miles.
+
+(7) "Average passenger fare" represents passenger revenue divided by the number
+    of revenue passengers carried.
+
+(8) "Average passenger trip length" represents revenue passenger miles divided
+    by the number of revenue passengers carried.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+OVERVIEW
+
+    The discussion and analysis throughout this filing contains certain
+forward-looking terminology such as "believes," "anticipates," "will," and
+"intends," or comparable terminology. Such statements are subject to certain
+risks and uncertainties that could cause actual results to differ materially
+from those projected.
+
+                                       9
+<PAGE>
+Potential purchasers of the Company's securities are cautioned not to place
+undue reliance on such forward-looking statements which are qualified in their
+entirety by the cautions and risks described herein and in other reports filed
+by the Company with the Securities and Exchange Commission.
+
+    The Company began providing air charter service in 1979, and has provided
+scheduled passenger service since 1981. Since April 1992, the Company has
+operated as a United Express carrier under a cooperative marketing agreement
+with United, which will terminate on April 30, 2001. Subsequently, the Company
+will operate under its own name as a code sharing partner with United and
+potentially other carriers. As of December 31, 2000 the Company provided
+passenger service to 57 destinations in fourteen states with 318 scheduled
+departures each weekday.
+
+RESULTS OF OPERATIONS
+
+    The following table sets forth certain financial and operating information
+regarding the Company for the last three fiscal years:
+
+<TABLE>
+<CAPTION>
+                                                               FOR THE YEARS ENDED DECEMBER 31
+                                  -----------------------------------------------------------------------------------------
+                                                2000                               1999                        1998
+                                  --------------------------------   --------------------------------   -------------------
+                                                            %                                  %
+                                              CENTS      INCREASE                CENTS      INCREASE                CENTS
+                                               PER      (DECREASE)                PER      (DECREASE)                PER
+                                   AMOUNT      ASM      FROM 1999     AMOUNT      ASM      FROM 1998     AMOUNT      ASM
+                                  --------   --------   ----------   --------   --------   ----------   --------   --------
+                                                                   (DOLLARS IN THOUSANDS)
+<S>                               <C>        <C>        <C>          <C>        <C>        <C>          <C>        <C>
+Operating revenues
+  Passenger.....................  $112,037                   5.0%    $106,661                  14.1%    $ 93,441
+  Public service................    14,877                  (8.3)      16,229                   8.9       15,026
+  Other.........................     6,676                 (21.3)       8,480                  52.4        5,565
+                                  --------                 -----     --------                 -----     --------
+TOTAL OPERATING REVENUES........   133,590                   1.7      131,370                  15.2      114,032
+                                  --------                 -----     --------                 -----     --------
+  Salaries, wages and
+    benefits....................    35,162      6.7 CENTS      6.4     33,037      6.3 CENTS     13.5     29,107      5.9 CENTS
+  Aircraft fuel.................    21,503      4.1         26.7       16,557      3.1         26.7       13,974      2.9
+  Aircraft maintenance materials
+    and component repairs.......    17,491      3.3          0.1       17,478      3.3         85.4        9,426      1.9
+  Commissions...................     4,248      0.8        (26.7)       5,796      1.1          4.3        5,559      1.1
+  Depreciation and
+    amortization................     7,103      1.4         48.6        4,779      0.9         36.6        3,499      0.7
+  Aircraft rental...............     9,226      1.8        (30.1)      13,194      2.5        (20.1)      16,511      3.4
+  Other rentals and landing
+    fees........................     7,808      1.5         20.0        6,504      1.2          2.0        6,375      1.3
+  Other operating expense.......    30,113      5.7         18.9       25,316      4.8         10.4       22,922      4.7
+  Non-recurring expenses........        --       --           --           --       --           --          146      0.0
+                                  --------     ----        -----     --------     ----        -----     --------     ----
+    Total Operating Expenses....   132,654     25.2 CENTS      8.1%   122,661     23.3 CENTS     14.1%   107,519     22.0 CENTS
+                                  --------     ----        -----     --------     ----        -----     --------     ----
+    Operating income............  $    936       --           --     $  8,709       --         33.7     $  6,513       --
+                                  ========     ====        =====     ========     ====        =====     ========     ====
+    Interest....................  $  9,169      1.7 CENTS     53.5%  $  5,974      1.1 CENTS     71.4%  $  3,485      0.7 CENTS
+                                  ========     ====        =====     ========     ====        =====     ========     ====
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                INCREASE(DECREASE)                    INCREASE(DECREASE)
+                                    2000            FROM 1999             1999            FROM 1998             1998
+                                  --------      ------------------      --------      ------------------      --------
+<S>                               <C>           <C>                     <C>           <C>                     <C>
+Available Seat Miles
+  (000s)....................      525,872              --               526,095             7.5%              489,213
+Revenue Passenger Miles
+  (000s)....................      265,589            (0.1)%             265,733             6.3%              250,098
+Passenger Load Factor.......       50.5%               --                50.5%            (0.6)pts             51.1%
+Average Yield per Revenue
+  Passenger Mile............      42.2 CENTS          5.2%              40.1 CENTS          7.2%              37.4 CENTS
+</TABLE>
+
+                                       10
+<PAGE>
+COMPARISON OF 2000 TO 1999
+
+    PASSENGER REVENUES:  Passenger revenues increased 5.0% from 1999 as a result
+of a similar increase in yield per revenue passenger mile. This increase was
+produced by fare increases instituted to recover the higher cost of fuel.
+However, passenger traffic and revenue passenger miles remained flat between the
+two years as a result of a shift in flying from longer stage length markets such
+as Denver to Bismark, North Dakota and Sioux Falls, South Dakota to shorter
+stage length markets such as Denver to Santa Fe, New Mexico and Gillette,
+Wyoming and during the third quarter, disruptions and cancellations of United
+connecting flights. Further, yield increases in 2000 were reduced from what they
+otherwise would have been as a result of discount fares in the third and fourth
+quarters instituted by United to regain market share lost during their schedule
+disruptions.
+
+    PUBLIC SERVICE REVENUES:  Reduced public service revenues resulted from
+discontinuance of subsidized service to Fairmont, Minnesota, Goodland and Great
+Bend, Kansas, and Lamar, Colorado.
+
+    OTHER REVENUES:  The decline in other revenues resulted from the
+discontinuation of ground handling of certain other airlines.
+
+    OPERATING EXPENSES:  Total operating expenses increased $10.0 million, or
+8.1% to $132.7 million, or 25.2 cents per ASM, in 2000 from $122.7 million, or
+23.3 cents per ASM in 1999. The largest factor in the increase is increasing
+fuel costs of $4.9 million in 2000, as described below.
+
+    Salaries, wages, and benefits expense increased to $35.1 million to 6.7
+cents per ASM during 2000, from 6.3 cents per ASM during 1999, primarily as a
+result of higher labor rates under the union agreements with the Company's
+mechanics and flight crews.
+
+    Aircraft fuel expense increased $4.9 million in 2000, due to an increase in
+the average price per gallon to $1.26 per gallon in 2000 from $.93 per gallon in
+1999 or an increase of 35.5% per gallon. During the first three months of 2001,
+fuel prices have decreased slightly. The Company is unable to predict future
+price levels.
+
+    Commissions decreased $1.5 million, or 26.7% in 2000 due to a reduction in
+the level of tickets purchased through travel agencies and a decrease in
+commission rates.
+
+    Depreciation and amortization increased $2.3 million, or 48.6% in 2000 and
+aircraft rentals decreased $4.0 million, or 30.1% in 2000 primarily as a result
+of the purchase in July 1999 of 22 aircraft that had previously been financed as
+operating leases.
+
+    Other rentals and landing fee expenses increased $1.3 million, or 20.0% to
+1.5 cents per ASM during 2000, from 1.2 cents per ASM in 1999 primarily as a
+result of increased activity at the Denver Hub.
+
+    Other operating expenses increased $4.8 million, or 19.0% to 5.7 cents per
+ASM in 2000 from 4.8 cents in 1999, reflecting higher general and
+administrative, marketing and communications costs.
+
+    Interest expense increased $3.2 million in 2000, primarily as a result of
+the purchase in July 1999 of 22 additional aircraft that had previously been
+financed as operating leases.
+
+    INCOME TAX EXPENSE (BENEFIT):  No income tax benefit was recorded for 2000
+due to the fact that the Company is in a loss carry forward position and that
+the realization of any benefits of such are substantially in doubt. The Company
+incurred $6 thousand of state income tax expense in 2000.
+
+COMPARISON OF 1999 TO 1998
+
+    OPERATING REVENUES:  Operating revenues increased 15.2% to $131.4 million in
+1999 from $114.0 million during 1998. The increase in operating revenues
+resulted from the increase in revenue passenger miles flown by 6.3% to
+265.7 million in 1999 from 250.1 million during 1998 and a 7.2% increase in
+average yield per passenger mile to 40.1 cents in 1998 from 37.4 cents in 1998.
+Capacity increased to 526.1 million ASMs in 1999 from 489.2 million ASMs during
+1998. The additional capacity is a result of a full year's worth of service from
+the expansion of service in the Denver markets. In addition, public service
+revenue increased 8.0% to $16.2 million in 1999 from $15.0 million in 1998.
+
+                                       11
+<PAGE>
+    OPERATING EXPENSES:  Total operating expenses increased 14.1% to
+$122.7 million, or 23.3 cents per ASM, in 1999 from $107.5 million, or 22.0
+cents per ASM in 1998. The increase is due to increasing fuel costs in 1999, as
+well as higher maintenance materials and component repairs expense.
+
+    Salaries, wages, and benefits expense increased to 6.3 cents per ASM during
+1999, from 5.9 cents per ASM during 1998, primarily as a result of higher labor
+rates under the union agreements with the Company's mechanics and flight crews
+and the higher number of employees needed to support the increased level of
+operations.
+
+    Aircraft fuel expense per ASM increased to 3.2 cents in 1999 from 2.9 cents
+in 1998 due to increasing fuel prices during 1999.
+
+    Aircraft maintenance and repairs expense increased to 3.3 cents per ASM
+during 1999, from 1.9 cents per ASM in 1998. Maintenance materials expense in
+1998 was favorably impacted by the use of certain inventoried parts, which had
+been partially reserved in prior years.
+
+    Aircraft expense (depreciation and amortization, aircraft rental, and
+interest) decreased to 4.5 cents per ASM during 1999, from 4.8 cents per ASM in
+1998 as a result of a larger base of ASMs over which to spread the fixed cost of
+the aircraft.
+
+    Other rentals and landing fee expenses decreased to 1.2 cents per ASM during
+1999, from 1.3 cents per ASM in 1998.
+
+    Other operating expenses increased to 4.8 cents per ASM in 1999 from 4.7
+cents in 1998, reflecting higher general and administrative, marketing and
+communications costs.
+
+    Interest expense increased to $6.0 million in 1999 from $3.5 million in
+1998, primarily as a result of the purchase in July 1999 of 22 additional
+aircraft that had previously been financed as operating leases.
+
+    INCOME TAX EXPENSE (BENEFIT):  No income tax benefit was recorded for 1999
+due to the fact that the Company was in a loss carry forward position and that
+the realization of any benefits of such are substantially in doubt. The
+provision for income taxes in 1998 represents state income taxes estimated to be
+payable.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    On January 7, 2000, the Company entered into an agreement with Coast
+Business Credit to provide the Company with a $20 million revolving credit
+facility, collateralized by accounts receivable. The maximum borrowings
+available to the Company is based upon the amount of receivables available to
+collateralize the amount being borrowed. At closing, $5 million of proceeds was
+used to pay a short-term note due to Raytheon. At December 31, 2000, the amount
+available under the line of credit agreement was $13,161,347, all of which had
+been borrowed.
+
+    Raytheon is the Company's primary aircraft supplier and largest creditor.
+The Company has financed all but one of its Beechcraft 1900 aircraft and one of
+its Brasilia aircraft under related lease and debt agreements with Raytheon.
+Raytheon had also provided a $5 million working capital line of credit (payable
+on demand and expiring on June 30, 1999) and a $5 million short-term loan, due
+on June 30, 1999, and collateralized by Beechcraft spare parts and equipment and
+accounts receivable. The Company paid Raytheon $5 million on January 7, 2000
+upon closing of the agreement with Coast Business Credit (Coast). Additionally,
+the Company converted the remainder of the Raytheon working capital line of
+credit to a three-year term note on December 1, 2000.
+
+    The agreement with Coast contains a covenant which requires the Company to
+maintain a specific balance of tangible net worth, (as defined). At
+December 31, 2000, the Company was not in compliance with that covenant. Under
+the Coast agreement, such noncompliance permits Coast, at its option, to
+
+                                       12
+<PAGE>
+require immediate prepayment of all amounts owed by Great Lakes to Coast
+($13.2 million at December 31, 2000). Such action would further exacerbate the
+corporate liquidity issues described below. Coast has not, to date, taken any
+action as a result of the default although the interest rate on the Coast loan
+now has been increased by 3% annually as a result of not meeting a lesser net
+tangible assets requirement. This default could result in default on other
+agreements or contracts. Such default and recent losses could also have an
+adverse effect on the Company's relationship with current and potential code
+sharing partners.
+
+    The Company incurred a substantial loss during the fourth quarter which was
+partially caused by major fare reductions by United which in turn affected the
+fares received by the Company, in addition to winter weather related expenses
+and flight cancellations. The Company believes that its new code sharing
+agreement will provide more flexibility to set fares and potentially increase
+revenues. Because of the recent nature of these losses, the Company currently
+has no financing agreements in place under which it can secure additional funds.
+The Company is currently exploring alternatives to meet its future liquidity
+requirements and is making payment to significant creditors as current cash flow
+allows. The Company is in current contact with certain of these creditors
+regarding its slowness in payments. To date, no formal action has been taken by
+the Company's creditors. However, no assurance can be given that the Company's
+creditors may not take such action. Historically, the operations have been
+highly seasonal with the second and third quarters of the calendar year
+producing significantly more cash flow than the first and fourth quarters.
+
+    The Company believes the fair value of a number of its aircraft is higher
+than the current amount of financing on such aircraft.
+
+    As a result, during the first two months of 2001 passenger revenues declined
+by approximately 10.4 percent as compared to the first two months of 2000. This
+was partially the result of a discontinuation of unprofitable service at
+Rhinelander, Wisconsin on January 5 and Burlington, Iowa; Lafayatte, Indiana,
+and Mattoon, Illinois on February 15. In February of 2001, the Company cancelled
+20.5% of its scheduled operations primarily due to severe winter weather in the
+upper Midwest and five days of lower than required landing visibility due to fog
+conditions at its Denver hub. The Company estimates that these disruptions
+resulted in passenger revenue losses in excess of $1.5 million. As a result, the
+Company expects to incur a significant loss in the first quarter of 2001. In
+February and March of 2001, the Company did not make scheduled debt and lease
+payments to Raytheon of approximately $2 million. In addition, the Company did
+not make scheduled lease payments of $226,000 to two lessors on four aircraft.
+
+ACCOUNTING PRONOUNCEMENTS
+
+    In June 1998, the Financial Accounting Standards Board issued Statement
+No. 133, "Accounting for Derivative Instruments and Hedging Activities." This
+statement establishes accounting and reporting standards for derivative
+instruments and all hedging activities. It requires that an entity recognize all
+derivatives as either assets or liabilities at their fair values. Accounting for
+changes in the fair value of a derivative depends on its designation and
+effectiveness. For derivatives that qualify as effective hedges, the change in
+fair value will have no impact on earnings until the hedged item affects
+earnings. For derivatives that are not designated as hedging instruments, or for
+the ineffective portion of a hedging instrument, the change in fair value will
+affect current period earnings. At December 31, 2000, the Company had no
+derivative instruments. The Company adopted this statement on January 1, 2001.
+There has been no impact as a result of the adoption.
+
+    In 1999, the Securities and Exchange Commission (SEC) issued Staff
+Accounting Bulletin (SAB) No. 101, Revenue Recognition in Financial Statements.
+The SAB summarizes the SEC staff's views on applying generally accepted
+accounting principles to revenue recognition in financial statements. The
+company has reviewed its revenue recognition policies and has determined that
+they comply with the principles as set forth in SAB No. 101. Accordingly, the
+adoption of the SAB will have no effect on the Company's financial position or
+results of operations.
+
+                                       13
+<PAGE>
+FREQUENT FLYER PROGRAM
+
+    The Company's passengers carried as a part of a code-sharing flight with
+United, and effective May 1, 2001, carried under the Company's own name may earn
+miles in United's "Mileage Plus" frequent flyer program. Passengers may use
+mileage accumulated in this program to obtain discounted or free tickets for
+trips that might include a flight segment on one of the Company's flights. No
+revenues are earned or collected on free tickets awarded to passengers under the
+program. Awards earned under the frequent flyers program have an expiration date
+three years from the date earned however, the three year period is renewed each
+time the participant earns or redeems mileage. The program also contains certain
+restrictions, including blackout dates and capacity controlled bookings, which
+substantially limit the use of awards on certain flights and during the busiest
+periods. The Company continually monitors the number of free travel award
+reservations on its flight segments to ensure that they are within the capacity
+restrictions defined in the "Mileage Plus" program. The Company's yield
+management program and related seat restrictions minimize the number of revenue
+passengers that may be displaced on any individual flight segment. To date, the
+Company has not experienced any material use of "Mileage Plus" awards to obtain
+travel on flights, and the incremental cost to the Company attributable to the
+exercise of frequent flyer awards (consisting primarily of a minimal amount of
+additional gate and passenger service expenses) has not been material. Awards
+used on the Company's flights during the year ended December 31, 2000
+represented approximately 2.3% percent of the Company's total passengers. The
+Company expects that this percentage will remain approximately the same for the
+foreseeable future. Based on this low percentage, the availability on many of
+the Company's flights of otherwise vacant seats, and on the program's
+restrictions, the Company believes that the displacement, if any, of revenue
+passengers by users of "Mileage Plus" and awards will not become material. The
+Company continually monitors the number of awards redeemed and will accrue the
+incremental costs associated with the "Mileage Plus" and program if they become
+material.
+
+EFFECTS OF INFLATION
+
+    Except for the price of fuel, inflation has not had a material effect on the
+Company's operations in the past five years. The Company is subject to
+inflationary pressures from labor agreements, fuel price escalations and costs
+at airports served which it attempts to recover through fare and schedule
+adjustments.
+
+CAUTIONARY STATEMENTS FOR PURPOSES OF THE "SAFE HARBOR" PROVISIONS OF THE
+  PRIVATE SECURITIES LITIGATION REFORM ACT OF 1996
+
+CAUTIONARY FACTORS
+
+    The Company wishes to caution shareholders and prospective investors that
+the following important factors, among others identified in this Annual Report
+on Form 10-K, could affect the Company's actual operating results, and that such
+results could differ materially from those expressed in any forward-looking
+statements made by the Company. The statements under this caption are intended
+to serve as cautionary statements within the meaning of the Private Securities
+Litigation Reform Act of 1996. The following information is not intended to
+limit in any way the characterization of other statements or information under
+other captions as cautionary statements for such purpose. The order in which
+such factors appear below should not be construed to indicate their relative
+importance or priority.
+
+DEPENDENCE ON RELATIONSHIP WITH UNITED
+
+    The Company generated 100% of its passenger revenues for the year ended
+December 31, 2000 under the United Express Agreements described under
+"Business--United Express and Code Sharing Relationship". As a result of the
+relationship with United, the Company's business is sensitive to events and
+risks
+
+                                       14
+<PAGE>
+affecting United. If adverse events affect United's business as was the case in
+the last two quarters of 2000, the Company's business is also adversely
+affected.
+
+    The impact of this relationship is shown below in the graph "180-Day
+Advanced Bookings" which displays total passenger reservations for future
+flights by week. The summer 2000 United labor disruptions and schedule
+reductions resulted in a significant reduction in passenger reservations on
+Great Lakes during this high travel period. Major temporary fare reductions by
+United to regain market share diluted fourth quarter yields. Also displayed is
+the slowing of reservation sales at the end of 2000 and early 2001 as capacity
+is reduced to match anticipated traffic levels.
+
+EDGAR REPRESENTATION OF DATA POINTS USED IN PRINTED GRAPHIC
+
+<TABLE>
+<CAPTION>
+  DATE    ADVANCED BOOKINGS
+<S>       <C>
+1998
+1/4/98                45429
+1/11/98               49067
+1/18/98               52066
+1/25/98               52614
+2/1/98                54343
+2/8/98                56172
+2/15/98               57264
+2/22/98               58856
+3/1/98                60543
+3/8/98                62116
+3/15/98               64975
+3/22/98               72188
+3/29/98               78045
+4/5/98                84781
+4/12/98               91302
+4/19/98               98756
+4/26/98              102462
+5/3/98               108876
+5/10/98              113837
+5/17/98              120837
+5/24/98              124599
+5/31/98              127775
+6/7/98               128536
+6/14/98              125919
+6/21/98              122842
+6/28/98              120790
+7/5/98               120095
+7/12/98              116426
+7/19/98              113003
+7/26/98              111108
+8/2/98               110862
+8/9/98               108661
+8/16/98              109272
+8/23/98              115631
+8/30/98              125223
+9/6/98               125192
+9/13/98              116296
+9/20/98              117111
+9/27/98              118223
+10/4/98              118967
+10/11/98             117788
+10/18/98             117987
+10/25/98             117251
+11/1/98              118634
+11/8/98              115804
+11/15/98             113530
+11/22/98             108559
+11/29/98             107621
+12/6/98              104545
+12/13/98              96742
+12/20/98              85260
+12/27/98              83167
+1999
+1/3/99                79552
+1/10/99               83783
+1/17/99               84973
+1/24/99               88746
+1/31/99               90128
+2/7/99                93549
+2/14/99               96582
+2/21/99               99258
+2/28/99              101668
+3/7/99               105247
+3/14/99              108699
+3/21/99              112569
+3/28/99              117099
+4/4/99               119847
+4/11/99              123568
+4/18/99              126399
+4/25/99              132599
+5/2/99               136587
+5/9/99               143755
+5/16/99              150610
+5/23/99              153789
+5/30/99              159642
+6/6/99               164276
+6/13/99              171983
+6/20/99              178153
+6/27/99              174765
+7/4/99               165875
+7/11/99              163230
+7/18/99              166278
+7/25/99              157988
+8/1/99               155692
+8/8/99               152498
+8/15/99              147838
+8/22/99              144569
+8/29/99              138487
+9/5/99               142116
+9/12/99              139819
+9/19/99              138957
+9/26/99              137415
+10/3/99              137091
+10/10/99             133230
+10/17/99             132964
+10/24/99             131458
+10/31/99             130504
+11/7/99              132936
+11/14/99             134231
+11/21/99             131458
+11/28/99             123698
+12/5/99              121483
+12/12/99             116598
+12/19/99             112753
+12/26/99             101997
+2000
+1/3/00                93924
+1/10/00              103372
+1/17/00              111451
+1/24/00              113761
+1/31/00              115567
+2/7/00               119410
+2/14/00              125030
+2/21/00              130010
+2/28/00              127470
+3/6/00               127953
+3/13/00              129081
+3/20/00              132480
+3/27/00              132452
+4/3/00               133246
+4/10/00              136898
+4/17/00              139632
+4/24/00              143589
+5/1/00               150066
+5/8/00               152913
+5/15/00              160848
+5/22/00              162320
+5/29/00              164880
+6/5/00               167745
+6/12/00              172653
+6/19/00              173771
+6/26/00              177356
+7/3/00               169490
+7/10/00              165019
+7/17/00              164787
+7/24/00              162425
+7/31/00              155507
+8/7/00               146177
+8/14/00              135568
+8/21/00              128685
+8/28/00              124363
+9/4/00               123771
+9/11/00              123962
+9/18/00              149100
+9/25/00              165176
+10/2/00              159894
+10/9/00              155551
+10/16/00             154500
+10/23/00             147552
+10/30/00             137683
+11/6/00              136537
+11/13/00             134298
+11/20/00             131664
+11/27/00             123507
+12/4/00              121499
+12/11/00             117156
+12/18/00             110365
+12/25/00              98729
+2001
+1/1/01                84253
+1/8/01                83800
+1/15/01               92182
+1/22/01               93645
+1/29/01               97958
+2/5/01               100453
+2/12/01              102948
+2/19/01              103578
+2/26/01              109862
+3/5/01               115744
+3/12/01              116851
+3/19/01              118113
+3/26/01              121067
+</TABLE>
+
+    On February 1, 2001, the Company and United entered into a new three-year
+code sharing agreement which becomes effective May 1, 2001. Under the new
+agreement, Great Lakes, operating under its own name may enter into code sharing
+agreements with certain other carriers. To the extent that the Company is
+successful in participating in code sharing agreements with other carriers, it
+will reduce its dependence on United and may mitigate the effects of such
+adverse events if they relate to United only.
+
+EFFECT OF GENERAL ECONOMIC CONDITIONS
+
+    The airline industry is significantly affected by general economic
+conditions. During recent recessions, most airlines reduced fares in an effort
+to increase traffic. Economic and competitive conditions in the airline industry
+have contributed to a number of bankruptcies and liquidations among airlines. A
+worsening of current economic conditions, or an extended period of recession
+nationally or regionally, would have a material adverse effect on the Company's
+operations.
+
+FUEL COSTS
+
+    Fuel is a major component of operating expense for all airlines. The
+Company's cost of fuel varies directly with market conditions, and the Company
+has no guaranteed long-term sources of supply. The
+
+                                       15
+<PAGE>
+Company intends generally to follow industry trends by raising fares in response
+to significant fuel price increases. However, the Company's ability to pass on
+increased fuel costs through fare increases may be limited by economic and
+competitive conditions. Accordingly, a reduction in the availability or an
+increase in the price of fuel could have a material adverse effect on the
+Company's cash flow from operations and profitability.
+
+SEASONALITY
+
+    Historically, the Company has experienced lower passenger volumes during the
+months of January through April and in November and December. This seasonality
+can be attributed primarily to relatively difficult winter weather operating
+conditions in the Company's principal area of operations, resulting in fewer
+vacations and other discretionary trips and reduced business travel during these
+months. These seasonal factors have generally resulted in reduced revenues,
+increased operating losses and reduced cash flow for the Company during these
+months.
+
+CONTROL BY PRINCIPAL STOCKHOLDER
+
+    Mr. Douglas G. Voss beneficially owns or controls approximately 62% of the
+outstanding shares of the Company's common stock. On October 22, 1996, Mr. Voss
+transferred approximately one-half of the shares of the Company's common stock
+owned by him to his ex-spouse, Ms. Gayle R. Brandt, pursuant to the Marital
+Dissolution Stipulation and Property Settlement. Ms. Brandt has granted
+Mr. Voss an Irrevocable Proxy to vote such securities until June 28, 2010.
+Accordingly, Mr. Voss will continue to be in a position to control the
+management and affairs of the Company.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+MARKET RISKS ASSOCIATED WITH FINANCIAL STATEMENTS
+
+    The risk inherent in the Company's market risk sensitive instruments and
+positions is the potential loss arising from adverse changes in those factors.
+The Company is susceptible to certain risks related to changes in the cost of
+aircraft fuel and changes in interest rates. At December 31, 2000, the Company
+does not have any derivative financial instruments.
+
+AIRCRAFT FUEL
+
+    Airline operators are dependent upon fuel to operate and therefore, are
+impacted by changes in aircraft fuel prices. Great Lakes' earnings are affected
+by changes in the price and availability of aircraft fuel. Aircraft fuel
+represented approximately 16.2% of Great Lakes' operating expenses in 2000. A
+one-cent change in the average cost of aircraft fuel would impact the Company's
+aircraft fuel expense by approximately $180,000 annually, based upon fuel
+consumption in 2000.
+
+INTEREST RATES
+
+    The Company's operations are very capital intensive, as the vast majority of
+assets are flight equipment, which are long lived. Great Lakes' exposure to
+market risk associated with changes in interest rates relates to its debt
+obligations. The Company does have exposure to changes in cash flows resulting
+from changes in interest rates as a significant portion of its long-term debt
+has variable interest rates. Additionally, the Company is exposed to changes in
+fair values of its debt obligations which carry fixed rates of interest. As
+disclosed in Note 5 to the Financial Statements, the Company has total long-term
+debt outstanding of $105.5 million at December 31, 2000.
+
+                                       16
+<PAGE>
+    Assuming no change in variable rates at December 31, 2000 the interest
+expense on long term obligations due in the five subsequent years and thereafter
+were as follows:
+
+<TABLE>
+<CAPTION>
+                                        FIXED      AVERAGE     VARIABLE     AVERAGE
+                                         RATE       FIXED        RATE       VARIABLE
+                                      ----------   --------   -----------   --------
+<S>                                   <C>          <C>        <C>           <C>
+2001................................  $1,266,985     8.96%    $ 8,147,583     7.87%
+2002................................   1,379,695     8.96       6,909,433     7.94
+2003................................   1,461,161     8.96       7,352,631     7.94
+2004................................     627,670     8.96       5,422,600     8.36
+2005................................     678,825     9.08       5,853,250     8.36
+Thereafter..........................   1,345,041     9.08      65,465,173     8.36
+</TABLE>
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+    The consolidated financial statements of the Company as of December 31, 2000
+and 1999 together with Independent Auditor's Report are included in this
+Form 10-K on the pages indicated below.
+
+<TABLE>
+<CAPTION>
+                                                                PAGE
+                                                              --------
+<S>                                                           <C>
+Independent Auditors' Report................................  18
+
+Balance Sheets as of December 31, 2000 and 1999.............  19
+
+Statements of Operations for the Years Ended December 31,
+  2000, 1999 and 1998.......................................  20
+
+Statements of Stockholders' Equity for the Years Ended
+  December 31, 2000, 1999,
+  and 1998..................................................  21
+
+Statements of Cash Flows for the Years Ended December 31,
+  2000, 1999, and 1998......................................  22
+
+Notes to Financial Statements...............................  24
+
+Supplemental Schedule to Financial Statements
+  Schedule II--Valuation and Qualifying Accounts............  36
+</TABLE>
+
+                                       17
+<PAGE>
+                          INDEPENDENT AUDITORS' REPORT
+
+The Board of Directors
+Great Lakes Aviation, Ltd.:
+
+    We have audited the accompanying balance sheets of Great Lakes
+Aviation, Ltd. (an Iowa Corporation) as of December 31, 2000 and 1999, and the
+related statements of operations, stockholders' equity, and cash flows for each
+of the years in the three-year period ended December 31, 2000. In connection
+with our audits of the financial statements we have also audited the financial
+statement schedule. These financial statements and the financial statement
+schedule are the responsibility of the Company's management. Our responsibility
+is to express an opinion on these financial statements and the financial
+statement schedule based on our audits.
+
+    We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+    In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Great Lakes Aviation, Ltd.
+as of December 31, 2000 and 1999, and the results of its operations and its cash
+flows for each of the years in the three-year period ended December 31, 2000, in
+conformity with accounting principles generally accepted in the United States of
+America. Also in our opinion, the related financial statement schedule, when
+considered in relation to the basic financial statements taken as a whole,
+presents fairly, in all material respects, the information set forth therein.
+
+    The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. As discussed in note 2 to the
+financial statements, the Company has suffered significant losses in the year
+ended December 31, 2000, and has liabilities in excess of current assets at
+December 31, 2000. These matters raise substantial doubt about the Company's
+ability to continue as a going concern. Management's plans in regard to these
+matters are also described in note 2. The financial statements do not include
+any adjustments that might result from the outcome of this uncertainty.
+
+                                              /s/ KPMG LLP
+                                          --------------------------------------
+                                              KPMG LLP
+
+Des Moines, Iowa
+March 10, 2001
+
+                                       18
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                                 BALANCE SHEETS
+
+                           DECEMBER 31, 2000 AND 1999
+
+<TABLE>
+<CAPTION>
+                                                                  2000           1999
+                                                              ------------   ------------
+<S>                                                           <C>            <C>
+                                         ASSETS
+Current assets:
+  Cash......................................................  $  1,995,706   $     83,957
+  Accounts receivable (note 5)..............................    12,541,345     12,575,663
+  Inventories, net (notes 1 and 5)..........................    15,383,147     17,975,354
+  Prepaid expenses and other current assets.................       923,985        643,443
+                                                              ------------   ------------
+    Total current assets....................................    30,844,183     31,278,417
+
+Property and equipment:
+  Flight equipment (notes 4 and 5)..........................   122,250,002    122,250,002
+  Other property and equipment..............................     6,342,481      5,187,840
+  Less accumulated depreciation and amortization............   (18,310,656)   (12,073,477)
+                                                              ------------   ------------
+    Total property and equipment............................   110,281,827    115,364,365
+                                                              ------------   ------------
+Other assets................................................     2,053,288      2,233,234
+                                                              ------------   ------------
+                                                              $143,179,298   $148,876,016
+                                                              ============   ============
+
+                          LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Note payable and current maturities of long-term debt
+    (note 5)................................................  $ 22,575,915   $ 14,423,711
+  Accounts payable..........................................    14,175,927     12,727,479
+  Accrued liabilities and unearned revenue..................     3,561,177      4,783,057
+  Deferred lease payments...................................       897,247      2,456,624
+                                                              ------------   ------------
+    Total current liabilities...............................   41,210, 266     34,390,871
+                                                              ------------   ------------
+Long-term debt, net of current maturities (note 5)..........    96,053,979     98,700,724
+Deferred credits............................................     3,564,566      4,627,510
+Deferred lease payments.....................................     2,220,729      2,537,529
+Stockholders' equity: (note 5)
+  Common stock, $.01 par value; 50,000,000 shares
+    authorized, 8,657,651 and 8,637,440 shares issued and
+    outstanding at December 31, 2000 and 1999...............        86,577         86,374
+  Paid-in capital...........................................    31,358,847     31,609,841
+  Accumulated deficit.......................................   (31,315,666)   (23,076,833)
+                                                              ------------   ------------
+      Total stockholders' equity............................       129,758      8,619,382
+                                                              ------------   ------------
+Commitments and contingencies (notes 4, 5, and 9)
+                                                              $143,179,298   $148,876,016
+                                                              ============   ============
+</TABLE>
+
+See accompanying notes to financial statements.
+
+                                       19
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                            STATEMENTS OF OPERATIONS
+
+                 YEARS ENDED DECEMBER 31, 2000, 1999, AND 1998
+
+<TABLE>
+<CAPTION>
+                                                          2000           1999          1998
+                                                      ------------   ------------   -----------
+<S>                                                   <C>            <C>            <C>
+Operating revenues:
+  Passenger.........................................  $112,036,604   $106,661,151   $93,440,953
+  Public service....................................    14,876,983     16,228,491    15,026,050
+  Freight, charter, and other.......................     6,676,160      8,480,361     5,564,957
+                                                      ------------   ------------   -----------
+    Total operating revenues........................   133,589,747    131,370,003   114,031,960
+                                                      ------------   ------------   -----------
+Operating expenses:
+  Salaries, wages, and benefits.....................    35,162,270     33,037,214    29,106,739
+  Aircraft fuel.....................................    21,503,364     16,557,193    13,973,669
+  Aircraft maintenance materials and repairs........    17,491,132     17,477,722     9,425,672
+  Commissions.......................................     4,247,974      5,796,046     5,559,553
+  Depreciation and amortization.....................     7,103,304      4,778,770     3,499,409
+  Aircraft rental (note 4)..........................     9,225,622     13,194,042    16,511,288
+  Other rentals and landing fees....................     7,808,230      6,503,750     6,374,889
+  Other operating expense...........................    30,112,321     25,316,303    22,922,191
+  Non-recurring expenses (note 3)...................            --             --       145,805
+                                                      ------------   ------------   -----------
+    Total operating expenses........................   132,654,217    122,661,040   107,519,215
+                                                      ------------   ------------   -----------
+    Operating income................................       935,530      8,708,963     6,512,745
+Other expense:
+  Interest expense, net.............................     9,168,247      5,974,213     3,485,357
+  Loss on sale of assets and other property.........            --          6,771       190,578
+                                                      ------------   ------------   -----------
+    (Loss) income before income taxes...............    (8,232,717)     2,727,979     2,836,810
+Income tax expense..................................         6,116             --       115,000
+                                                      ------------   ------------   -----------
+    Net (loss) income...............................  $ (8,238,833)  $  2,727,979   $ 2,721,810
+                                                      ============   ============   ===========
+Net (loss) income per share
+  Basic.............................................  $      (0.95)  $       0.32   $      0.34
+  Diluted...........................................  $      (0.95)  $       0.29   $      0.31
+
+Average shares outstanding
+  Basic.............................................     8,645,774      8,634,204     7,924,719
+  Diluted...........................................     8,645,774      9,335,991     8,702,792
+</TABLE>
+
+See accompanying notes to financial statements.
+
+                                       20
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                       STATEMENTS OF STOCKHOLDERS' EQUITY
+
+                 YEARS ENDED DECEMBER 31, 2000, 1999, AND 1998
+
+<TABLE>
+<CAPTION>
+                                     COMMON STOCK
+                                 --------------------     PAID-IN
+                                  SHARES      AMOUNT      CAPITAL     ACCUMULATED DEFICIT     TOTAL
+                                 ---------   --------   -----------   -------------------   ----------
+<S>                              <C>         <C>        <C>           <C>                   <C>
+Balance at December 31, 1997...  7,589,121   $75,891    $29,577,371       $(28,526,622)     $1,126,640
+Issuance of common stock.......  1,001,722    10,017      1,991,429                 --       2,001,446
+Net income.....................         --        --             --          2,721,810       2,721,810
+                                 ---------   -------    -----------       ------------      ----------
+Balance at December 31, 1998...  8,590,843    85,908     31,568,800        (25,804,812)      5,849,896
+
+Issuance of common stock.......     46,597       466         41,041                 --          41,507
+Net income.....................         --        --             --          2,727,979       2,727,979
+                                 ---------   -------    -----------       ------------      ----------
+
+Balance at December 31, 1999...  8,637,440   $86,374    $31,609,841       $(23,076,833)     $8,619,382
+
+Issuance at common stock.......     20,211       203         30,756                 --          30,959
+Redemption of warrants.........         --        --       (281,750)                --        (281,750)
+Net loss.......................         --        --             --         (8,238,833)     (8,238,833)
+                                 ---------   -------    -----------       ------------      ----------
+Balance at December 31, 2000...  8,657,651   $86,577    $31,358,847       $(31,315,666)     $  129,758
+                                 =========   =======    ===========       ============      ==========
+</TABLE>
+
+See accompanying notes to financial statements.
+
+                                       21
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                            STATEMENTS OF CASH FLOWS
+
+                 YEARS ENDED DECEMBER 31, 2000, 1999, AND 1998
+
+<TABLE>
+<CAPTION>
+                                                            2000           1999          1998
+                                                        -------------   -----------   -----------
+<S>                                                     <C>             <C>           <C>
+Operating activities:
+  Net (loss) income...................................  $  (8,238,833)  $ 2,727,979   $ 2,721,810
+  Adjustments to reconcile net (loss) income to net
+    cash provided by (used in) operating activities:
+    Write down of Brasilia assets and accrued disposal
+      costs...........................................             --            --       145,805
+    Depreciation and amortization.....................      6,932,179     4,778,770     3,499,409
+    Loss on disposal of assets, net...................             --         6,771       190,578
+    Change in current operating items:
+      Accounts receivable, net........................         34,318    (4,201,073)   (3,822,074)
+      Inventories, net................................      1,943,207      (965,654)   (6,846,326)
+      Prepaid expenses and other current assets.......       (280,542)      (20,905)      195,249
+      Deposits on flight equipment....................             --            --       (34,500)
+      Accounts payable and accrued liabilities........       (836,376)    1,200,024     2,882,576
+      Deferred lease payments.........................        104,905     2,439,351      (738,304)
+      Other...........................................        176,733       593,083            --
+                                                        -------------   -----------   -----------
+        Net cash (used in) provided by operating
+          activities..................................       (164,409)    6,558,346    (1,805,777)
+                                                        -------------   -----------   -----------
+Investing activities:
+  Purchases of flight equipment and other property and
+    equipment.........................................     (1,154,641)   (1,704,862)     (630,542)
+  Proceeds from the sale of flight equipment..........             --        15,131         3,900
+  Decrease (increase) in other assets.................          3,213        85,321      (490,874)
+  Proceeds from certificate of deposit................             --            --     2,246,725
+                                                        -------------   -----------   -----------
+        Net cash (used in) provided by investing
+          activities..................................     (1,151,428)   (1,604,410)    1,129,209
+                                                        -------------   -----------   -----------
+Financing activities:
+  Proceeds from issuance of debt......................             --        20,456            --
+  Repayment of long-term debt.........................     (5,882,457)   (3,988,130)   (2,200,021)
+  Proceeds from short-term note payable and line of
+    credit............................................    127,070,395       455,000     7,683,520
+  Payments on short-term note payable and line of
+    credit............................................   (117,709,561)   (1,587,799)   (5,625,174)
+  Redemption of warrant...............................       (281,750)           --            --
+  Proceeds from sale of common stock..................         30,959        41,507     1,001,446
+                                                        -------------   -----------   -----------
+        Net cash provided by (used in) financing
+          activities..................................      3,227,586    (5,058,966)      859,771
+                                                        -------------   -----------   -----------
+        Net change in cash............................      1,911,749      (105,030)      183,203
+
+Cash:
+  Beginning of year...................................         83,957       188,987         5,784
+                                                        -------------   -----------   -----------
+  End of year.........................................  $   1,995,706   $    83,957   $   188,987
+                                                        =============   ===========   ===========
+</TABLE>
+
+See accompanying notes to financial statements.
+
+                                       22
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                      STATEMENTS OF CASH FLOWS (CONTINUED)
+
+                 YEARS ENDED DECEMBER 31, 2000, 1999, AND 1998
+
+<TABLE>
+<CAPTION>
+                                                            2000           1999          1998
+                                                        -------------   -----------   -----------
+<S>                                                     <C>             <C>           <C>
+Supplementary cash flow information:
+  Cash paid during the year for:
+    Interest..........................................  $   9,905,457   $ 5,445,242   $ 3,816,844
+    Income taxes......................................             --       115,000            --
+                                                        =============   ===========   ===========
+Noncash transactions--
+  Long-term debt issued in acquisition of Beechcraft
+    1900D airliners...................................  $          --   $75,665,924   $        --
+  Conversion of deferred lease payments to long-term
+    debt..............................................      1,981,902     1,320,307            --
+  Conversion of line of credit to long-term debt......      4,713,429            --            --
+  Inventory returned in exchange for reduction of line
+    of credit.........................................             --       944,554            --
+                                                        -------------   -----------   -----------
+                                                        $   6,695,331   $77,930,785   $        --
+                                                        =============   ===========   ===========
+Disposition of Beechcraft 1900C aircraft through like
+  kind exchange.......................................  $          --   $        --   $23,724,490
+Cancellation of long-term debt associated with
+  Beechcraft 1900C aircraft...........................             --            --    17,337,009
+Acquisition of Beechcraft 1900D aircraft through like
+  kind exchange.......................................             --            --    22,333,455
+Long-term debt issued in acquisition of Beechcraft
+  1900D aircraft through like-kind exchange...........             --            --    20,379,451
+Common stock issued in exchange for reduction of
+  accounts payable....................................             --            --       750,000
+Common stock issued in exchange for termination of
+  notes payable.......................................                                    250,000
+                                                        -------------   -----------   -----------
+                                                        $          --   $        --   $84,774,405
+                                                        =============   ===========   ===========
+</TABLE>
+
+See accompanying notes to financial statements.
+
+                                       23
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                           DECEMBER 31, 2000 AND 1999
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND BUSINESS
+
+    BUSINESS
+
+The Company operates as United Express under a cooperative marketing agreement
+    (United Express Agreement) with United Airlines, Inc. (United) and provides
+    service to 57 destinations in the Upper Midwest and Mountain West Region as
+    of December 31, 2000.
+
+The United Express Agreement expired on December 31, 1997. In 2000, 1999 and
+    1998, the Company and United operated as if the principal day-to-day
+    operational provisions of the previous code sharing agreement were still
+    effective. On February 1, 2001, the Company and United entered into a new
+    three-year code sharing agreement which will become effective May 1, 2001.
+    Under this new agreement, the Company no longer will operate under the name
+    "United Express"; rather, it will operate under its own name and be
+    displayed in reservations systems under its own code when it is not flying a
+    segment as part of a code sharing flight. The agreement provides for use of
+    United's flight designator for Great Lakes flights connecting with United
+    flights in Denver and Chicago and permits the Company to enter into code
+    sharing agreements with certain other carriers. The Company will continue to
+    participate in United's Mileage Plus frequent flyer program. In conjunction
+    with the new code sharing agreement, the Company entered into a transition
+    agreement with United whereby the Company is to develop and implement its
+    own reservation system by no later than January 31, 2002. The transition
+    agreement also requires United to provide financial support to Great Lakes
+    to cover a substantial portion of the Company's cost of returning to
+    marketing itself under its own identity, such as the painting of its
+    aircraft, development of the Company's own label and new uniforms for
+    employees.
+
+Passenger revenues during 2000, 1999, and 1998, were derived 100 percent,
+    100 percent and 99 percent from United Express operations. Approximately
+    75 percent, 68 percent, and 49 percent of the United Express passengers
+    connected with United for the years ended December 31, 2000, 1999, and 1998,
+    respectively.
+
+    USE OF ESTIMATES
+
+The preparation of financial statements in conformity with generally accepted
+    accounting principles requires management to make estimates and assumptions
+    that affect the reported amounts of assets and liabilities and disclosure of
+    contingent assets and liabilities at the date of the financial statements
+    and the reported amounts of revenues and expenses during the reporting
+    period. Actual results could differ from those estimates.
+
+    UNION AGREEMENTS
+
+The Company's pilots are represented by the International Brotherhood of
+    Teamsters. The agreement with the pilots became amendable October 30, 2000,
+    and negotiations are continuing. The Company's flight attendants are also
+    represented by the International Brotherhood of Teamsters, and the agreement
+    with the flight attendants becomes amendable April 1, 2002.
+
+    ACCOUNTS RECEIVABLE
+
+Substantially all accounts receivable balances are due from various airlines,
+    with approximately 60 percent of the December 31, 2000 and December 31,
+    1999, balances, respectively due from United. All receivables are pledged as
+    collateral securing a $20,000,000 line of credit.
+
+                                       24
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+                           DECEMBER 31, 2000 AND 1999
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND BUSINESS (CONTINUED)
+    INVENTORIES
+
+Inventories consist of flight equipment spare parts and fuel and are stated at
+    the lower of average cost or market. An allowance for depreciation is
+    provided at rates which depreciate the cost of flight equipment spare parts,
+    less estimated residual value, over the estimated useful lives of the
+    related aircraft. The accumulated allowances were $9,540,952 and $8,733,827,
+    respectively, at December 31, 2000 and 1999. Expendable parts are charged to
+    maintenance expense as used. Inventories consisting of Beech aircraft spare
+    parts and equipment are pledged as collateral securing a $20,000,000 line of
+    credit and a Raytheon term note.
+
+    PROPERTY AND EQUIPMENT
+
+Property and equipment is stated at cost and depreciated on a straight-line
+    basis for financial reporting purposes over estimated useful lives of
+    14-20 years for flight equipment and 3-10 years for other property and
+    equipment. Leasehold improvements are amortized over the shorter of the life
+    of the lease or the life of the asset. Accelerated methods of depreciation
+    are used for tax reporting purposes. All owned aircraft are pledged to
+    collateralize outstanding obligations.
+
+Maintenance and repairs, including periodic aircraft overhauls, are expensed as
+    incurred.
+
+    OTHER ASSETS
+
+Approximately $1,475,000 of long-term deposits on aircraft operating leases at
+    December 31, 2000 and 1999, were included in other assets.
+
+    DEFERRED PAYMENTS
+
+During 1997, the Company failed to make scheduled payments on several leases and
+    subsequently renegotiated substantially all of its lease agreements. The
+    renegotiated leases contain higher monthly payments and longer payment terms
+    than the original agreements. The unpaid rentals have been accrued and
+    expensed in the period to which they related and are being paid over the new
+    lease terms of the aircraft.
+
+During February and March of 2001, the Company did not make scheduled debt and
+    lease payments to Raytheon of approximately $2 million. In addition, the
+    Company did not make scheduled lease payments of $225,000 to two lessors on
+    four aircraft. The Company intends to restructure the payments to a later
+    time.
+
+    DEFERRED CREDITS
+
+The Company has received various incentives in the form of interest rate
+    subsidies and spares parts in connection with the acquisition of new
+    aircraft. Incentives are being amortized as a reduction of rent expense or
+    interest expense over the term of the related agreement.
+
+    REVENUE RECOGNITION
+
+Passenger revenues are recorded as income when the respective services are
+    rendered. Liability for unused tickets issued by the Company is recorded as
+    unearned revenue. The Company also receives public
+
+                                       25
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+                           DECEMBER 31, 2000 AND 1999
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND BUSINESS (CONTINUED)
+    service subsidy revenues for serving certain communities that do not
+    generate sufficient traffic to fully support profitable air service, which
+    are recorded as income as the agreed upon air service is furnished by the
+    Company.
+
+    FREQUENT FLYER AWARDS
+
+The Company operates under a code-sharing agreement with United, and
+    participates in its frequent flyer program. The Company has not deferred any
+    revenue or accrued for incremental costs for mileage accumulation relating
+    to these programs, as the impact has not been material.
+
+    INCOME TAXES
+
+Income taxes are accounted for under the asset and liability method. Deferred
+    tax assets and liabilities are recognized for the future tax consequences
+    attributable to differences between the financial statement carrying amounts
+    of existing assets and liabilities and their respective tax bases and
+    operating loss and tax credit carry forwards. Deferred tax assets and
+    liabilities are measured using enacted tax rates expected to apply to
+    taxable income in the years in which those temporary differences are
+    expected to be recovered or settled. The effect of a change in tax rates on
+    deferred tax assets and liabilities is recognized in income in the period
+    that includes the enactment date.
+
+    INCOME (LOSS) PER SHARE
+
+Basic income (loss) per share have been computed by dividing net income (loss)
+    by the weighted-average number of shares of common stock during outstanding
+    each of the years presented. Diluted income (loss) per share have been
+    calculated by also including in the computation the impact of the issuance
+    of common stock pursuant to the exercise of outstanding warrants and the
+    effect of those employee stock options granted to employees as potential
+    common stock that would be dilutive. Since the Company had suffered a net
+    loss in the year ended December 31, 2000, the effects of potential common
+    stock issuance's were not included in the calculation, as their effects
+    would be anti-dilutive.
+
+    STOCK OPTION PLANS
+
+The Company has elected the pro forma disclosure option of Statement of
+    Financial Accounting Standards (SFAS) No. 123, "Accounting for Stock-Based
+    Compensation". The Company will continue applying the accounting treatment
+    prescribed by the provisions of APB Opinion No. 25, "Accounting for Stock
+    Issued to Employees", and related interpretations. Pro forma net income
+    (loss) and pro forma net income (loss) per share have been provided as if
+    SFAS No. 123 were adopted for all stock-based compensation plans.
+
+    FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+Fair value estimates, methods, and assumptions are set forth below:
+
+Cash, accounts receivable, accounts payable and accrued liabilities:
+
+    The carrying amount approximates fair value because of the short-term nature
+       of these instruments.
+
+                                       26
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+                           DECEMBER 31, 2000 AND 1999
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND BUSINESS (CONTINUED)
+Long-term debt:
+
+    Based upon the Company's concentration of long-term debt with the
+       manufacturer of aircraft, the fair value of long-term debt was not
+       reasonably determinable.
+
+(2) LIQUIDITY AND GOING-CONCERN MATTERS
+
+The Company has suffered significant losses in the fourth quarter of fiscal
+    2000, the year ended December 31, 2000, and the first two months of fiscal
+    2001 and has current liabilities in excess of current assets at
+    December 31, 2000. As a result of these losses, the Company is currently not
+    in compliance with its line of credit financial covenants. The Company's
+    ability to continue as a going concern depends upon its ability to utilize
+    its line of credit to pay its obligations as they come due, upon maintaining
+    adequate liquidity, and achieving sustained profitability. The accompanying
+    financial statements have been prepared on a going concern basis which
+    assumes continuity of operations and realization of assets and liabilities
+    in the ordinary course of business. The financial statements do not include
+    any adjustments that might result if the Company was forced to discontinue
+    its operations.
+
+Because of the recent nature of these losses, the Company currently has no
+    financing agreements in place under which it can secure additional funds.
+    The Company is currently exploring alternatives to meet its future liquidity
+    requirements and is making payment to significant creditors as current cash
+    flow allows. The Company is in current contact with certain of these
+    creditors regarding its slowness in payments. To date, no formal action has
+    been taken by the Company's creditors. However, no assurance can be given
+    that the Company's creditors may not take such action. Historically, the
+    operations have been highly seasonal with the second and third quarters of
+    the calendar year producing significantly more cash flow than the first and
+    fourth quarters.
+
+(3) NONRECURRING EXPENSES
+
+In February 1998, the Company entered into an agreement to sell all of their
+    remaining Brasilia aircraft and their Brasilia spare part inventories and
+    began negotiating with the lessors and creditors for release of the Brasilia
+    aircraft. In April 1998, due to the expanded service into the Denver market,
+    the Company determined that they had a continuing need for five of their
+    Brasilia aircraft, and began negotiating with the other party for a
+    modification of the agreement. The agreement to sell all the Brasilia
+    aircraft was modified and the Company disposed of only two aircraft and
+    utilizes the remaining Brasilia aircraft in its operations. As a result of
+    the modification in the agreement to sell Brasilia aircraft, the Company
+    reversed, in 1998, an accrual of $543,933 that was made in 1997 for the
+    intended disposal of three Brasilia aircraft that did not occur. Offsetting,
+    this reversal was an additional accrual of $689,738 needed for a final
+    settlement reached regarding two Brasilia aircraft that were returned to a
+    lessor in 1997, resulting in a net non-recurring charge of $145,805 in 1998.
+
+                                       27
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+                           DECEMBER 31, 2000 AND 1999
+
+(4) FLIGHT EQUIPMENT
+
+The Company's airline fleet consisted of Beechcraft Model 1900 19-passenger and
+    Embraer Brasilia Model 120 30-passenger aircraft summarized as follows at
+    December 31, 2000 and 1999:
+
+<TABLE>
+<CAPTION>
+                                                                        2000 AND 1999
+                                                              ----------------------------------
+                                                              BEECHCRAFT   BEECHCRAFT
+                                                                1900C        1900D      BRASILIA
+                                                              ----------   ----------   --------
+<S>                                                           <C>          <C>          <C>
+Owned.......................................................         --        28          4
+Operating leases............................................          4        12          4
+                                                              ---------        --          --
+                                                                      4        40          8
+                                                              =========        ==          ==
+</TABLE>
+
+On April 23, 1998, the Company received twenty-two Beechcraft 1900D aircraft
+    from Raytheon. The Company was paying $30,007 a month for each aircraft as
+    rent to Raytheon. In July 1999, the Company purchased these aircraft through
+    the issuance of notes payable to Raytheon.
+
+Lease commitments for aircraft as of December 31, 2000 were as follows:
+
+<TABLE>
+<CAPTION>
+                                        BEECHCRAFT
+                                           1900        BRASILIA        TOTAL
+                                        -----------   -----------   -----------
+<S>                                     <C>           <C>           <C>
+2001..................................  $ 6,816,000   $ 2,709,888   $ 9,525,888
+2002..................................    6,816,000     2,709,888     9,525,888
+2003..................................    6,816,000     2,467,788     9,283,788
+2004..................................    6,816,000     1,741,488     8,557,488
+2005..................................    6,596,000     1,741,488     8,337,488
+Thereafter............................   37,122,000    12,408,102    49,530,102
+                                        -----------   -----------   -----------
+                                        $70,982,000   $23,778,642   $94,760,642
+                                        ===========   ===========   ===========
+</TABLE>
+
+Non-aircraft Lease commitments are set forth in Note 9.
+
+(5) NOTES PAYABLE AND LONG-TERM DEBT
+
+Raytheon Aircraft Corp. and its financing affiliates (collectively, "Raytheon")
+    is the Company's primary aircraft supplier and largest creditor. The Company
+    has financed all but one of its Beechcraft 1900 aircraft and one of its
+    Brasilia aircraft pursuant to lease and debt agreements with Raytheon.
+    Raytheon had also extended the Company a total of $10 million through a line
+    of credit and a short-term note payable to finance the Company's operating
+    cash needs (collectively, the "Raytheon Agreements"). The line of credit and
+    a short-term note payable as extended, expired by their terms on June 30,
+    1999. On January 7, 2000, the Company entered into an agreement with Coast
+    Business Credit for a $20 million revolving credit facility. In connection
+    with entering into the revolving credit facility, the Company paid Raytheon
+    $5 million to retire the short-term note. On December 1, 2000 the Company
+    entered into an agreement with Raytheon to convert the remaining line of
+    credit into a three-year installment note.
+
+                                       28
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+                           DECEMBER 31, 2000 AND 1999
+
+(5) NOTES PAYABLE AND LONG-TERM DEBT (CONTINUED)
+Notes payable and current maturities of long-term debt consist of the following
+    at December 31, 2000 and 1999:
+
+<TABLE>
+<CAPTION>
+                                                        2000          1999
+                                                     -----------   -----------
+<S>                                                  <C>           <C>
+Line of credit with Coast Business Credit(A).......  $13,161,347   $        --
+Term note to Raytheon(B)...........................           --     5,000,000
+Line of credit with Raytheon Note(C)...............           --     3,572,647
+Current maturities of long-term debt...............    9,414,568     5,851,064
+                                                     -----------   -----------
+                                                     $22,575,915   $14,423,711
+                                                     ===========   ===========
+</TABLE>
+
+------------------------
+
+(A) On January 7, 2000, the Company entered into a $20 million line of credit
+    agreement with Coast Business Credit. Under the terms of the agreement the
+    Company may borrow up to 85 percent of the Company's Eligible Billed and
+    Unbilled Receivables as defined in the agreement. At December 31, 2000, the
+    amount available under the agreement was $13,161,347 all of which had been
+    borrowed. The line of credit bears interest at a rate of prime plus
+    .5 percent and in no event shall the rate be less than 8 percent per annum.
+    The line of credit also contains various restrictive covenants. The Company
+    is in default under this agreement and is incurring a 3.0 percent-interest
+    rate penalty as a result of not meeting financial requirements related to
+    tangible net worth. At December 31, 2000 the interest rate was
+    13.0 percent.
+
+(B) The Company entered into a short-term note with Raytheon in July 1997. In
+    January 2000, the note was paid in full in connection with the $20 million
+    line of credit agreement with Coast Business Credit.
+
+(C) The Company entered into a $2.5 million line of credit with Raytheon that
+    was later amended and increased to $5.0 million. The line of credit was
+    converted to a term note on December 1, 2000 and is classified in
+    (D) below. The term note and interest is due over 36 monthly payments
+    beginning June 30, 2001. The term note bears interest at prime rate, which
+    was 9.5 percent at December 31, 2000 and is secured by Beech aircraft and is
+    cross-collateralized with the other Raytheon Agreements.
+
+Long-term debt consists of the following at December 31, 2000 and 1999:
+
+<TABLE>
+<CAPTION>
+                                                       2000           1999
+                                                   ------------   ------------
+<S>                                                <C>            <C>
+Raytheon(D)......................................  $ 98,709,027   $ 96,664,206
+Other long-term notes(E).........................     6,759,520      7,887,582
+                                                   ------------   ------------
+                                                    105,468,547    104,551,788
+Less current maturities of long-term debt........     9,414,568      5,851,064
+                                                   ------------   ------------
+                                                   $ 96,053,979   $ 98,700,724
+                                                   ============   ============
+</TABLE>
+
+------------------------
+
+(D) The Raytheon notes consist of 31 term notes in 2000 and 29 term notes in
+    1999. On July 1, 1999, the Company entered into 22 term notes to purchase 22
+    1900D Beechcraft airliners. The outstanding notes at December 31, 2000
+    require monthly payments ranging from $30,000 to $84,500, including
+    interest, with total payments on these notes approximating $1,223,000 per
+    month. The interest rates on the notes range from 7.15 percent to
+    8.5 percent as of December 31, 2000. The notes mature from
+
+                                       29
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+                           DECEMBER 31, 2000 AND 1999
+
+(5) NOTES PAYABLE AND LONG-TERM DEBT (CONTINUED)
+    October 2001 to August 2012 and are collateralized by aircraft. On
+    November 1, 2000 the Company entered into an agreement converting certain
+    deferred lease payments on 1900C aircraft to a term note. The note requires
+    monthly payments through October, 2003 with an interest rate equal to prime
+    which was 9.5 percent at December 31, 2000.
+
+(E) Other long-term notes consist of four term notes which require monthly or
+    quarterly payments including interest. The interest rates on the notes are
+    approximately 9.05 percent at December 31, 2000. Three of these notes are
+    collateralized by aircraft.
+
+In connection with the refinancing of the Company's long-term notes, short term
+    note agreements, and the restructuring of the Company's lease agreements,
+    the Company issued Raytheon a warrant to purchase one million shares of the
+    Company's stock, at the then current market price of the stock. The warrant
+    was exercisable for ten years beginning July 16, 1998 at a price of $.75 per
+    share. Accordingly, the Company recorded a discount equal to the estimated
+    fair value of the warrant on the date of issuance ($650,000), which is being
+    amortized as additional interest expense over the weighted average life of
+    the debt and lease agreements to which it relates. On October 7, 2000 the
+    Company exercised the call option of the warrant agreement, and paid
+    $281,750 to retire the warrant.
+
+As of December 31, 2000, the long-term debt obligations due in the five
+    subsequent years and thereafter were as follows:
+
+<TABLE>
+<CAPTION>
+                             BEECHCRAFT
+                                1900S      BRASILIAS      OTHER         TOTAL
+                             -----------   ----------   ----------   ------------
+<S>                          <C>           <C>          <C>          <C>
+2001.......................  $ 4,312,246   $2,918,885   $2,183,437   $  9,414,568
+2002.......................    4,654,369    1,368,549    2,266,210      8,289,128
+2003.......................    5,023,759    1,454,482    2,335,551      8,813,792
+2004.......................    5,422,600      620,509        7,161      6,050,270
+2005.......................    5,853,250      678,825           --      6,532,075
+Thereafter.................   65,465,173    1,345,041           --     66,810,214
+                             -----------   ----------   ----------   ------------
+                             $90,731,397   $8,386,291   $6,792,359   $105,910,047
+                             ===========   ==========   ==========   ============
+</TABLE>
+
+(6) INCOME TAXES
+
+Income taxes for the years ended December 31, 2000, 1999 and 1998 consisted of
+    current state income taxes of $6,116, $-0- and $115,000, respectively.
+
+The federal statutory tax rate differs from the Company's effective income tax
+    rate for the years ended December 31 as follows:
+
+<TABLE>
+<CAPTION>
+                                                            2000       1999       1998
+                                                          --------   --------   --------
+<S>                                                       <C>        <C>        <C>
+Federal statutory rate..................................    34.0%      34.0%      34.0%
+State income taxes, net of federal benefit..............      --         --        4.5
+Change in valuation allowance...........................   (34.0)     (34.0)     (34.0)
+                                                           -----      -----      -----
+                                                              --%        --%       4.5%
+                                                           =====      =====      =====
+</TABLE>
+
+                                       30
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+                           DECEMBER 31, 2000 AND 1999
+
+(6) INCOME TAXES (CONTINUED)
+Deferred tax assets (liabilities) as of December 31 were as follows:
+
+<TABLE>
+<CAPTION>
+                                                       2000           1999
+                                                   ------------   ------------
+<S>                                                <C>            <C>
+Deferred tax assets
+  Net operating loss carry forwards..............  $ 20,129,000   $ 10,363,000
+  Accrued liabilities and other..................     5,159,000      6,190,000
+                                                   ------------   ------------
+    Total gross deferred tax asset...............    25,288,000     16,553,000
+    Less valuation allowance.....................   (16,268,000)   (12,017,000)
+                                                   ------------   ------------
+    Total deferred tax asset.....................     9,020,000      4,536,000
+                                                   ------------   ------------
+Deferred tax liabilities
+  Property and equipment.........................    (9,020,000)    (4,536,000)
+                                                   ------------   ------------
+    Total deferred tax asset (liability).........  $         --   $         --
+                                                   ============   ============
+</TABLE>
+
+The Company has net operating loss carry forwards for federal income tax
+    purposes totaling approximately $57,570,000 at December 31, 2000, expiring
+    in years from 2005 through 2020. The net change in total valuation allowance
+    for the years ended December 31, 2000, 1999 and 1998 was an increase of
+    $4,251,000, $2,919,000 and a decrease of $306,000, respectively.
+
+(7) EMPLOYEE BENEFIT PLANS
+
+    401(k)
+
+The Company maintains a qualified 401(k) employee savings plan for the benefit
+    of substantially all employees. The Company matches up to 4 percent of
+    participating employees' contributions. Company contributions totaled
+    $318,000 in 2000, $337,000 in 1999 and $268,000 in 1998.
+
+    STOCK OPTION PLANS
+
+The Company has adopted The Great Lakes Aviation, Ltd. Option Plan and the 1993
+    Director Stock Option Plan (the Plans). The Plans permit the grant of
+    qualified incentive stock options or non-qualified stock options covering in
+    the aggregate 600,000 shares of the Company's common stock to be granted to
+    key employees, officers, and directors of the Company. Options outstanding
+    under the Plans become exercisable one-fifth in years one through five from
+    the date of grant. The options expire after ten years from the date of
+    grant. Options are forfeited upon termination for reasons other than
+    retirement, death or disability.
+
+                                       31
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+(7) EMPLOYEE BENEFIT PLANS (CONTINUED)
+
+The Company applies APB Opinion No. 25 and related interpretations in accounting
+    for the Plans, both of which are fixed stock option plans. Accordingly, no
+    compensation cost has been recognized for the Plans as exercise prices are
+    at least equal to the fair market value of the Company's common stock on the
+    date of grant. Had compensation cost for the Company's fixed stock option
+    plans been determined consistent with SFAS No. 123, the Company's net (loss)
+    income and (loss) income per share would have been impacted as follows:
+
+<TABLE>
+<CAPTION>
+                                                 YEARS ENDED DECEMBER 31,
+                                           -------------------------------------
+                                              2000          1999         1998
+                                           -----------   ----------   ----------
+<S>                                        <C>           <C>          <C>
+Net (loss) income as reported............  $(8,238,833)  $2,727,978   $2,721,810
+Pro forma net (loss) income..............  $(8,338,525)  $2,571,000   $2,643,717
+Basic (loss) income per share as
+  reported...............................  $     (0.95)  $     0.32   $     0.34
+Pro forma basic (loss) income per
+  share..................................  $     (0.96)  $     0.30   $     0.33
+Diluted (loss) income per share as
+  reported...............................  $     (0.95)  $     0.29   $     0.31
+Pro forma diluted (loss) income per
+  share..................................  $     (0.96)  $     0.28   $     0.30
+</TABLE>
+
+The fair value of each option grant is estimated on the date of grant using the
+    Black-Scholes option-pricing model. The following weighted-average
+    assumptions were applied in determining pro forma compensation cost:
+
+<TABLE>
+<CAPTION>
+                                                                 YEARS ENDED DECEMBER 31,
+                                                           ------------------------------------
+                                                             2000          1999          1998
+                                                           --------      --------      --------
+<S>                                                        <C>           <C>           <C>
+Risk-free interest rate..............................        5.87%         5.10%         5.77%
+Expected dividend yield..............................           0%            0%            0%
+Expected option life.................................           5             5             5
+Expected Stock price volatility......................       70.42%        93.20%        89.68%
+</TABLE>
+
+A summary of the status of the Company's fixed option plans as of December 31,
+    2000, 1999, and 1998 and changes during the years ended on those dates is
+    presented below:
+
+<TABLE>
+<CAPTION>
+                                  2000                          1999                          1998
+                       ---------------------------   ---------------------------   ---------------------------
+                                  WEIGHTED-AVERAGE              WEIGHTED-AVERAGE              WEIGHTED-AVERAGE
+                                      EXERCISE                      EXERCISE                      EXERCISE
+                        SHARES         PRICE          SHARES         PRICE          SHARES         PRICE
+                       --------   ----------------   --------   ----------------   --------   ----------------
+<S>                    <C>        <C>                <C>        <C>                <C>        <C>
+Outstanding at
+  beginning of
+  year...............  310,000         $3.27         330,000         $3.26           68,000        $6.43
+Granted..............  150,000         $1.56          50,000         $2.75          277,000        $2.77
+Forfeited............  (90,000)        $2.93         (70,000)        $2.82          (15,000)       $2.75
+                       -------                       -------                       --------
+Outstanding at end of
+  year...............  370,000         $2.82         310,000         $3.27          330,000        $3.26
+                       =======                       =======                       ========
+Options exercisable
+  at year end........  120,000         $4.02          90,800         $4.43           28,600        $6.43
+Weighted-average fair
+  value of options
+  granted during the
+  year...............  $  1.38                       $  2.03                       $   2.05
+</TABLE>
+
+                                       32
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+(7) EMPLOYEE BENEFIT PLANS (CONTINUED)
+A summary of stock options outstanding and exercisable as of December 31, 2000
+    are as follows:
+
+<TABLE>
+<CAPTION>
+                                         OPTIONS OUTSTANDING
+                           -----------------------------------------------        OPTIONS EXERCISABLE
+                                            WEIGHTED                         ------------------------------
+                                            AVERAGE           WEIGHTED                         WEIGHTED
+                             NUMBER      REMAINING LIFE   AVERAGE EXERCISE     NUMBER      AVERAGE EXERCISE
+RANGE OF EXERCISE PRICES   OUTSTANDING      (YEARS)            PRICE         EXERCISABLE        PRICE
+------------------------   -----------   --------------   ----------------   -----------   ----------------
+<S>                        <C>           <C>              <C>                <C>           <C>
+     $1.063-1.75             140,000           9.5             $ 1.38            6,000          $ 1.41
+        $2.75                166,000           7.5             $ 2.75           70,000          $ 2.75
+    $3.875-$5.785             34,000           4.6             $ 5.05           34,000          $ 5.05
+        $11.00                10,000           3.0             $11.00           10,000          $11.00
+                             -------                                           -------
+                             370,000                                           120,000
+                             =======                                           =======
+</TABLE>
+
+    EMPLOYEE STOCK PURCHASE PLAN
+
+The Company maintains an employee stock purchase plan. Under the plan, certain
+    employees are eligible to purchase an aggregate of not more than 125,000
+    shares of the Company's common stock at 95 percent of the lower of the fair
+    market value at the beginning or the end of the calendar year in which the
+    shares are purchased. In 2000, 9,760 and 10,451 shares were purchased with
+    2000 and 1999 payroll withholdings, and in 1999, 46,597 shares were
+    purchased with 1998 payroll withholdings.
+
+(8) INCOME (LOSS) PER SHARE
+
+    The following tables provide a reconciliation of the numerators and
+denominators of the basic and diluted income per share computations for the
+periods presented:
+<TABLE>
+<CAPTION>
+                                                       YEARS ENDED DECEMBER 31,
+                               -------------------------------------------------------------------------
+                                               2000                                  1999
+                               ------------------------------------   ----------------------------------
+                                  INCOME       SHARES     PER SHARE     INCOME      SHARES     PER SHARE
+                                 (NUMER.)     (DENOM.)     AMOUNT      (NUMER.)    (DENOM.)     AMOUNT
+                               ------------   ---------   ---------   ----------   ---------   ---------
+<S>                            <C>            <C>         <C>         <C>          <C>         <C>
+Basic income (loss) per share
+  Net (loss) income
+    attributed to common
+    shareholders.............  $ (8,238,833)  8,645,774    $(0.95)    $2,727,978   8,634,204     $0.32
+                                                           ======                                =====
+Effect of dilutive securities
+  Stock warrants.............            --         --                        --    358,188
+  Stock options..............            --         --                        --      2,334
+                               ------------   ---------               ----------   ---------
+Diluted income (loss) per
+  share
+  Net (loss) income
+    attributed to common
+    shareholders.............  $(8, 238,833)  8,645,774    $(0.95)    $2,727,978   8,994,726     $0.29
+                               ============   =========    ======     ==========   =========     =====
+
+<CAPTION>
+                                    YEARS ENDED DECEMBER 31,
+                               ----------------------------------
+                                              1998
+                               ----------------------------------
+                                 INCOME      SHARES     PER SHARE
+                                (NUMER.)    (DENOM.)     AMOUNT
+                               ----------   ---------   ---------
+<S>                            <C>          <C>         <C>
+Basic income (loss) per share
+  Net (loss) income
+    attributed to common
+    shareholders.............  $2,721,810   7,924,719     $0.34
+                                                          =====
+Effect of dilutive securities
+  Stock warrants.............          --    754,343
+  Stock options..............          --     23,730
+                               ----------   ---------
+Diluted income (loss) per
+  share
+  Net (loss) income
+    attributed to common
+    shareholders.............  $2,721,810   8,702,792     $0.31
+                               ==========   =========     =====
+</TABLE>
+
+(9) COMMITMENTS AND CONTINGENCIES
+
+    TRANSACTIONS WITH AFFILIATES
+
+The Company leases certain small aircraft used in its charter operations and in
+    2000 and 1999, the Company leased one Beechcraft 1900D used in airline
+    operations from a company owned by Great Lakes' president and majority
+    stockholder. Total payments under these leases that the Company had with
+    entities that are owned by the Company's president were $587,000 in 2000 and
+    $598,000 in 1999.
+
+                                       33
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+(9) COMMITMENTS AND CONTINGENCIES (CONTINUED)
+    NON-AIRCRAFT LEASE COMMITTMENTS
+
+The Company leases certain hanger and terminal facilities under operating
+    leases, which provide for approximate future minimum lease payments, as
+    follows:
+
+<TABLE>
+<S>                                                           <C>
+2001........................................................  $1,961,585
+2002........................................................   1,529,797
+2003........................................................   1,430,705
+2004........................................................   1,408,716
+2005........................................................   1,408,716
+</TABLE>
+
+    LITIGATION
+
+The Company is a defendant in a lawsuit arising from the collision of a small
+    aircraft with one of the Company's Beechcraft 1900 aircraft in Quincy,
+    Illinois on November 19, 1996. The collision occurred at the intersection of
+    two runways as the Company's aircraft was landing, and resulted in the death
+    of all ten passengers and the two crewmembers. The Company's insurance
+    carrier is providing for the Company's defense in the lawsuit and the
+    Company believes that all claims arising from the accident will be
+    adequately covered by insurance.
+
+The Company is a party to other ongoing legal claims and assertions arising in
+    the ordinary course of business. In the opinion of management, the
+    resolution of these matters will not have a material adverse effect on the
+    Company's financial position, results of operations, or cash flows.
+
+                                       34
+<PAGE>
+                           GREAT LAKES AVIATION, LTD.
+
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+(10) SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+    The following presents selected quarterly unaudited financial data for each
+of the years ended December 31, 2000 and 1999 (in thousands, except for per
+share information):
+
+<TABLE>
+<CAPTION>
+                                           FIRST       SECOND     THIRD       FOURTH
+                                          QUARTER     QUARTER    QUARTER      QUARTER        YEAR
+                                        -----------   --------   --------   -----------   -----------
+<S>                                     <C>           <C>        <C>        <C>           <C>
+                 2000
+--------------------------------------
+Operating revenues....................  $    31,950   $33,962    $36,434    $    31,244   $   133,590
+Operating income (loss)...............          902     4,036      3,797         (7,799)          936
+Net income (loss).....................       (1,177)    1,767      1,508        (10,337)       (8,239)
+                                        ===========   =======    =======    ===========   ===========
+Net income (loss) per share
+  Basic...............................  $     (0.14)  $  0.20    $  0.17    $     (1.20)  $     (0.95)
+  Diluted.............................  $     (0.14)  $  0.19    $  0.16    $     (1.20)  $     (0.95)
+
+Weighted average shares outstanding
+  Basic...............................        8,638     8,648      8,648          8,650         8,646
+  Diluted.............................        8,638     9,255      9,187          8,650         8,646
+
+                 1999
+--------------------------------------
+Operating revenues....................  $    30,183   $33,300    $36,694    $    31,193   $   131,370
+Operating income (loss)...............          145     2,979      5,326            259         8,702
+Net (loss) income.....................         (747)    2,034      3,412         (1,971)        2,728
+                                        ===========   =======    =======    ===========   ===========
+Net income (loss) per share
+  Basic...............................  $     (0.09)  $  0.24    $  0.40    $     (0.23)  $      0.32
+  Diluted.............................  $     (0.09)  $  0.22    $  0.36    $     (0.23)  $      0.29
+
+Weighted average shares outstanding
+  Basic...............................        8,624     8,624      8,637          8,637         8,634
+  Diluted.............................        8,624     9,352      9,365          8,637         9,336
+</TABLE>
+
+The fourth quarter of 2000 contains certain year-end adjustments to accrued
+    expenses of $1.2 million and certain receivables of approximately
+    $2.5 million which relates to various periods. Additionally, overhaul
+    activity was concentrated in the fourth quarter, increasing maintenance and
+    related labor expense $2.6 million over the same period of the previous
+    year.
+
+For 2000 and 1999 the first and fourth quarters reflect a net loss, the effect
+    of stock options and stock warrants are not included in the calculation of
+    earnings per share because their effects are anti-dulitive. As a result, the
+    total of the four quarters' diluted earnings per share will not equal the
+    diluted earnings per share for the year.
+
+Except as set forth above, the foregoing financial data includes normal
+    recurring adjustments and, with the foregoing explanation, reflects all
+    adjustments which are, in the opinion of management, necessary for a fair
+    presentation of such financial data. The Company's business is seasonal and,
+    accordingly, interim results are not indicative of results for a full year.
+
+                                       35
+<PAGE>
+                    GREAT LAKES AVIATION LTD. AND SUBSIDIARY
+                 SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS
+
+(11) SUBSEQUENT EVENT
+
+On February 13, 2001, the Company received an unsolicited offer from
+    Tennenbaum & Co., LLC, the largest outside shareholder of the Company, for
+    the purchase of all of the outstanding shares of the Company's Common Stock
+    at a purchase price of $4.00 per share. Such offer is dependent on, among
+    other things, the completion of a due diligence review of the Company by
+    Tennenbaum & Co., LLC. The Company's Board of Directors has established a
+    special committee to evaluate the offer. The Company is evaluating its
+    financing alternatives concurrently with the special committee's evaluation
+    of the offer by Tennenbaum & Co., LLC.
+
+<TABLE>
+<CAPTION>
+                                                                    ADDITIONS
+                                                             ------------------------
+                                                                          CHARGED TO
+                                                BALANCE AT   CHARGED TO      OTHER      BALANCE AT
+CLASSIFICATION                                  BEGINNING    COSTS AND     ACCOUNTS-      END OF
+INVENTORY RESERVES                                 YEAR       EXPENSES    DESCRIBE(1)      YEAR
+------------------                              ----------   ----------   -----------   ----------
+<S>                                             <C>          <C>          <C>           <C>
+2000
+Inventory Reserves............................  $8,733,872   $  807,125   $       --    $9,540,952
+1999
+Inventory Reserves............................  $8,057,327   $  676,500   $       --    $8,733,827
+1998
+Inventory Reserves............................  $3,513,000   $1,027,817   $3,516,510    $8,057,327
+</TABLE>
+
+------------------------
+
+(1) Balance sheet adjustment related to Brasilia aircraft inventory.
+
+All other schedules for which provision is made in the applicable accounting
+    regulations of the Securities and Exchange Commission have been omitted as
+    not required, not applicable or the information required has been included
+    elsewhere in the financial statements and related notes.
+
+                                       36
+<PAGE>
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+    None.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+    Information regarding the directors of the Company is incorporated herein by
+reference to the descriptions set forth under the caption "Executive Officers"
+and "Election of Directors" in the Proxy Statement for Annual Meeting of
+Shareholders to be held May 11, 2001 (the "2001 Proxy Statement").
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+    Information regarding executive compensation is incorporated herein by
+reference to the information set forth under the caption "Executive
+Compensation" in the 2001 Proxy Statement.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+    Information regarding security ownership of certain beneficial owners and
+management of the Company is incorporated herein by reference to the information
+set forth under the caption "Security Ownership of Certain Beneficial Owners and
+Management" in the 2001 Proxy Statement.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    Information regarding certain relationships and transactions between the
+Company and related parties is incorporated herein by reference to the
+information set forth under the caption "Certain Relationships and Related
+Transactions" in the 2001 Proxy Statement.
+
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a) REPORTS ON FORM 8-K. During the fourth quarter ended December 31, 2000, the
+    Company filed no reports on Form 8-K with the Securities and Exchange
+    Commission. Subsequent to December 31, 2000, the Company did file the
+    following report, form 8-K: February 7, 2001 announcing a change in the
+    relationship with United Airlines to a code-sharing partnership.
+
+(b) EXHIBITS
+
+<TABLE>
+<C>                     <S>
+          3.1           Amended and Restated Articles of Incorporation.(1)
+
+          3.2           Amended and Restated Bylaws.(1)
+
+          4.1           Specimen Common Stock Certificate.(1)
+
+         10.1           Promissory Note payable to Raytheon in the amount of
+                          $3,445,000, dated December 30, 1992, together with related
+                          security agreement.(1)
+
+         10.2           Schedule identifying other Promissory Notes payable to
+                          Raytheon, which are substantially identical in all
+                          material respects to Exhibit 10.1.(1)
+
+         10.3           Form of Aircraft Lease Agreement dated March 6, 1990, by and
+                          between Raytheon and the Company.(1)
+
+         10.4           United Express Agreement, dated February 28, 1992, by and
+                          between United Air Lines, Inc. and the Company (certain
+                          portions deleted pursuant to request for confidential
+                          treatment).(1)
+</TABLE>
+
+                                       37
+<PAGE>
+<TABLE>
+<C>                     <S>
+         10.5           Standard Ground Handling Agreement, dated April 3, 1991, by
+                          and between United Air Lines, Inc. and the Company.(1)
+
+         10.6           United Express Fare Revenue Sharing Agreement, dated
+                          February 28, 1992, by and between United Air Lines, Inc.
+                          and the Company (certain portions deleted pursuant to
+                          request for confidential treatment).(1)
+
+         10.7           Letter Agreement, dated April 21, 1995, amending the United
+                          Express Agreement (certain portions deleted pursuant to
+                          request for confidential treatment).(1)
+
+         10.8           United Express Interline Agreement, dated February 28, 1992,
+                          by and between United Air Lines, Inc. and the Company.(1)
+
+         10.9           O'Hare License Agreement, dated April 1, 1991, by and
+                          between United Air Lines, Inc. and the Company (certain
+                          portions deleted pursuant to request for confidential
+                          treatment).(1)
+
+        10.10           Airport/Airport Facilities Lease Agreement, dated November
+                          1, 1989, by and between Minneapolis-St. Paul Airport and
+                          the Company.(1)
+
+        10.11           Great Lakes Aviation, Ltd. 1993 Stock Option Plan.(1)
+
+        10.12           1993 Director Stock Option Plan.(1)
+
+        10.13           Great Lakes Aviation, Ltd. Employee Stock Purchase Plan.(1)
+
+        10.14           Facilities Lease Agreement, dated February 18, 1992, by and
+                          between the City of Spencer, Iowa and the Company.(1)
+
+        10.15           Agreement in Principle, dated August 29, 1991, by and
+                          between United Air Lines, Inc. and the Company (certain
+                          portions deleted pursuant to request for confidential
+                          treatment).(1)
+
+        10.16           Fifth Amendment to the Agreement in Principle, dated
+                          November 12, 1993, by and between United Air Lines, Inc.
+                          and the Company (certain portions deleted pursuant to
+                          request for confidential treatment).(1)
+
+        10.17           Aircraft Finance Agreement, dated March 1, 1994, by and
+                          between Raytheon and the Company.(2)
+
+        10.18           Negotiable Promissory Note dated March 30, 1996, from the
+                          Company to Raytheon Aircraft Credit Corporation.(2)
+
+        10.19           Negotiable Promissory Note, dated July 31, 1996, from the
+                          Company to Raytheon Aircraft Credit Corporation.(5)
+
+        10.20           Pledge and Assignment Agreement entered into between
+                          registrant and Raytheon Aircraft Credit Corporation, dated
+                          July 11, 1997.(6)
+
+        10.21           Agreement Pertaining to Loans and Leases entered into
+                          between registrant and Raytheon Aircraft Credit
+                          Corporation, dated July 11, 1997.(6)
+
+        10.22           Security Agreement and Encumbrance Against All Carrier
+                          Aircraft, Engines, Propellers, Appliances and Spare Parts
+                          entered into between registrant and Raytheon Aircraft
+                          Credit Corporation, dated July 11, 1997.(6)
+
+        10.23           Loan and Security Agreement, dated December 31, 2000 with
+                          Coast Business Credit, a division of Southern Pacific
+                          Bank.(7)
+
+        10.24           Amendment Number One to Loan and Security Agreement, dated
+                          as of January 7, 2000, between Coast Business Credit, a
+                          division of Southern Pacific Bank and the Company.(7)
+
+        10.25           Side Letter, dated as of January 5, 2000, regarding
+                          Representations and warranties respecting Sections 5.17
+                          and 5.18 of the Loan and Security Agreement, dated as of
+                          December 31, 1999, by and among Coast Business Credit, a
+                          division of Southern Pacific Bank and the
+                          Company.(7)
+</TABLE>
+
+                                       38
+<PAGE>
+<TABLE>
+<C>                     <S>
+        10.26           Security Agreement and Encumbrance Against Air Carrier
+                          Aircraft Spare Parts, dated as of December 31, 1999
+                          between Coast Business Credit, a division of Southern
+                          Pacific Bank and the Company.(7)
+
+        10.27           Intercreditor Agreements, dated December 31, 1999 by and
+                          among Coast Business Credit, a division of Southern
+                          Pacific Bank, Raytheon Aircraft Credit Corporation and the
+                          Company.(7)
+
+        10.28*          Negotiable Promissory Note dated December 1, 2000 from the
+                          Company to Raytheon Aircraft Credit Corporation.
+
+23*                     Consent of KPMG LLP
+</TABLE>
+
+------------------------
+
+*   Filed herewith.
+
+(1) Incorporated by reference to the Company's Registration Statement on
+    Form S-1, Registration No. 33-71180 (the "Form S-1").
+
+(2) Incorporated by reference to the Company's Annual Report on Form 10-K for
+    the year ended December 31, 1995.
+
+(3) Incorporated by reference to the Company's Annual Report on Form 10-K for
+    the year ended December 31, 1996.
+
+(4) Incorporated by reference to the Company's Annual Report on Form 10-K for
+    the year ended December 31, 1997.
+
+(5) Incorporated by reference to the Company's Form 8-K, File Number 97616934,
+    filed May 23, 1997.
+
+(6) Incorporated by reference to the Company's Quarterly Report on Form 10-Q for
+    the quarter ended March 31, 1998.
+
+(7) Incorporated by reference to the Company's Annual Report on Form 10-K for
+    the year ended December 31, 1999.
+
+                                       39
+<PAGE>
+                                   SIGNATURES
+
+Pursuant to the requirements of section 13 or 15(d) of the Securities Exchange
+    Act of 1934, the registrant has duly caused this report to be signed on its
+    behalf by the undersigned, thereunto duly authorized.
+
+<TABLE>
+<S>                                                    <C>  <C>
+                                                       GREAT LAKES AVIATION, LTD.
+
+                                                       By              /s/ DOUGLAS G. VOSS
+                                                            -----------------------------------------
+                                                                         Douglas G. Voss
+                                                              PRESIDENT AND CHIEF EXECUTIVE OFFICER
+Dated: March 26, 2001
+</TABLE>
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+    has been signed below by the following persons on behalf of the registrant
+    and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+                      SIGNATURE                                    TITLE                    DATE
+                      ---------                                    -----                    ----
+<C>                                                    <S>                             <C>
+                 /s/ DOUGLAS G. VOSS
+     -------------------------------------------       President, Chief Executive      March 26, 2001
+                   Douglas G. Voss                       Officer and Director
+
+                /s/ RICHARD A. HANSON
+     -------------------------------------------       Vice President--Finance         March 26, 2001
+                  Richard A. Hanson
+
+               /s/ VERNON A. MICKELSON
+     -------------------------------------------       Director                        March 26, 2001
+                 Vernon A. Mickelson
+
+                 /s/ GAYLE R. BRANDT
+     -------------------------------------------       Director                        March 26, 2001
+                   Gayle R. Brandt
+
+                 /s/ IVAN L. SIMPSON
+     -------------------------------------------       Director                        March 26, 2001
+                   Ivan L. Simpson
+</TABLE>
+
+                                       40
+<PAGE>
+                                 EXHIBIT INDEX
+
+<TABLE>
+<C>                     <S>
+          3.1           Amended and Restated Articles of Incorporation.(1)
+
+          3.2           Amended and Restated Bylaws.(1)
+
+          4.1           Specimen Common Stock Certificate.(1)
+
+         10.1           Promissory Note payable to Raytheon in the amount of
+                          $3,445,000, dated December 30, 1992, together with related
+                          security agreement.(1)
+
+         10.2           Schedule identifying other Promissory Notes payable to
+                          Raytheon, which are substantially identical in all
+                          material respects to Exhibit 10.1.(1)
+
+         10.3           Form of Aircraft Lease Agreement dated March 6, 1990, by and
+                          between Raytheon and the Company.(1)
+
+         10.4           United Express Agreement, dated February 28, 1992, by and
+                          between United Air Lines, Inc. and the Company (certain
+                          portions deleted pursuant to request for confidential
+                          treatment).(1)
+
+         10.5           Standard Ground Handling Agreement, dated April 3, 1991, by
+                          and between United Air Lines, Inc. and the Company.(1)
+
+         10.6           United Express Fare Revenue Sharing Agreement, dated
+                          February 28, 1992, by and between United Air Lines, Inc.
+                          and the Company (certain portions deleted pursuant to
+                          request for confidential treatment).(1)
+
+         10.7           Letter Agreement, dated April 21, 1995, amending the United
+                          Express Agreement (certain portions deleted pursuant to
+                          request for confidential treatment).(1)
+
+         10.8           United Express Interline Agreement, dated February 28, 1992,
+                          by and between United Air Lines, Inc. and the Company.(1)
+
+         10.9           O'Hare License Agreement, dated April 1, 1991, by and
+                          between United Air Lines, Inc. and the Company (certain
+                          portions deleted pursuant to request for confidential
+                          treatment).(1)
+
+        10.10           Airport/Airport Facilities Lease Agreement, dated November
+                          1, 1989, by and between Minneapolis-St. Paul Airport and
+                          the Company.(1)
+
+        10.11           Great Lakes Aviation, Ltd. 1993 Stock Option Plan.(1)
+
+        10.12           1993 Director Stock Option Plan.(1)
+
+        10.13           Great Lakes Aviation, Ltd. Employee Stock Purchase Plan.(1)
+
+        10.14           Facilities Lease Agreement, dated February 18, 1992, by and
+                          between the City of Spencer, Iowa and the Company.(1)
+
+        10.15           Agreement in Principle, dated August 29, 1991, by and
+                          between United Air Lines, Inc. and the Company (certain
+                          portions deleted pursuant to request for confidential
+                          treatment).(1)
+
+        10.16           Fifth Amendment to the Agreement in Principle, dated
+                          November 12, 1993, by and between United Air Lines, Inc.
+                          and the Company (certain portions deleted pursuant to
+                          request for confidential treatment).(1)
+
+        10.17           Aircraft Finance Agreement, dated March 1, 1994, by and
+                          between Raytheon and the Company.(2)
+
+        10.18           Negotiable Promissory Note dated March 30, 1996, from the
+                          Company to Raytheon Aircraft Credit Corporation.(2)
+
+        10.19           Negotiable Promissory Note, dated July 31, 1996, from the
+                          Company to Raytheon Aircraft Credit Corporation.(5)
+</TABLE>
+
+                                       41
+<PAGE>
+<TABLE>
+<C>                     <S>
+        10.20           Pledge and Assignment Agreement entered into between
+                          registrant and Raytheon Aircraft Credit Corporation, dated
+                          July 11, 1997.(6)
+
+        10.21           Agreement Pertaining to Loans and Leases entered into
+                          between registrant and Raytheon Aircraft Credit
+                          Corporation, dated July 11, 1997.(6)
+
+        10.22           Security Agreement and Encumbrance Against All Carrier
+                          Aircraft, Engines, Propellers, Appliances and Spare Parts
+                          entered into between registrant and Raytheon Aircraft
+                          Credit Corporation, dated July 11, 1997.(6)
+
+        10.23           Loan and Security Agreement, dated December 31, 2000 with
+                          Coast Business Credit, a division of Southern Pacific
+                          Bank.(7)
+
+        10.24           Amendment Number One to Loan and Security Agreement, dated
+                          as of January 7, 2000, between Coast Business Credit, a
+                          division of Southern Pacific Bank and the Company.(7)
+
+        10.25           Side Letter, dated as of January 5, 2000, regarding
+                          Representations and warranties respecting Sections 5.17
+                          and 5.18 of the Loan and Security Agreement, dated as of
+                          December 31, 1999, by and among Coast Business Credit, a
+                          division of Southern Pacific Bank and the
+                          Company.(7)
+
+        10.26           Security Agreement and Encumbrance Against Air Carrier
+                          Aircraft Spare Parts, dated as of December 31, 1999
+                          between Coast Business Credit, a division of Southern
+                          Pacific Bank and the Company.(7)
+
+        10.27           Intercreditor Agreements, dated December 31, 1999 by and
+                          among Coast Business Credit, a division of Southern
+                          Pacific Bank, Raytheon Aircraft Credit Corporation and the
+                          Company.(7)
+
+        10.28*          Negotiable Promissory Note dated December 1, 2000 from the
+                          Company to Raytheon Aircraft Credit Corporation.
+
+23*                     Consent of KPMG LLP
+</TABLE>
+
+------------------------
+
+*   Filed herewith.
+
+(1) Incorporated by reference to the Company's Registration Statement on
+    Form S-1, Registration No. 33-71180 (the "Form S-1").
+
+(2) Incorporated by reference to the Company's Annual Report on Form 10-K for
+    the year ended December 31, 1995.
+
+(3) Incorporated by reference to the Company's Annual Report on Form 10-K for
+    the year ended December 31, 1996.
+
+(4) Incorporated by reference to the Company's Annual Report on Form 10-K for
+    the year ended December 31, 1997.
+
+(5) Incorporated by reference to the Company's Form 8-K, File Number 97616934,
+    filed May 23, 1997.
+
+(6) Incorporated by reference to the Company's Quarterly Report on Form 10-Q for
+    the quarter ended March 31, 1998.
+
+(7) Incorporated by reference to the Company's Annual Report on Form 10-K for
+    the year ended December 31, 1999.
+
+                                       42
+</TEXT>
+</DOCUMENT>

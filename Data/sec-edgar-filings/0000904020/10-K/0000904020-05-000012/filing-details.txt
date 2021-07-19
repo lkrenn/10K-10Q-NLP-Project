@@ -1,0 +1,2899 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>annualreport1.txt
+<DESCRIPTION>FLYI, INC. ANNUAL REPORT ON FORM 10K
+<TEXT>
+
+
+                 SECURITIES AND EXCHANGE COMMISSION
+                        WASHINGTON, DC 20549
+
+                              FORM 10-K
+
+ Pursuant to Rule 12b-25, the following items have been omitted from
+                this Form 10-K and will be set forth
+  in a Form 10-K/A filed within 15 calendar days following the due
+                       date of this Form 10-K:
+ Items 6, 7, 7A, 8, certain portions of Item 15 and certain Exhibits
+                          to this Form 10-K
+
+   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+                        EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2004
+
+Commission file number 0-21976
+                             FLYi, INC.
+       (Exact name of registrant as specified in its charter)
+
+               Delaware                 13-3621051
+               (State of incorporation)      (IRS Employer
+                                        Identification No.)
+
+               45200 Business Court, Dulles, Virginia
+               20166
+               (Address of principal executive offices)
+               (Zip Code)
+
+Registrant's telephone number, including area code:  (703) 650-6000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+               Common Stock par value $ .02
+               (Title of Class)
+
+Indicate  by  check mark whether the registrant (1)  has  filed  all
+reports  required  to  be  filed by  Section  13  or  15(d)  of  the
+Securities Act of 1934 during the preceding 12 months (or  for  such
+shorter  period  that  the  registrant was  required  to  file  such
+reports),  and (2) has been subject to such filing requirements  for
+the past 90 days.
+                    Yes   X        No__
+
+Indicate by check mark whether the registrant is an accelerated
+filer (as defined in Exchange Act Rule 12b-2).
+
+                    Yes   X        No__
+
+Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not
+be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K.   ____
+
+The aggregate market value of voting stock held by nonaffiliates of
+the registrant as of June 30, 2004 was approximately $255.3 million.
+
+As of March 1, 2005, there were 50,410,787 shares of common stock of
+the   registrant  issued  and  45,339,810  shares  of  common  stock
+outstanding.
+                 Documents Incorporated by Reference
+
+Certain  portions of the document listed below have been  incorporated
+by reference into the indicated part of this Form 10-K.
+
+Documents Incorporated by Reference                    Part of Form
+10-K
+Proxy Statement for 2005 Annual Meeting of Shareholders
+Part III, Items 10-14
+                     (to be filed subsequently)
+
+                          Table of Contents
+                                                              Page #
+Forward Looking Statements                                       3
+
+PART I
+Item 1.    Business                                              4
+        Overview
+        Independence Air
+        Financial Restructuring
+        Marketing and Sales
+        Fuel
+        Competition
+        Previous Code Share Operations
+        Employees
+        Pilot Training
+        Industry Regulation and Airport Access
+        Risk Factors Affecting the Company
+        Risk Factors Affecting the Airline Industry
+        Internet Website
+Item 2.    Properties                                            29
+Item 3.    Legal Proceedings                                     31
+Item 4.    Submission  of Matters to a Vote  of
+            Security  Holders                                    34
+
+PART  II
+Item 5.    Market  for  Registrant's  Common  Equity
+            and  Related Stockholder Matters                     34
+Item 6.    omitted from this filing
+Item 7.    omitted from this filing
+Item 7A.   omitted from this filing
+Item 8.    omitted from this filing
+Item 9.    Changes in and Disagreements with Accountants
+            on Accounting and Financial Disclosures              36
+Item 9A.   Controls and Procedures                               36
+Item 9B.   Other Information                                     37
+
+PART  III
+Item 10.   Directors and Executive Officers of the Registrant    37
+Item 11.   Executive Compensation                                37
+Item 12.   Security Ownership of Certain Beneficial Owners
+            and Management and Related Stockholder Matters       38
+Item 13.   Certain Relationships and Related Transactions        38
+Item 14.   Principal Auditor Fees and Services                   38
+
+PART  IV
+
+Item 15.   Exhibits and Financial Statement Schedules            38
+
+Signatures                                                       41
+
+					2
+
+Forward Looking Statements
+
+          This Annual Report on Form 10-K contains forward-looking
+statements.  Statements in the Business sections of this filing,
+together with other statements beginning with such words as
+"believes", "intends", "plans", and "expects" include forward-
+looking statements that are based on management's expectations given
+facts as currently known by management on the date this Form 10-K
+was first filed with the SEC.  Actual results may differ materially.
+Factors that could cause the Company's future results to differ
+materially from the expectations described here include:  the
+ability of Independence Air to effectively implement its low-fare
+business strategy utilizing regional jets and Airbus aircraft, and
+to compete effectively as a low-fare carrier, including passenger
+response to Independence Air's new West Coast service, and the
+response of competitors with respect to service levels and fares in
+markets served by Independence Air; the effects of high fuel prices
+on Independence Air; the ability to successfully and timely complete
+the acquisition of, maintain certification for, and secure financing
+of, its Airbus aircraft, and to successfully integrate these
+aircraft into its fleet; the ability to implement its assignment to
+Delta of leases for 30 of the 328Jet aircraft that have been used in
+the former Delta Connection operations; the ability to successfully
+remarket or otherwise make satisfactory arrangements for its nine J-
+41 aircraft not terminated as part of its restructuring and for
+three 328Jet aircraft not assigned to Delta; the ability to
+successfully hire, train and retain employees; the ability to reach
+and ratify agreements with AMFA and AFA-CWA on mutually satisfactory
+terms; the ability of government agencies involved in airport
+operations to handle the increased number of flights and passengers
+at Washington Dulles without interference with airline operations;
+the ongoing deterioration in the industry's revenue environment; and
+general economic and industry conditions, any of which may impact
+Independence Air or the Company, its aircraft manufacturers and its
+other suppliers in ways that the Company is not currently able to
+predict.  The statements in this Annual Report are made as of the
+date this Form 10-K was first filed with the SEC and the Company
+undertakes no obligation to update any of the forward-looking
+information included in this document, whether as a result of new
+information, future events, changes in expectations or otherwise.
+
+					3
+
+				 PART I
+
+Item 1.   Business
+
+Overview
+
+          FLYi, Inc. formerly known as Atlantic Coast Airlines Holdings,
+Inc., a Delaware corporation ("FLYi" or the "Company"), is a holding
+company with its primary subsidiary being Independence Air, Inc. ("IA).
+IA is an air carrier and provides regularly scheduled low-fare air
+service under the brand "Independence Air" to East Coast destinations
+with a combination of 132-seat Airbus A319 ("A319") aircraft and 50-seat
+Canadair regional jets ("CRJs"), and is introducing A319 service to six
+new West Coast destinations between March and May 2005.  Previously, IA
+was named and operated as Atlantic Coast Airlines ("ACA").  ACA operated
+as a regional airline under code share agreements with United Airlines,
+Inc. ("United"), providing service since 1992 as part of the United
+Express program, and under code share agreements with Delta Air Lines,
+Inc. ("Delta"),  providing service since 1999 as part of the Delta
+Connection program.  IA transitioned out of the United Express program
+between June 1, 2004 and August 3, 2004 and completed its transition out
+of the Delta Connection Program on November 1, 2004.
+
+          The Company is incorporated under the laws of Delaware and its
+principal executive offices are located at 45200 Business Court, Dulles,
+Virginia 20166.  Unless the context indicates otherwise, the terms "the
+Company", "we", "us", or "our" refer herein to the holding company FLYi,
+Inc.
+
+Independence Air
+
+          Operations under the Independence Air brand as a low-fare
+airline with a hub at Washington Dulles International Airport
+("Washington Dulles") commenced on June 16, 2004.  Independence Air's
+strategy is to capitalize on and stimulate demand for air travel to, from
+and through its Washington Dulles hub, utilizing A319 narrowbody aircraft
+to primarily serve larger, long haul markets and CRJs to offer frequent
+service primarily to smaller, short haul markets from Washington Dulles.
+The Independence Air business model is based on providing reliable and
+easy to use air transportation with excellent customer service, and
+achieving simplicity in operations, high employee and asset productivity
+and low overhead to offer low fares.
+
+          As of March 1, 2005, Independence Air operated over 400 flights
+on each business day, serving 41 destinations, including four
+destinations in Florida plus Las Vegas served by A319s.  Independence Air
+has announced its expansion of A319 service to five West Coast
+destinations starting between April and May 2005.  In December 2004,
+Independence Air reduced its flight schedule in connection with its sale
+of four CRJs and announced the closure of two cities effective in January
+2005.  In February 2005, Independence Air realigned operations at its
+Washington Dulles hub from a continuos flow schedule where flights arrive
+and depart continuously throughout the day, to a six bank schedule where
+arrivals and departures occur within a short period of time, at various
+intervals during the day, facilitating connections to multiple destinations.
+These schedule changes were made in coordination with Independence Air's
+planned removal of 24 CRJs, as described further below.  As compared to a
+continuous flow operation, the six bank schedule will reduce daily
+aircraft utilization on the CRJ fleet and, to a lesser extent, the A319
+fleet, but will increase connecting opportunities for passengers.
+
+          While Independence Air has been successful in stimulating
+demand to, from and through its Washington Dulles hub, through February
+2005 it has not achieved the load factor and yields projected in its
+original business model and thus has not met revenue projections.
+
+					4
+
+Factors contributing to lower revenues than originally projected included
+the addition of new competitive service in markets served by Independence
+Air and a lower level of business traffic relative to leisure traffic
+than had been anticipated.  This revenue shortfall combined with
+unprecedented high fuel prices have caused Independence Air to sustain
+higher than anticipated losses and to expend more cash than it
+anticipated when it embarked on its strategy of becoming an independent
+airline.  To address this situation, Independence Air has undertaken a
+number of steps in addition to schedule changes discussed above, including
+a financial restructuring and changes in its distribution strategy as
+discussed below. While Independence Air believes that these actions have
+provided it an opportunity to continue operating through 2005 and into
+2006 by improving liquidity and generating additional sales, the Company
+is operating in an extremely difficult industry environment that presents
+a number of risks and uncertainties that could adversely affect the
+Company's yield, liquidity and business plan. These are discussed in detail
+below in "Business - Risk Factors".
+
+Financial Restructuring
+
+          The airline industry is characterized by high fixed costs,
+consisting primarily of aircraft lease and financing costs.  In the
+fourth quarter of 2004 and the first quarter of 2005, the Company took
+the following steps to address liquidity.
+
+A319 Aircraft:
+
+          Independence Air entered into an agreement with Airbus' wholly-
+owned affiliate AVSA S.A.R.L. ("AVSA") on November 12, 2004 to amend its
+purchase agreement for 16 Airbus A319 aircraft.  Under the terms of the
+amended aircraft purchase agreement, delivery of ten A319s originally
+scheduled for 2005 has been rescheduled to 2007.  The rescheduling of
+aircraft deliveries to 2007 reduced the amount of pre-delivery payments
+due in 2004 and 2005 under the purchase agreement as these deposits are
+not due until pre-set intervals prior to scheduled delivery.  The
+amendment of the aircraft purchase agreement does not affect the
+scheduled delivery of six Airbus A319s in early 2006 that Independence
+Air has contracted to purchase from AVSA or the four remaining leased
+aircraft to be delivered in April and May 2005.
+
+CRJ Aircraft:
+
+          Independence Air entered into an agreement with Bombardier in
+December 2004 to further amend its aircraft purchase agreement in order
+to access approximately $38.8 million on deposit with Bombardier for
+aircraft orders.  Under the amended agreement, Independence Air applied
+the majority of these deposits and progress payments against the
+outstanding debt owed to an affiliate of Bombardier on two CRJs delivered
+in October 2003 and against other outstanding trade payables owed to
+Bombardier and its affiliates.  Independence Air thereafter effected the
+sale of the two CRJs and of two other CRJs and one spare CRJ engine, all
+of which it owned free and clear of any liens, for approximately $49
+million.  Bombardier continues to hold $3.4 million as deposits for
+Independence Air's commitment for 34 undelivered CRJs.  Independence
+Air's commitments toward these undelivered aircraft continue to be
+subject to certain conditions.
+
+					5
+
+          On February 18, 2005, the Company and Independence Air entered
+into a series of agreements with GE Commercial Aviation Services, Inc.
+and certain of its affiliates ("GECAS") as owner participant under
+leveraged leases relating to 24 CRJs, and with the various parties as
+loan participant under those leveraged leases, providing for the early
+termination of the leases.  These agreements provide for the amendment of
+the leases to shorten the term of the leases such that they expire
+between February 2005 and July 2005.  The agreements also reduce the rent
+between January 1, 2005 and the date of the lease expiration to the
+amount of accrued interest on the underlying leveraged lease loans.
+Under the agreements, Independence Air will be required to meet certain
+amended return conditions and to deliver the aircraft to the lessors by
+agreed dates, but upon satisfaction of these obligations will have no
+further rent obligations with respect to periods after the amended lease
+expiration dates, for these aircraft.  The termination of the 24 leases
+will result in a non-cash accounting charge currently estimated at $7.5
+million to be taken as the leases are terminated to reverse deferred
+credits net of accruals for prepaid rents for these aircraft.  The return
+of the 24 CRJs will save approximately $30 million in rent on an annual
+basis.
+
+          The Company and Independence Air also entered into an agreement
+with GECAS on February 18, 2005 that establishes certain financial
+milestones applicable to three-month periods ending in June, September,
+October, November and December 2005 and January, February and March 2006
+(Milestone Months).  The financial milestones consist of tests of (1) the
+Company's unrestricted cash balance and (2) its earnings before interest,
+taxes, depreciation, amortization, and aircraft rents as a percentage of
+passenger revenues.  Should the Company fail to satisfy the tests for a
+Milestone Month, or fail to provide the information necessary for the
+measurement of the milestones, GECAS will have the option, exercisable
+within ninety days following the delivery of the financial statements for
+such Milestone Month, to terminate the lease for one additional CRJ
+aircraft for each Milestone Month, up to a maximum of eight CRJ aircraft.
+The terms of the termination of the leases would be similar to those for
+the 24 aircraft to be early terminated as described above.
+
+          Independence Air has amended, as of February 18, 2005, the
+operative lease or loan agreements for a total of 52 CRJ aircraft that
+are financed through leveraged leases or through mortgage loan
+financings, to revise the rental and loan payment structure from semi-
+annual payments to monthly payments and to defer approximately $70
+million of the rent or loan payments that would have been due between
+January 2005 and February 2007.  Depending on which operative lease or
+loan agreement, interest at a rate of Libor plus 250 basis points or US
+Treasury's plus 300 basis points will be charged on the outstanding
+deferral balance.  The interest portion of the payments will be paid
+monthly beginning January 1, 2005, and the principal portion of the
+deferred rent and loan payments will be repaid on a monthly basis
+beginning in May 2006.
+
+          In exchange for concessions from CRJ aircraft financing
+parties, the Company agreed to issue a total of 2,035,000 additional
+shares of FLYi common stock, $0.02 par on February 18, 2005.  The shares
+of common stock are to be issued to certain aircraft lessors and lenders
+as partial consideration for their agreeing to participate in the
+restructuring of the terms of their respective aircraft loans or leases
+through the transactions described above.  The number of shares of common
+stock issued to each lessor or lender was determined through arms-length
+negotiations, and no separate valuation was assigned to the issuance of
+the shares.  None of the shares of common stock were issued in exchange
+for cash.  The shares were issued in privately negotiated transactions in
+reliance upon the exemption from registration provided under Section 4(2)
+of the Securities Act of 1933.
+
+					6
+
+J41 Aircraft:
+
+          Independence Air has entered into a series of agreements for
+the consensual early termination of leases for 21 of the 30 Jetstream 41
+("J41") turboprop aircraft that were previously retired from Independence
+Air's active fleet and are not currently used in Independence Air
+operations.  The agreements are with the lessors of those aircraft, with
+the lenders in the leveraged leases covering three of the aircraft, and
+with the manufacturer that provided certain residual support in
+connection with the leases.
+
+          BAE Systems (Operations), Limited and its affiliates ("BAE"),
+the manufacturer of the J41 aircraft, had provided certain residual value
+support to the lessors of 10 of the J41 aircraft that are subject to
+early termination agreements.  The Company and Independence Air entered
+into an agreement with BAE on February 18, 2005 to resolve certain issues
+relating to BAE and to the lessors as a result of the early termination
+of the leases, and to resolve any claims which BAE may have against the
+Company or Independence Air resulting from the termination of those
+leases.  BAE agreed to accept the applicability of its residual value
+support agreements to the lessors upon the early termination of the
+leases, and agreed that it would not pursue further claims against the
+Company or Independence Air relating to those agreements.  The Company
+and Independence Air agreed to provide consideration to BAE in exchange,
+including a cash payment of $2.0 million and the issuance of a promissory
+note of $3.5 million bearing interest at 6.75% payable monthly with
+principal repayments beginning in June 2006 and ending in December 2007.
+The Company and Independence Air also agreed to issue a non-interest
+bearing convertible note in the amount of $5.0 million, convertible into
+1 million shares of the Company's stock, and agreed to turn over all of
+its remaining J41 spare engines, parts and tooling to BAE during 2005.
+The Company and Independence Air also agreed that should BAE elect to
+settle any of its residual value agreements by purchasing the aircraft
+from the lessors, The Company and Independence Air would relinquish their
+claim to any refund of the security deposits for any purchased aircraft.
+The amount of the deposits is further described below.
+
+          The agreements with the lessors of the J41 aircraft provide for
+the early termination of the leases, the return of the aircraft to the
+lessors, and the elimination of future rent obligations.  These
+agreements were entered into as of January 14, 2005 for four aircraft and
+as of February 18, 2005 for an additional 17 aircraft.  These lease
+terminations are expected to reduce Independence Air's net payments
+during the period from January 2005 through February 2007 by
+approximately $13.5 million net of cash payments made by Independence
+Air. Independence Air will be responsible for certain return obligations
+with respect to these aircraft, but upon satisfaction of these
+obligations will have no further rent obligations with respect to these
+aircraft.  Independence Air posted, at the time it initially entered into
+the original leases, a total of $3.7 million in security deposits
+applicable to the J41 aircraft that are subject to these agreements.
+Independence Air has permanently relinquished its claim to $2.2 million
+of these deposits and conditionally relinquished its claim to the
+remainder of these deposits.  Independence Air is not able to currently
+estimate how much, if any, of the remaining $1.5 million of deposits may
+be returned to it.  The Company previously recorded an early retirement
+charge for the J41 aircraft as they were removed from operation.  The
+early retirement charges previously recorded for these aircraft will be
+reconciled as the actual costs of the lease terminations are recorded in
+2005.
+
+          The Company and Independence Air agreed to provide
+consideration to the counterparties for entering into these agreements
+including cash payments totaling approximately $3.5 million and the
+issuance of interest bearing promissory notes totaling approximately $2.6
+million bearing interest at 6.75% payable monthly and with equal payments
+of principal and interest monthly from February 2007 through June 2010.
+The Company also agreed to issue non-interest bearing convertible notes
+in the total amount of $20,952,113, convertible into 3,559,586 shares of
+the Company's stock.  Independence Air also agreed to various terms with
+respect to the redelivery of the aircraft and in certain cases, to the
+condition of the aircraft upon return.
+
+					7
+
+328Jet Aircraft:
+
+          Independence Air had previously disclosed that, as a result of
+the termination of its Delta Connection agreement without cause, it had
+the right to assign to Delta Air Lines, Inc. ("Delta") leases for 30
+Fairchild Dornier 328 regional jet (328Jet) aircraft formerly used in
+Delta Connection operations and to require Delta to assume the leases.
+In its prior disclosure, the Company indicated that it would continue to
+be liable for future obligations under the leases in the event that Delta
+at any time did not fulfill those obligations.  Independence Air is
+currently in the process of delivering these aircraft to Delta in
+connection with the assignment and assumption of the lease obligations.
+As part of its restructuring effort, the Company has secured commitments
+from lenders in the leveraged leases of these aircraft that, upon Delta's
+assumption of the 328Jet leases, the lenders will effectively release the
+Company and Independence Air from future obligations to them under the
+328Jet leases.  While the owner participant in the leveraged leases, a
+bankrupt entity that is in default of its obligations to the lenders and
+the Company, has not committed to a release of the Company, the lenders,
+which have an assignment of the owner participant's interest in the
+leases and have a priority of payment superior to that of the owner
+participant, have committed that they will not assert any claims against
+the Company with respect to events occurring after assumption by Delta.
+The lenders have also agreed that, if Independence Air is required to
+make any payments under the leases and the lenders receive any portion of
+such payments, they will return those payments to Independence Air.  In
+consideration for this arrangement, the Company committed to issue 1.5
+million shares of the Company's stock.  Independence Air obtained rent
+deferrals similar to those reached on its CRJ fleet for the remaining two
+leased 328Jets that are not being assigned to Delta in exchange for the
+issuance of 130,000 shares of FLYi common stock and is actively marketing
+for sale one unencumbered 328Jet owned by Independence Air.
+
+Other Actions:
+
+          Independence Air entered into a term loan agreement with GECAS
+for $16.2 million and borrowed the full amount available under the term
+loan.  The loan bears interest at a spread over three month LIBOR based
+on an agreed market rate, and is payable in 60 monthly installments
+ranging from approximately 1.4% of principal to approximately 2.0% of
+principal, with a final maturity on February 18, 2010.  Independence Air
+is not permitted to voluntarily prepay the loan for three years and may
+do so thereafter only if it provides a letter of credit or other
+acceptable security in an amount equal to the payments that are being
+deferred under leases of 13 CRJ aircraft.  The loan is secured by
+Independence Air's 11 CRJ spare engines and all of its CRJ spare parts.
+The loan agreement also provides that the sum of the outstanding amounts
+of the loan and lease deferral amounts may not exceed specified
+percentages of the appraised values of the collateral.  If these
+percentages are exceeded, Independence Air is required to make a partial
+prepayment on the loans or provide additional collateral to restore
+compliance.  Subject to these requirements, Independence Air is permitted
+to dispose of collateral to the extent they become surplus to normal
+operations.
+
+          During the fourth quarter of 2004, Independence Air also
+initiated and responded to proposals with other carriers to consider
+arrangements that would supplement or substitute for its Independence Air
+operations with respect to some or all of its operations or aircraft, and
+during the first quarter of 2005 it continued to explore whether any such
+arrangements might be available on attractive terms.  The Company also
+continues to evaluate opportunities to finance the acquisition of
+aircraft, engage in other financing transactions, sell additional equity
+or debt securities, enter into credit facilities with lenders, or sell
+underutilized assets, all for either strategic reasons or to further
+strengthen our financial position.
+
+					8
+
+Marketing and Sales
+
+          Independence Air initially adopted the distribution model used
+by other low-cost carriers like Southwest and JetBlue that limited ticket
+sales to its own web site and call centers.  However, during the fourth
+quarter of 2004 Independence Air began to enter into agreements that
+would allow it to offer its inventory through the Global Distribution
+Systems ("GDSs").  Additional GDSs  were implemented during the first
+quarter of 2005, and Independence Air now participates in most of the
+major GDSs and a number of online travel sites including Travelocity and
+Orbitz.  Participation in the GDSs is supported by Independence Air's
+team of Sales professionals who solicit individual corporations and
+travel agencies, creating additional interest and incentives for booking
+Independence Air flights.
+
+          Although 85% of Independence Air's total bookings are created
+online or through the GDSs, the remaining volume is processed through
+Independence Air's toll-free reservations phone lines.  Independence Air
+maintains a reservations staff at its headquarters facility to monitor
+and handle the most complex customer service matters and to solicit and
+assist in corporate account bookings.  In addition, Independence Air has
+contracted with a number of third party specialists to handle routine
+reservations calls at various facilities operated by those parties.
+
+          Independence Air offers a frequent flyer program known as
+iCLUB.  Members earn iPOINTs based on the amount of money spent on
+Independence Air travel.  iPOINTs are credited when travel is flown and
+are good for 12 months.  Awards are posted to an iCLUB account when
+thresholds are met within a specified period, and may be redeemed for
+roundtrip fares on Independence Air.  The Company accounts for the
+estimated cost of its frequent flyer program by accruing a liability for
+the estimated incremental cost of providing service to those customers
+who will redeem awards.
+
+Fuel
+
+          The Company's finances have been dramatically affected by
+record high fuel prices.  Recently, Independence Air has purchased fuel
+at a price of $1.65 per gallon.  When Independence Air operations
+commenced in June 2004, fuel prices were $1.27 per gallon, and the
+original business plan from June 2004 for Independence Air estimated fuel
+prices, based on then-prevailing market prices, was at $.90 per gallon.
+Independence Air estimates that it will consume approximately 100 million
+gallons of jet fuel in 2005.  Independence Air has not hedged fuel costs.
+
+Competition
+
+          The airline industry is highly competitive.  Airline profits
+are sensitive to adverse changes in fuel costs, average fare levels and
+passenger demand.  Passenger demand and fare levels have historically
+been influenced by, among other things, the general state of the economy,
+international events, industry capacity and pricing actions taken by
+other airlines.  The principal competitive factors in the airline
+industry are fare pricing, customer service, routes served, flight
+schedules, types of aircraft, safety record and reputation, code-sharing
+relationships, in-flight entertainment systems and frequent flyer
+programs.
+
+          Recently competition has become even more intense as a result
+of the initiatives of low-fare airlines, including Independence Air, to
+introduce service to markets that have been traditionally served by
+legacy carriers and by the initiatives of the legacy carriers in
+response.  The legacy carriers, in some cases operating under the
+protection of Federal bankruptcy laws and in the case of US Airways
+operating with government provided financing, have reacted by matching
+fares, reducing restrictions, offering additional frequent flyer
+
+					9
+
+incentives, increasing advertising, and by taking aggressive steps to
+reduce their own costs.  They have also in several instances increased
+their capacity in routes served by low-fare carriers.  United, for
+example, responded to Independence Air's service introduction by
+increasing capacity by 37% in markets served by Independence Air from
+Washington Dulles.  In other markets where Independence Air competes, US
+Airways, Delta, and Northwest have matched fares, added frequency to
+existing markets, and/or started service to markets they previously did
+not serve.  The result of this increased intensity in competition has
+been a substantial increase in available flight options for the consumer
+at substantially reduced prices, which has lead to an increase in overall
+passenger traffic but at substantially reduced revenue for the airlines.
+The intense competition has also limited the ability of carriers to
+adjust pricing to reflect the increased cost of high fuel prices.
+
+          Our competitors and potential competitors include major U.S.
+airlines, low-fare airlines, regional airlines and new entrant airlines.
+The major airlines are larger, generally have greater financial resources
+and serve more routes. They also use advanced technologies, such as
+ticketless travel, laptop computers and website bookings.  Our primary
+competitors in the non-stop markets that we serve are United, US Airways
+and, to a lesser extent, Southwest Airlines, each of which has greater
+financial resources and name recognition than we do.  United and US
+Airways have also benefited from their operation under bankruptcy court
+protection, and US Airways has benefited from government provided
+financing.
+
+Seasonality
+
+          The Company's business is highly seasonal in nature with the
+winter months being the worst and the spring/summer months being the
+best.  As such, the Company's quarterly results may not be indicative of
+full year results.
+
+Previous Code-Share Operations
+
+          The Company's prior agreements with United ("UA Agreements")
+defined the terms of IA's operation in the United Express program.  IA's
+United Express operations accounted for approximately 71% of the
+Company's 2004 passenger revenue and 100% of its 2003 passenger revenue
+after excluding the discontinued Delta Connection operation.  In November
+2000, the Company and United amended and restated the UA Agreements,
+effectively changing from a revenue sharing arrangement to a fee-per-
+departure arrangement. Under the UA Agreements in effect prior to
+December 2000, IA was responsible for, among other things, scheduling,
+pricing, and marketing its flights, in coordination with United's
+operations, for which it paid United a portion of its revenues. Under the
+fee-per-departure arrangement in effect as of December 1, 2000, IA
+operated a flight schedule designated by United, for which United paid IA
+an agreed amount per departure regardless of the number of passengers
+carried, with IA being able to receive additional incentive payments
+based on operational performance.  IA thereby assumed the risks
+associated with operating the flight schedule and United assumed the risk
+of scheduling, marketing, and selling seats to the traveling public.
+Pursuant to the restated UA Agreements, United, at its own expense,
+provided a number of additional services to IA.  These included
+reservations, route planning, scheduling, pricing, revenue management,
+revenue accounting, marketing, frequent flyer administration, and the
+provision of ticket handling services, customer service, and ground
+support services at most of the airports where both companies operate
+flights concurrently.
+
+          On December 9, 2002, UAL, Inc. and its subsidiaries, including
+United, filed for protection under Chapter 11 of the United States
+bankruptcy code. UAL has continued operating and managing its business
+and affairs as a debtor in possession. In bankruptcy, United had the
+right to assume or reject all executory agreements including the
+Company's UA Agreements.  In July, 2003, the Company announced that it
+
+					10
+
+intended to utilize IA's assets to operate as an independent low-fare
+airline in the event that United determined to reject the UA Agreements
+as a part of United's reorganization in bankruptcy.  On April 5, 2004 the
+Company announced it had reached an agreement with United providing for a
+transition schedule and exit plan for all IA's United Express aircraft
+and related operations as a result of United's decision to reject the UA
+Agreements.  That agreement and United's rejection of the UA Agreements
+was approved by the United States Bankruptcy Court for the Northern
+District of Illinois, which oversees United's bankruptcy, on April 16,
+2004.  IA subsequently phased out of United Express operations and
+operated its last United Express service on August 3, 2004.
+
+          The Company and United reached a settlement on the amounts owed
+under the United Express agreement in a settlement agreement approved by
+the bankruptcy court on October 15, 2004.  This settlement required
+United to pay the Company $4.0 million in the fourth quarter of 2004.
+Upon payment by United, the Company and United discharged each other from
+any further charges related to the Company's participation in the United
+Express program prior to September 30, 2004, the effective date of the
+settlement agreement, except that the settlement does not affect the
+Company's claim against United for damages from its rejection of the
+Company's United Express Agreement.  The effect of the settlement
+agreement was recognized in the fourth quarter.  Despite the settlement,
+United continues to dispute certain billing matters, with the total
+amount remaining in dispute believed to be approximately $0.4 million.
+
+          The Company's Delta Connection Agreement ("DL Agreement")
+defined the terms of IA's operation in the Delta Connection program.
+Prior to being accounted for as a discontinued operation, IA's Delta
+Connection operations accounted for approximately 20% of the Company's
+2004 passenger revenue and approximately 17% of its 2003 passenger
+revenues.  IA was compensated by Delta on a fee-per-block hour basis at
+rates that were reset annually based on anticipated costs in the coming
+year.  Under the fee-per-block hour arrangement, IA was contractually
+obligated to operate a flight schedule designated by Delta, for which
+Delta paid IA an agreed amount per block hour regardless of the number of
+passengers carried, with incentive payments based on operational
+performance.  IA thereby assumed the risks associated with operating the
+flight schedule and Delta assumed the risks of scheduling, marketing, and
+selling seats to the traveling public. Pursuant to the DL Agreement,
+Delta, at its expense, provided a number of support services to the
+Company. These included reservations, customer service, ground handling,
+station operations, pricing, scheduling, revenue accounting, revenue
+management, frequent flyer administration, marketing, a maintenance
+hangar facility in Cincinnati, and other passenger, aircraft and traffic
+servicing functions in connection with IA's Delta Connection operation.
+On April 6, 2004, the Company announced it had received formal
+notification from Delta that Delta will end its fee-per-block hour
+agreement with IA by invoking its right under the Delta Connection
+Agreement to terminate without cause upon 180 days notice. Subsequently a
+transition agreement was entered into with Delta to specify the terms of
+the transition, and IA completed its Delta Connection operations on
+November 1, 2004.   The Company is treating the termination of the Delta
+code share agreement as a discontinued operation and accordingly has
+removed the revenues, expenses, and operating statistics attributable to
+the Delta Connection operation from all reported operating results
+presented in these financial statements and results of operations and is
+including these amounts net of income tax as results from discontinued
+operations.
+
+Employees
+
+          As of March 1, 2005, the Company and Independence Air had 3,683
+full-time and 339 part-time employees, classified as follows:
+
+           Classification               Full-    Part-
+                                         Time     Time
+           Pilots                         947        -
+           Flight attendants              560        -
+           Station personnel            1,035      279
+           Maintenance personnel          352        2
+           Management,
+           administrative and
+             clerical personnel           789       58
+           Total employees              3,683      339
+
+						11
+
+
+          Independence Air's pilots are represented by the Airline Pilots
+Association ("ALPA"), flight attendants are represented by the
+Association of Flight Attendants-Communications Workers of America ("AFA-
+CWA"), and aviation maintenance technicians and ground service equipment
+mechanics are represented by the Aircraft Mechanics Fraternal Association
+("AMFA").
+
+          In November 2003, the Company and Independence Air finalized an
+amended collective bargaining agreement with ALPA on pay reductions and
+work rule changes that were contingent on signing a purchase agreement
+with an aircraft manufacture for delivery of twenty-five narrow body
+aircraft.  The agreement extended the term of the collective bargaining
+agreement such that it will next be amendable as of December 31, 2007,
+and established pay rates and work-rules for pilots operating narrow-body
+jets that the Company believes are competitive with other low-fare
+carriers. The new agreement also included terms designed to decrease
+costs and increase productivity for operating its regional jets including
+a reduction in CRJ rates that took effect in June 2004.
+
+          Independence Air's collective bargaining agreement with the AFA-
+CWA, which was ratified in October 1998, became amendable in October
+2002.  Independence Air and AFA-CWA reached a Tentative Agreement on
+February 10, 2005.  A vote on the Tentative Agreement will be completed
+on March 21st, 2005. If ratified by the Flight Attendants the new
+agreement will be amendable July 31, 2007.  The agreement is designed to
+address quality of life issues that were of concern to the work group and
+to update work rules of interest to the parties.  If adopted, the
+agreement would provide for the first pay rate increase to be effective
+in August 2006.
+
+          Independence Air's collective bargaining agreement with AMFA,
+which was ratified in June 1998, became amendable in June 2002.
+Independence Air has been in mediated negotiations with AMFA during
+2004.  The Mediator recessed negotiations in October 2004 and
+Independence Air and AMFA have not met in formal negotiations since.
+Independence Air is unable to predict when meetings will resume, but does
+not anticipate that any issues relating to these negotiations will have a
+material effect on Independence Air's operations for the foreseeable
+future.
+
+          In the airline industry, labor relations are regulated by the
+Railway Labor Act ("RLA").  Under the RLA, collective bargaining
+agreements do not expire but, rather, become amendable.  The wage rates,
+benefits and work rules contained in a contract that has become amendable
+remain in place and represent the status quo until a successor agreement
+is in place.  The parties may not resort to self-help, such as strikes or
+lockouts, until the RLA processes for collective bargaining have been
+exhausted.  It is impossible to predict how long the RLA processes will
+take.
+
+          Independence Air's other work groups are not unionized.
+Independence Air believes that certain of its unrepresented labor groups
+are from time to time approached by unions seeking to represent them.
+However, Independence Air has not received any official notice of
+organizing activity and there have been no representation applications
+filed with the National Mediation Board by any of these groups.
+Independence Air believes that the wage rates and benefits for non-union
+employee groups are comparable to similar groups at other similarly
+situated airlines.
+
+					12
+
+Pilot Training
+
+          Independence Air conducts its CRJ pilot training through a
+training program managed internally, conducted by in-house instructors,
+and utilizing simulators operated by a third party.  Independence Air has
+entered into agreements with Pan Am International Flight Academy
+("PAIFA") for CRJ simulator usage at PAIFA's facility near Washington
+Dulles.  This facility currently houses three CRJ simulators, and
+Independence Air believes that these facilities will be adequate to
+support its training requirements.  The agreements require Independence
+Air to purchase an annual minimum number of CRJ simulator training hours
+at agreed rates through 2010.  Independence Air's payment obligations for
+CRJ simulator usage over the remaining years of the agreements total
+approximately $6.8 million.  Independence Air has restructured its
+agreements with PAIFA to reduce its simulator costs for 2005.
+
+          Independence Air conducts its Airbus training through a
+training program provided by Airbus.  The training is to be provided by
+Airbus and certain rates have been agreed as part of the Airbus
+acquisition agreement.  Independence Air is also free to purchase
+training from alternative sources.  Independence Air believes that
+adequate training services, including simulator time in North America,
+will be available from Airbus to fulfill its training requirements for
+the foreseeable future.  Independence Air is utilizing manufacturer
+credits issued in lieu of payment for a portion of its initial training
+requirements.  When these credits are fully utilized it will need to pay
+cash for subsequent training.  In addition to the usage of the
+manufacturer's training program, Independence Air may conduct a limited
+amount of training using its own training program and instructors, and
+will consider development of an in-house training program for A319s
+pilots in the future.
+
+Industry Regulation and Airport Access
+
+          Economic.  The Department of Transportation ("DOT") has
+extensive authority to issue certificates authorizing carriers to engage
+in air transportation, establish consumer protection regulations,
+prohibit certain unfair or anti-competitive practices, mandate certain
+conditions of carriage and make ongoing determinations of a carrier's
+fitness, willingness and ability to provide air transportation.  The DOT
+can bring proceedings for the enforcement of its regulations under
+applicable federal statutes, which proceedings may result in civil
+penalties, revocation of operating authority or criminal sanctions.
+
+          The Company's Independence Air subsidiary holds a certificate
+of public convenience and necessity, issued by the DOT, which authorizes
+it to conduct scheduled and charter air transportation of persons,
+property and mail between all points in the United States, its
+territories and possessions with regional jet and narrow-body equipment.
+In addition, Independence Air may conduct scheduled and charter air
+transportation with regional jet aircraft to points outside the United
+States, subject to obtaining any necessary authority from any foreign
+country to be so served.  Were Independence Air to operate its narrow-
+body aircraft outside of the United States, additional DOT authority
+would be required to conduct such air transportation.  Independence Air's
+certificate requires that Independence Air maintain DOT-prescribed
+minimum levels of insurance, comply with all applicable statutes and
+regulations and remain continuously "fit" to engage in air
+transportation.  Based on conditions in the industry, or as a result of
+Congressional directives or statutes, the DOT from time to time proposes
+and adopts new regulations or amends existing regulations that may impose
+additional regulatory burdens and costs on Independence Air.  Imposition
+of new laws and regulations on air carriers could increase the cost of
+operation and or limit carrier management discretion.
+
+					13
+
+          Safety.  The FAA extensively regulates the safety-related
+activities of air carriers.  Independence Air is subject to the FAA's
+jurisdiction with respect to aircraft maintenance and operations,
+equipment, ground facilities, flight dispatch, communications, training,
+weather observation, flight personnel, the transportation of hazardous
+materials and other matters affecting air safety.  To ensure compliance
+with its regulations, the FAA requires commercial airlines under its
+jurisdiction to obtain an operating certificate and operations
+specifications for the particular aircraft and types of operations
+conducted by such airlines.  The Company's Independence Air subsidiary
+possesses an operating certificate and related authorities issued by the
+FAA authorizing it to conduct operations with turboprop, regional jet and
+narrow-body equipment.  Independence Air's authority to conduct
+operations is subject to suspension, modification or revocation for
+cause.  The FAA has authority to bring proceedings to enforce its
+regulations, which proceedings may result in civil penalties, which can
+be substantial, criminal penalties, or suspension or revocation of
+operating authority.
+
+          From time to the time and with varying degrees of intensity,
+the FAA conducts inspections of air carriers.  Such inspections may be
+scheduled or unscheduled and may be triggered by specific events
+involving either the specific carrier being inspected or other air
+carriers.  In addition, the FAA may require airlines to demonstrate that
+they have the capacity to properly manage growth and safely operate
+increasing numbers of aircraft.
+
+          In order to ensure the highest level of safety in air
+transportation, the FAA has authority to issue maintenance directives and
+other mandatory orders.  These relate to, among other things, the
+inspection of aircraft and the mandatory removal and replacement of parts
+or structures.  In addition, the FAA from time to time amends its
+regulations and such amended regulations may impose additional regulatory
+burdens on Independence Air, such as the required installation of new
+safety-related items.  Depending upon the scope of the FAA's orders and
+amended regulations, these requirements may cause Independence Air to
+incur substantial, unanticipated expenses.
+
+          On November 19, 2001 the President signed into law the Aviation
+and Transportation Security Act (the "Security Act").  The Security Act
+requires heightened passenger, baggage and cargo security measures to be
+adopted as well as enhanced airport security procedures.  The Security
+Act created the Transportation Security Administration ("TSA") that has
+taken over the responsibility for conducting the screening of passengers
+and their baggage at the nation's airports as of February 17, 2002.  The
+activities of the TSA are funded in part by the application of a $2.50
+per passenger enplanement security fee (subject to a maximum of $5.00 per
+one way trip) and payment by all passenger carriers of a sum not
+exceeding each carrier's passenger and baggage screening cost incurred in
+calendar year 2000.  In the Administration's fiscal year 2006 budget it
+has proposed to authorize TSA to collect an additional $3.00 per
+passenger segment security fee, or $5.50 per segment and a maximum of
+$8.00 per one-way trip.  If Congress accepts the Administration's
+proposal, Independence Air will have to collect these additional fees
+from its passengers, thereby making the cost of air transportation more
+expensive which, in turn, may dampen demand for the services of
+Independence Air.  In addition, competitive pressures in the industry may
+preclude Independence Air from being able to pass on the added fee such
+that the fee may further diminish Independence Air's air transportation
+revenues.
+
+          The Security Act imposes new and increased requirements for air
+carrier employee background checks and additional security training of
+flight and cabin crew personnel.  These additional and new requirements
+have increased the security related costs of Independence Air.  The
+Security Act also mandates and the FAA has adopted new rules requiring
+the strengthening of cockpit doors, some of the costs of which have been
+reimbursed by the FAA.  Independence Air has completed all mandatory
+cockpit door modifications and has been reimbursed $2.7 million under the
+Security Act, although the cost of such modifications exceeded this
+amount.  At times when the aviation security threat level is elevated by
+the Department of Homeland Security, Independence Air may experience
+security-related disruptions, including reduced passenger demand,
+resulting from enhanced passenger screening at airports and possible
+flight cancellations. Independence Air believes that its exposure to such
+disruptions is no greater than that faced by other providers of regional
+air carrier services.
+
+					14
+
+          Although the TSA has taken over the former responsibilities of
+the air carriers for the screening of all passengers and baggage, the
+TSA, as with the FAA before it, requires air carriers to adopt and
+enforce procedures designed to safeguard property, and to protect airport
+and aircraft against terrorist acts.  The TSA, from time to time, may
+impose additional security requirements on air carriers and airport
+authorities based on specific threats or world conditions or as otherwise
+required.  The TSA has issued a number of security directives and altered
+procedures upon changes in the Office of Homeland Security announcements
+of heightened threat levels, and Independence Air has adjusted its
+security procedures on numerous occasions in response to these
+directives.  Independence Air incurred substantial expense in complying
+with current security requirements and it cannot predict what additional
+security requirements may be imposed in the future or the cost of
+complying with such requirements.
+
+          Associated with the FAA's security responsibility is its
+program to ensure compliance with rules regulating the transportation of
+hazardous materials.  Independence Air has policies against accepting
+hazardous materials or other dangerous goods for transportation.
+Employees of Independence Air are trained in the recognition of hazardous
+materials and dangerous goods through an FAA approved training course.
+Independence Air may ship aircraft and other parts and equipment, some of
+which may be classified as hazardous materials, using the services of
+third party carriers, both ground and air.  In acting in the capacity of
+a shipper of hazardous materials, Independence Air must comply with
+applicable regulations.  The FAA enforces its hazardous material
+regulations by the imposition of civil penalties, which can be
+substantial.
+
+          Other Regulation.  In the maintenance of its aircraft fleet and
+ground equipment, Independence Air handles and uses many materials that
+are classified as hazardous.  The Environmental Protection Agency and
+similar local agencies have jurisdiction over the handling and processing
+of these materials.  Independence Air is also subject to the oversight of
+the Occupational Safety and Health Administration concerning employee
+safety and health matters.  Independence Air is subject to the Federal
+Communications Commission's jurisdiction regarding the use of radio
+frequencies.
+
+          Federal law establishes maximum aircraft noise and emissions
+limits.  At the present time, all of the aircraft operated by
+Independence Air comply with all applicable federal noise and emissions
+regulations.  Federal law generally preempts airports from imposing
+unreasonable local noise rules that restrict air carrier operations.
+However, under certain circumstances airport operators may implement
+reasonable and nondiscriminatory local noise abatement procedures, which
+could impact the ability of Independence Air to serve certain airports,
+particularly in off-peak hours.
+
+          Slots.  Slots are reservations for takeoffs and landings at
+specified times and are required by governmental authorities to operate
+at certain airports within the United States.  Independence Air has
+rights to and utilizes takeoff and landing slots at New York-Kennedy, and
+White Plains, New York airports.  Airlines may acquire slots by
+governmental grant, by lease or purchase from other airlines, or by loan
+when another airline does not use a slot but desires to avoid
+governmental reallocation of a slot for lack of use.  All leased and
+loaned slots are subject to renewal and termination provisions.  Under
+law presently in effect, slot regulation at  Kennedy airport is scheduled
+to end after January 1, 2007.  The rules also provide that, in addition
+to those slots currently held by carriers, operators of regional jet
+aircraft and new entrant air carriers may apply for, and the Secretary of
+Transportation must grant, additional slots at New York-Kennedy in order
+to permit the carriers to offer new service, increase existing service or
+upgrade to regional jet service in qualifying smaller communities.  There
+is no limit on the number of slots a carrier may request.  Prior to the
+
+					15
+
+commencement of services by Independence Air, Independence Air requested
+and obtained from the FAA, under the provisions of current law, slots
+necessary to operate its flight schedule to and from New York Kennedy
+Airport.  The New York Kennedy Airport slots are permanent, subject to
+loss due to nonuse.  To the extent Independence Air would seek to operate
+narrow-body aircraft at Kennedy or any other slot controlled airport, it
+will have to either purchase or lease slots from another air carrier or
+be qualified to obtain such slots under the then current regulatory
+regime.  Slots at White Plains, New York airport are held in the name of
+Independence Air and are sufficient to conduct operations at the airport.
+As a result of congestion at Chicago O'Hare Airport on January 21, 2004
+the FAA entered an Order requiring the two largest O'Hare carriers,
+United Airlines and American Airlines, to reduce their O'Hare flight
+schedules, including the schedules operated by carriers affiliated with
+these major carriers.  The FAA order was subsequently extended until
+October 2004. Prior to its expiration, the FAA on August 18, 2004 issued
+another order setting limits through April 30. 2005 on the number of air
+carrier arrivals at O'Hare during peak hours to reduce the level of
+airport congestion and applied the terms of the order to all domestic
+carriers operating at O'Hare, including Independence Air.  The FAA has
+proposed to extend the effectiveness of this order until October 30, 2005
+during which time the FAA has indicated that it intends to propose and
+adopt a longer term, more permanent solution to the issue of O'Hare
+airport delays.  At the current time Independence Air has sufficient
+rights to conduct flights at O'Hare during the controlled hours.  Should
+the FAA propose additional limits on Independence Air flight arrivals, it
+may not be able to develop a flight schedule that maximizes Independence
+Air's revenue opportunities.
+
+Risk Factors Affecting the Company
+
+          The Company's business is subject to numerous risks and
+uncertainties, as described below and in the section titled,
+"Management's Discussion and Analysis of Results of Operations and
+Financial Condition - Liquidity and Capital Resources" and "Quantitative
+and Qualitative Disclosures About Market Risk".
+
+Risk Factors Affecting the Company Relating to Independence Air
+
+
+We face pressure to increase operating revenues and reduce operating
+costs to avoid a liquidity crisis
+
+          The fierce competition and weak revenue environment that
+Independence Air operations have encountered, combined with lower than
+expected passenger traffic and unprecedented high jet fuel prices have
+resulted in Independence Air's revenue falling significantly below
+anticipated levels and the Company expending cash at an unsustainable
+rate.  Although we have implemented cost savings measures, we may not be
+able to reduce our operating costs enough to offset the revenue
+shortfall.
+
+          We expect to have substantial cash needs as we continue to
+establish ourselves under the new brand "Independence Air" as a low-fare
+carrier, including cash required to fund increases in accounts payable,
+prepaid expenses, aircraft security deposits on new aircraft to be
+leased, pre-delivery payments on new aircraft to be purchased, as well as
+anticipated operating losses.  As of December 31, 2004, our debt of
+$238.8 million exceeded our total capitalization. In addition to long-
+term debt, we have a significant amount of other fixed obligations under
+operating leases related to our aircraft, airport terminal space, other
+airport facilities and office space. As of December 31, 2004, future
+minimum lease payments under non-cancelable operating leases with initial
+or remaining terms in excess of one year were approximately $1.7 billion
+for 2005 through 2024, not including commitments for the remaining Airbus
+A319 aircraft we intend to acquire.
+
+          Future operating lease commitments for the eight leased Airbus
+aircraft undelivered at December 31, 2004 are expected to be
+approximately $325 million, and our purchase commitment for 16 additional
+Airbus aircraft is expected to be approximately $560 million over the
+next three years, including estimated amounts for contractual price
+escalations. We will continue to incur additional debt and other fixed
+obligations as we take delivery of new aircraft and other parts and
+equipment and continue to expand into new markets. The leases for the
+Airbus aircraft require security deposits to be held by the lessors in
+addition to payments of monthly rent and maintenance reserves. The
+purchase agreement for the Airbus aircraft requires progress payments to
+be made for each aircraft as the delivery date approaches. We have
+historically funded the majority of our aircraft acquisitions by entering
+into off-balance sheet financing arrangements known as leveraged leases,
+in which third parties provide equity and debt financing to purchase the
+aircraft and simultaneously enter into long-term agreements to lease the
+aircraft to us.  However, we do not anticipate that this source of
+
+					16
+
+financing will be available to us for the foreseeable future, and that we
+will need to finance our aircraft through secured debt or operating
+leases.  We are exposed to interest rate risks that can affect our costs
+under any of these financing techniques.  There can be no assurance that
+we will be able to secure lease and/or debt financing on terms acceptable
+to us or at all.
+
+          Our outstanding indebtedness and significant fixed obligations,
+and our lack of a history of profitability for Independence Air
+operations, could have important consequences. For example, they could:
+
+     . adversely affect our ability to obtain additional financing to
+     support our planned growth and for working capital and other general
+     corporate purposes;
+
+     . divert substantial cash flow from our operations and expansion plans
+     in order to service our fixed obligations or to place deposits or
+     collateral to secure financing;
+
+     . require us to incur significantly more interest or rent expense than
+     we currently do; and
+
+     . place us at a possible competitive disadvantage compared to less
+     leveraged competitors and competitors that have better access to capital
+     resources.
+
+          We have no lines of credit, other than letters of credit
+collateralized by cash, and we will continue to rely on our existing cash
+balances, cash flow from operations and other sources of capital to
+satisfy our obligations.  In connection with our recently completed
+financial restructuring, we pledged substantially all of our remaining
+unencumbered collateral.  Even with the recent completion of our
+financial restructuring, if passenger traffic or yield do not achieve
+anticipated levels, fuel costs continue at current high levels or other
+events affect its operations,the Company may again face liquidity concerns.
+If the Company is not able to achieve its current business plan, cash
+balances and cash flow from operations together with operating lease financing
+and other available equipment financing may not be sufficient to enable the
+Company to meet its working capital needs, expected operating lease financing
+commitments, other capital expenditures, and debt service requirements as they
+come due for the remainder of 2005 and into 2006. If we are unable to make
+payments on our debt and other fixed obligations as they come due, we could
+be forced to consider commencing a bankruptcy case under Chapter 11 of the
+U.S. Bankruptcy Code or may be the subject of an involuntary Chapter 11 case
+commenced against us by creditors.
+
+Because we have limited operating history as a low-fare carrier, it is
+difficult to evaluate our ability to succeed in this business
+
+          Although we have operated as an airline since 1992, our past
+results offer little meaningful guidance with respect to our future
+performance because prior to June 16, 2004 we had not operated as an
+independent carrier. In addition, we have not had responsibility for
+route planning, scheduling, pricing, marketing, advertising, sales,
+revenue management or revenue accounting functions since December 2000,
+and for the first time we are operating our own distribution,
+reservations and ticketing functions. Also, while previous operations
+have been under the United and Delta brands, Independence Air is a new
+brand, and has limited market recognition. As a result, because we have
+only recently begun to operate as an independent, low-fare carrier, it is
+difficult to evaluate our future prospects. Our future performance will
+depend on a number of factors, including our ability to:
+
+					17
+
+       .  Further develop our Independence Air brand and product to make it
+       attractive to our target customers;
+
+       .  implement our business strategy by placing into service additional
+       A319 aircraft into new and longer-haul markets than we have previously
+       served;
+
+       .  successfully choose new A319 markets and service levels, and
+       successfully choose the markets and service levels to be operated by our
+       reduced CRJ fleet;
+
+       .  reduce our expenses to adjust to the current revenue and fuel cost
+       environment, and to reflect a reduced number of aircraft in operation;
+
+       .  secure favorable terms with airports, suppliers and other
+       contractors;
+
+       .  monitor and manage major operational and financial risks;
+
+       .  return a significant number of aircraft to their lessors during
+       2005, without incurring unexpected costs or disruption of ongoing
+       operations;
+
+       .  obtain and maintain necessary regulatory approvals, including
+       airport "slots" where necessary;
+
+       .  attract, retain and motivate qualified personnel;
+
+       .  finance the necessary capital investments including future aircraft
+       deliveries;
+
+       .  maintain the safety and security of our operations; and
+
+       .  react to responses from our competitors, including both legacy and
+       low-fare airlines.
+
+There can be no assurances that we will successfully address any of these
+factors, and our failure to do so could harm our business.
+
+Our recently completed financial restructuring may result in significant
+expenditures and limits the flexibility of our operations
+
+          As discussed above under "Item 1. Business - Financial
+Restructuring," in connection with our recently completed financial
+restructuring we have entered into agreements that require us to satisfy
+certain obligations.  We may have to incur unexpected costs to satisfy
+certain of these obligations, and our failure to satisfy these or other
+obligations arising under our financial restructuring could limit the
+flexibility of our operations.  We have reached agreements with the
+lessors for 24 of Independence Air's CRJs and, as stated above, with the
+lessors for 21 of the J-41 turboprops that were formerly used in our
+United Express operations for the return of the aircraft to the lessors
+and the elimination of our future rent obligations.  The terms of those
+agreements include certain obligations with respect to the return of the
+aircraft, including physical condition and timing of the return.  We may
+incur unexpected charges arising from those obligations and/or may fail
+to satisfy all of those obligations as to some or all of the aircraft.
+We have also agreed to permit the lessor to require us to return up to
+eight additional CRJ aircraft if we do not meet certain financial
+milestones.  The removal of these aircraft could result in additional
+costs, and could be harmful to the business plan if we are forced to
+remove aircraft that are providing a positive contribution to our
+
+					18
+
+performance. The restructuring of the lease and loan payments on 52 CRJs
+defers the payment of approximately $70 million that would have been due
+between January 2005 and February 2007 and converts the previous semi-
+annual payment dates to monthly payment dates.  The $70 million of
+deferrals and associated interest will be repaid monthly over the
+remaining term of the financing beginning in May 2006.
+
+We are under pressure to control and reduce our costs
+
+          The extensive competition, high fuel costs, excess capacity and
+success of low-fare carriers has resulted in increased emphasis in the
+airline industry on controlling and reducing expenses. Many of our
+competitors are effecting cost reductions that will increase their
+ability to compete against Independence Air.  In this environment, if we
+are unable to align our costs with our business plan or to control and
+reduce our costs in general, we may not be able to effectively compete
+against other regional carriers flying for legacy carriers or other low-
+fare carriers to maintain or expand our existing operations and carry out
+our business plan.
+
+We are subject to risks arising from fuel costs and availability of fuel
+
+          Like all airlines, our finances have been dramatically affected
+by record high fuel prices.  Recently we have purchased fuel at a price
+of $1.65 per gallon.  When we first started Independence Air operations
+in June 2004 we were purchasing fuel at $1.27 per gallon.  With about 100
+million gallons projected to be consumed in 2005, at today's rates we
+would incur approximately $38.1 million in additional cost for 2005
+compared to what that fuel would have cost at prices that were prevailing
+when we first started operations.  We have not hedged our fuel needs.  We
+cannot predict the future cost and availability of fuel. Both fuel costs
+and availability are subject to many economic and political factors and
+events occurring throughout the world over which we have no control. Fuel
+availability is also subject to periods of market surplus and shortage
+and is affected by demand for both home heating oil and gasoline.
+Because of the intense pricing competition, the ability of carriers to
+adjust pricing to reflect higher fuel costs has been limited.  We do not
+believe that this present situation is sustainable either for us or for
+the industry as a whole, and that without either a reduction in fuel
+prices or an increase in ticket prices, we, like many other airlines, may
+not be successful.
+
+          We rely on third parties and supply infrastructure to provide
+sufficient fuel for our operations. The inability of these third parties
+to perform, the interruption of fuel supplies at an airport, or the
+inability to deliver sufficient fuel to us due to infrastructure
+constraints could result in cancelled flights and/or higher fuel prices.
+
+We have costs and possible exposure arising from the Fairchild Dornier
+328 regional jet ("328Jet") and termination of our Delta Connection
+operations
+
+          In April 2002, Fairchild Dornier GmbH ("Fairchild"), the
+manufacturer of the 32-seat 328Jet, was placed under the supervision of a
+court-appointed interim trustee and in July 2002 Fairchild opened formal
+insolvency proceedings in Germany.  The lack of manufacturer product
+support, along with a high level of unscheduled maintenance events for
+the engines that power the aircraft, resulted in an increase in the cost
+to operate the 328Jet aircraft type and a decrease in the aircraft's
+value.  Following Delta's notice that it would terminate the Delta
+Agreement without cause upon 180 days notice, we notified Delta that we
+were exercising our right under the terms of the Delta Agreement to
+require Delta to assume the leases on 30 of the 33 328Jets used in the
+Delta program.  We have entered into agreements with the loan
+participants of those leveraged leases to relieve us of further
+obligations to them under the leases provided we can complete the
+assignment to Delta within a specified period of time.  We do not have
+
+					19
+
+such an agreement with the equity participant in such aircraft although
+we believe that other circumstances relating to the structure of the
+leases and to certain defaults to us by that party effectively insulates
+us from further liability.  We are anticipating completing the assignment
+to Delta in March 2005 but there can be no assurance that the assignments
+will be successfully completed.  We are currently working with Delta and
+their representatives to complete inspections and records review for each
+aircraft. These detailed inspections of each aircraft and its related
+records have caused the Company additional expense and time not originally
+planned.  The delay in assigning the aircraft to Delta required the
+Company to make the semi annual lease payment due on these aircraft. Delta
+is currently repaying these rents on a weekly basis and is obligated to
+make up any unamortized amounts upon assignment of the aircraft. Until the
+assignments to Delta are complete, the Company is at risk of not
+recovering the semi-annual rents it has already paid and remains
+liable for the full lease term in the case Delta were to default on its
+obligations.  We also are responsible for the remarketing of the two
+leased 328Jet aircraft that we do not have a right to require Delta to
+assume, as well as the spare parts inventory, tooling and ground equipment
+unique to the 328Jet. There can be no assurance that we will be able to
+redeploy in a profitable manner these two leased 328Jets. We recorded
+impairment charges of $13.8 million in connection with our one owned
+328Jet and 328Jet spare parts, early retirement charges of $7.2 million
+in connection with the two leased 328Jets that we do not have the right to
+require Delta to assume and may incur additional one-time costs in
+connection with the termination of the Delta relationship.
+
+We will incur cash charges and may incur other unexpected charges as we
+return the J-41 aircraft to the lessors
+
+          We have retired all J-41 type aircraft from our fleet.  As part
+of our recently completed financial restructuring, we have reached
+agreement with the lessors for 21 of those aircraft on the terms for the
+return of the aircraft to the lessors and the elimination of our future
+rent obligations.  The terms of those agreements include certain
+obligations with respect to the return of the aircraft, including in some
+cases physical condition, the production of certain records, and timing
+of the returns.  We may incur unexpected charges arising from those
+obligations and/or may fail to satisfy all of those obligations as to
+some or all of the aircraft.  For the remaining nine J41 aircraft we are
+still contractually required to continue to make payments under the
+lease/loan agreements for the aircraft, and do not expect to be able to
+obtain any significant amount of sublease income relative to our rent
+obligations.
+
+
+Our expansion of Independence Air requires significant new
+infrastructures
+
+          Our business strategy involves successfully establishing
+Washington Dulles as the hub for a new low-fare airline, establishing the
+Independence Air brand in regional jet markets we have been serving to
+and from Washington Dulles, expanding our operation into certain markets
+not previously served, and creating flight connection opportunities. We
+must continue to establish and maintain significant new infrastructures
+that are necessary to operate as an independent airline, including
+scheduling, market planning and marketing, advertising, ground operations
+and information systems. Achieving our business strategy is critical in
+order for our business to create passenger connecting opportunities for
+markets to be served with our existing fleet of CRJs and with the Airbus
+A319 aircraft that we currently operate and are acquiring, and to achieve
+economies of scale, both of which are critical to profitable operations.
+Increasing the number of markets we serve depends on our ability to
+successfully introduce the Airbus aircraft into our fleet, and to secure
+suitable slots, gates, ticket counter positions and other facilities at
+airports located in our targeted geographic markets.  In some of our
+markets we must establish and maintain ground operations and in some
+markets we compete with United and others for facilities and employees.
+Opening new markets requires us to commit a substantial amount of
+resources, even before new service commences. Expansion also requires
+additional skilled personnel and equipment.  An inability to hire and
+retain skilled personnel or to secure the required equipment and
+facilities efficiently and cost-effectively or to successfully develop
+and implement other necessary systems may affect our ability to achieve
+our business strategy.  In addition, Independence Air operations may also
+
+					20
+
+increase the demands on management and our operating systems and internal
+controls beyond levels we currently anticipate. Such expansion may strain
+our existing management resources and operational, financial and
+management information systems to the point that they may no longer be
+adequate to support our operations, requiring us to make larger
+expenditures in these areas than we currently anticipate.  There can be
+no assurance that we will be able to develop these controls, systems or
+procedures on a timely or cost-effective basis, and the failure to do so
+could harm our business.
+
+Failure to successfully implement our strategy for Independence Air could
+harm our business
+
+          Our business strategy for Independence Air involves, among
+others, attractive schedule and connection opportunities to the markets
+we serve, aggressive management of unit costs, and offering fares that
+are significantly lower than existed prior to our entry in order to
+stimulate demand.  While we have found that our new fare structure has in
+fact stimulated passenger growth, our competitors' response in
+aggressively matching our fares and increasing capacity on many of our
+markets has resulted in an overcapacity of seats relative to the
+increased passenger growth.  There can be no assurance that we will be
+able to sufficiently balance our costs with the demand for our product,
+and failure to do so may prevent us from successfully implementing our
+strategy for Independence Air.
+
+Our maintenance costs will increase as our regional jet fleet ages and as
+certain aircraft are returned to the lessors and retired from our fleet
+
+          As our fleet of regional jet aircraft ages, the maintenance
+costs for such aircraft will likely increase.  In addition, the CRJs
+being returned to lessors under our recently completed financial
+restructuring are generally among our newer aircraft, and thus have
+operated at lower costs than our average fleet.  Although we cannot
+accurately predict how much our maintenance costs will increase in the
+future, they may increase significantly. Any such increase could have an
+adverse effect on our business, financial condition and results of
+operations. We are vulnerable to any problems associated with the
+aircraft in our fleet, including design defects, mechanical problems or
+adverse perception by the public that would result in customer avoidance
+or an inability to operate our aircraft.
+
+Our business plan for Independence Air is heavily dependent on the
+metropolitan Washington, D.C. market, including Northern Virginia, and a
+reduction in demand for air travel in this market or the inability of
+Washington Dulles to accommodate our operations would harm our business
+
+          Our operations focus on flights to and from our primary base of
+operations at Washington Dulles.  As a result, we are highly dependent
+upon the Washington, D.C. and Northern Virginia markets. Our business
+would be harmed by any circumstances causing a reduction in demand for
+air transportation in the Washington, D.C. and Northern Virginia
+metropolitan area, such as adverse changes in local economic conditions,
+political disruptions or violence (including any terrorist attacks),
+negative public perception of the city or region, significant price
+increases linked to increases in airport access costs and fees imposed on
+passengers or the impact of past or future terrorist attacks.  Likewise,
+our business could be harmed by any disruption of service or facilities
+at Washington Dulles.
+
+We face competition as a low-fare airline from legacy carriers as well as
+low-fare airlines to which we have not been previously exposed
+
+          The airline industry is highly competitive, primarily due to
+the effects of the Airline Deregulation Act of 1978, which substantially
+eliminated government authority to regulate domestic routes and fares,
+
+					21
+
+and increased the ability of airlines to compete with respect to
+destination flight frequencies and fares. Independence Air operates in a
+new sector of the airline industry that is highly competitive and is
+particularly susceptible to price discounting because airlines typically
+incur only nominal costs to provide service to passengers occupying
+otherwise unsold seats. Our competition includes legacy carriers and low-
+fare carriers, which are aggressively responding to our new Independence
+Air service to protect their markets and expand into new ones by adding
+service in markets we serve or plan to serve, reducing fares to these
+markets and/or providing frequent flyer and other incentives.  The
+competitive response has included not only flights to and from Washington
+Dulles, Reagan National and BWI airports, but has also included
+origination and destination markets that we connect through Washington
+Dulles.  Several legacy carriers, including United and Delta, have
+introduced low-fare carriers to their operations.  In addition, because
+of the nature of our past relationship with United and because we offer
+service between key United hubs, United's response to our operation as
+Independence Air has been and is expected to continue to be highly
+competitive and unpredictable.  Independence Air also competes against
+established brands used by both legacy carriers and low-fare carriers
+that carry greater name recognition, both at Washington Dulles and at the
+other cities that we serve.  Both legacy carriers and low-fare carriers
+also continue to take delivery of regional jets, and we may face
+increased competition from regional jets at Washington Dulles, including
+the use of new 70 or 90 seat regional jets, which would be larger than
+those we currently have in our regional jet fleet.  The use of new,
+larger scale regional jets will allow competitors to serve markets
+smaller than can now be served by low-fare carriers using larger
+aircraft, with a seat mile cost that may be lower than ours.
+
+          Our base of operations for Independence Air is Washington
+Dulles, which is served by a number of larger airlines that have greater
+name recognition and greater resources than we do.  These larger airlines
+have and may in the future commence or increase their capacity and
+service at Washington Dulles because there are currently no rules
+restricting access at this airport.  We are competing in markets at fares
+offered by airlines at other airports that currently serve the
+Washington, D.C. metropolitan area, including Reagan National Airport and
+Baltimore Washington International Airport. We may also face competition
+from other airlines that may begin serving any of the markets we serve
+and from ground transportation alternatives. Other airlines with greater
+financial resources than ours also have or may in the future meet or
+price their fares below our fares or introduce new nonstop service
+between cities served by our flights to and from Washington Dulles,
+Reagan National Airport or Baltimore Washington International Airport and
+prevent us from attaining a share of the passenger traffic necessary to
+operate profitably. We expect that competition will exist in all the
+direct markets that we currently serve and will serve in the future, as
+well as in the market for flights that connect through Washington Dulles.
+We further expect that the competition for passengers connecting through
+Washington Dulles will be both from airlines offering service through
+Washington Dulles and from the large number of alternative hubs
+throughout the U.S., instead of Washington Dulles, through which
+connecting passengers can elect to route their travel.
+
+          Our new West Coast services marks our entry into the highly
+competitive transcontinental market.  Transcontinental routes were priced
+aggressively by low-fare carriers prior to our entry, and our offering of
+these routes poses a direct threat to legacy carriers on routes that we
+believe have traditionally been more profitable for them.  We have
+already seen substantial fare-cutting by United and other legacy carriers
+on our new West Coast routes and anticipate a continued strong
+competitive response to our service.
+
+Our business model is dependent on our ability to continue to take
+delivery of, place into service and integrate new Airbus A319 aircraft
+into our operations
+
+          As of March 14, 2005 we were operating eight Airbus A319
+aircraft and have 20 additional Airbus single aisle aircraft on order.
+The Airbus A319 aircraft will operate in markets that are important to
+
+					22
+
+serving a broad selection of cities from Washington Dulles, and providing
+that service is critical to attracting customers to our airline.  The
+A319 aircraft also will allow us to connect passengers to and from
+markets served by the regional jets to additional long haul markets, and
+we will thus rely on the Airbus A319 aircraft to generate incremental
+revenues for the regional jet fleet.
+
+          If we, Airbus or the aircraft lessors are unable or unwilling
+to satisfy contractual obligations relating to the aircraft, we would be
+required to obtain alternative aircraft.  A number of factors could limit
+or preclude our ability to obtain the aircraft from Airbus, including:
+
+         Airbus, the aircraft lessors or we could refuse, or not be
+       financially able, to perform important obligations as set forth in the
+       final agreement; and
+
+         Airbus could experience a disruption to its operations that affects
+       its ability to complete or timely fulfill its obligations.
+
+          Our ability to execute our business plan could be materially
+impaired if we were required to order alternate aircraft, or if the
+delivery schedule for the Airbus aircraft were delayed for any meaningful
+period.
+
+          Acquisition of an all-new type of aircraft, such as the Airbus
+A319 aircraft, involves a variety of risks relating to our ability to
+successfully place those aircraft into service, including:
+
+      delays in meeting the agreed upon aircraft delivery schedule;
+
+      difficulties in obtaining financing on acceptable terms to complete
+     our purchase or lease of all of the firm ordered aircraft;
+
+      inability of the aircraft and all of its components to comply with
+     agreed upon specifications and performance standards; and
+
+      inability to successfully complete the required training of flight
+     crews and maintenance staff.
+
+          We have limited experience operating and maintaining the Airbus
+A319 aircraft, and we therefore face risks in continuing to integrate the
+aircraft into our existing infrastructure and operations, including among
+other things, the additional costs, resources and time needed to hire
+and/or train new or existing pilots, technicians and other skilled
+support personnel. Our failure to successfully take delivery of, place
+into service and integrate into our operations all of the new Airbus
+single aisle aircraft could harm our business.
+
+          In the event that our Airbus aircraft are removed from
+scheduled service for repairs or other reasons (other than routine
+maintenance), we could experience a disruption in our scheduled service
+that would have an adverse effect on our operations. Similarly, our
+operations could also be harmed by the failure or inability of Airbus to
+provide sufficient parts or related support services on a timely basis.
+
+We rely on maintaining a high daily aircraft utilization rate of our
+Airbus to keep our costs low, which makes us especially vulnerable to
+delays
+
+          One of the key elements of the Independence Air business
+strategy is to maintain a high daily aircraft utilization rate of our
+
+					23
+
+A319 aircraft, which is the amount of time that our aircraft spend in the
+air carrying passengers. High daily aircraft utilization allows us to
+generate more revenue from our aircraft and is achieved in part by
+reducing turnaround times at airports so we can fly more hours on average
+in a day.  Aircraft utilization is reduced by delays from various
+factors, many of which are beyond our control, including, among others,
+air traffic and airport congestion, inclement weather, security
+requirements, crew availability, fueling and ground handling and
+unscheduled maintenance.  Because many of our A319 routes will be to
+distant markets that will be remote from our hub, we may have a
+difficulty in recovering from irregular operations.  Furthermore, a
+schedule that contemplates high aircraft utilization is subject to the
+increased risk that once an aircraft falls behind schedule during the
+day, it could remain behind schedule during the remainder of that day and
+potentially into the next day, which can result in disruption in
+operating performance leading to passenger dissatisfaction and missed
+connections. All of the foregoing delays may increase our costs as well
+as diminish our reputation among our customers.
+
+We do not participate in the types of marketing alliances used by many of
+our competitors
+
+          Many airlines have marketing alliances with other airlines
+under which they market and advertise their status as marketing alliance
+partners.  Among other things, they share the use of flight designator
+codes to identify their flights and fares in the computerized reservation
+systems and permit reciprocity in their frequent flyer programs.  In
+recent years, alliance activity among major carriers has significantly
+expanded within the airline industry, increasing the scope of operations
+and resources of our competitors, which, in turn, could adversely affect
+our ability to compete.  Independence Air is not a member of any
+marketing alliance. Our lack of a marketing alliance could harm our
+business and competitive ability.  We also do not participate in
+interline baggage handling agreements, under which we forward and receive
+customer baggage to and from other airlines that may operate flights with
+which our customers may be connecting, which may discourage potential
+customers from flying on Independence Air.
+
+We rely heavily on automated systems to operate our business and any
+failure of these systems could harm our business
+
+          We depend on automated systems to operate our business as
+Independence Air, including our computerized airline reservation system,
+our telecommunication systems, kiosks, and our website.  Our website and
+reservation and check-in systems must be able to accommodate a high
+volume of traffic and deliver important flight information.  Substantial
+or repeated website, reservations system, kiosk, or telecommunication
+systems failures could reduce the attractiveness of our services and
+could cause our customers to purchase tickets from another airline.
+While we have backup systems for some aspects of our operations, our
+systems have not been fully tested for the volume of transactions
+possible in our operations and are not fully redundant, and our disaster
+recovery planning may not be sufficient for all eventualities.  In order
+to provide a reservations system and the infrastructure to receive
+customer calls, we contract with third party vendors to provide the
+software, hardware, and technical support of the reservations system and
+the physical location and staffing for a call center.  We also may need
+to rely on third-party vendors to implement our back-up systems, which
+would place aspects of maintaining important data beyond our control.
+Any disruption in our or our third parties' systems or in the ability of
+the third party vendors to provide their services could result in the
+loss of customer bookings or important data, increase our expenses and
+generally harm our business.
+
+					24
+
+Our inability to obtain and maintain approval from the FAA and the DOT to
+operate aircraft could materially affect our operations
+
+          We possess all of the DOT and FAA authority necessary to
+operate our fleet of A319 and CRJ aircraft.  We are required to maintain
+this authority and to satisfy on-going regulatory requirements in order
+to continue our operations.  We recently paid a substantial civil penalty
+to the FAA and are involved in an ongoing review by the FAA of the
+Company's maintenance records program.  The outcome of this review cannot
+be predicted at this time, but could result in additional fines or
+actions by the FAA.
+
+
+We may not be able to maintain access to suitable airports located in our
+targeted geographic area
+
+          Independence Air is materially dependent on our ability to
+access suitable airports located in our targeted geographic markets for
+both our larger, single aisle aircraft and our regional jets at costs
+that are consistent with our low-fare strategy. Some airports served by
+Independence Air are subject to FAA imposed capacity controls and,
+although Independence Air currently has the slots necessary to conduct
+operations at these airports, additional limits could be placed on the
+airports that might restrict Independence Air's access to them.  In
+August 2004 the FAA issued an order limiting hourly operations at
+Chicago's O'Hare International Airport.  The effect of this order caused
+the Company to shift the hours of certain of its operations and to place
+an upper limit on the number of daily O'Hare arrivals through the end of
+April 2005.  Other airports that are not currently capacity controlled
+that become severely congested, which could include Washington Dulles,
+could become the subject of some regulatory limit and thereby restrict
+Independence Air's access to or operations at those airports. Any
+condition that would deny, limit or delay our access to airports we serve
+or seek to serve in the future would constrain our ability to grow.  A
+change in the terms of our access to existing facilities or any increase
+in the relevant charges paid by us as a result of the expiration or
+termination of such arrangements and our failure to renegotiate
+comparable terms or rates could have a material adverse effect on our
+results of operations. We base our operations predominantly at Washington
+Dulles. There can be no assurance that such airport will not impose
+higher airport charges in the future or that such increases would not
+adversely affect our operations
+
+Our current operations benefit from government support for insurance
+costs
+
+          Following the September 11 terrorist attacks, the aviation
+insurance industry imposed a worldwide surcharge on aviation insurance
+rates as well as a reduction in coverage for certain war risks. In
+response to the reduction in coverage, the Air Transportation Safety and
+System Stabilization Act provides U.S. air carriers with the option to
+purchase certain war risk liability insurance from the United States
+government on an interim basis at rates that are more favorable than
+those available from the private market. Prior to December 2002, we
+purchased hull war risk coverage through the private insurance market,
+and purchased liability war risk coverage through a combination of U.S.
+government provided insurance and private insurance. In December 2002,
+the U.S. government offered to provide additional war risk coverage that
+included certain risks previously covered by private insurance. We have
+purchased, at rates that are significantly lower than those charged by
+private insurance carriers, hull and liability war risk coverage from the
+U.S. government (through the FAA) through August 31, 2005.  Due to the
+cost and difficulty in obtaining insurance in the commercial markets, we
+anticipate renewing the insurance through the FAA for so long as it is
+available. The FAA has indicated that the extension of its war risk
+insurance program past August 31, 2005 is under consideration but has not
+yet been approved.  The inability to obtain insurance at any cost or the
+availability of insurance only at excessive rates, could affect our
+ability to operate.
+
+We have had difficulty implementing in a timely manner the documentation,
+assessments,  testing  and  remediation  of  our  internal  control  over
+financial  reporting necessary to allow our management to report  whether
+our internal control over financial reporting is effective.
+
+					25
+
+          Pursuant to Section 404 of the Sarbanes-Oxley Act of 2002, we
+are required to include a report in our Annual Report on Form 10-K of
+management's assessment of the design and effectiveness of our internal
+control over financial reporting as of the fiscal year ending December
+31, 2004.  Management, with the participation of the Company's principal
+executive officer and principal financial officer,  is in the process of
+conducting an evaluation of our internal control over financial reporting
+based on the framework in Internal Control--Integrated Framework issued
+by the Committee of Sponsoring Organizations of the Treadway Commission.
+Our auditors will then be required to attest to, and report on,
+management's assessment.  They will also be required to report on the
+effectiveness of our internal control over financial reporting.  As
+reported in the Company's Form 10-Q for the quarter ended September 30,
+2004, management had identified internal control weaknesses existing at
+that time that constituted material weaknesses or significant
+deficiencies.  The Company undertook to implement compensating controls
+to remediate or mitigate those weaknesses, including segregation of
+duties and monitoring controls over the purchasing process and monitoring
+controls, to include adequate documentation, over the information
+technology control environment.  See Part I Item 9A of this filing,
+"Controls and Procedures."   Securities and Exchange Commission Release
+No. 34-50754 provides certain companies, including us, up to 45
+additional days beyond the required filing date of this Form 10-K for the
+filing of management's annual report on internal control over financial
+reporting, and the related attestation report of our auditors on
+management's report on internal control over financial reporting and the
+related report of the auditors on their own assessment of our internal
+control over financial reporting.  There can be no assurance that
+management will be able to complete the necessary work in a timely manner
+to issue its report that our internal control was effective as of
+December 31, 2004 or that, upon completing such work, our management will
+conclude that our internal control over financial reporting was effective
+as of December 31, 2004.  If we are not able to timely complete our
+internal control work necessary for management's assessment and
+regardless of whether our management concludes that our internal control
+over financial reporting was effective as of December 31, 2004, our
+auditor may issue an adverse report or qualify its report on management's
+assessment of internal control over financial reporting and/or in its own
+report on our internal control over financial reporting.  In addition, we
+might be subject to sanctions or investigation by regulatory authorities.
+Certain material weaknesses or significant deficiencies in our internal
+controls also could have a material adverse effect on our results of
+operations.  We also expect to incur additional expenses and diversion of
+management's time as a result of performing the system and process
+evaluation, testing and remediation required in order to comply with the
+management certification and auditor attestation requirements.
+
+Our contracts with two of our unions currently are amendable
+
+          Our contract with Aircraft Mechanics Fraternal Association
+("AMFA"), which was ratified in June 1998, became amendable in June 2002,
+and our contract with the Association of Flight Attendants-Communications
+Workers of America ("AFA-CWA"), which was ratified in October 1998,
+became amendable in October 2002. The AMFA contract covers all aviation
+maintenance technicians and ground service equipment mechanics working
+for us and the AFA-CWA contract covers all flight attendants working for
+us.  In February 2005 we reached a tentative agreement with AFA-CWA, but
+the agreement is still subject to the vote of the members.  We have
+entered into discussions with AFA-CWA regarding a new agreement, and have
+been in negotiations with AMFA since 2003 and more recently have been in
+mediation under the Railway Labor Act. Although there can be no
+assurances as to the outcome of these negotiations and mediation, we
+anticipate ultimately being able to reach agreement with both unions on
+mutually satisfactory contracts with no material effect on its results of
+operations or financial position. However, the failure to resolve these
+negotiations on appropriate terms could affect our ability to compete
+effectively.
+
+					26
+
+Our results of operations will fluctuate
+
+          We expect our quarterly operating results to fluctuate in the
+future based on many factors including the extent of passenger revenue,
+competition, changes in aircraft fuel costs, security costs, weather, the
+timing and amount of maintenance and our ability to successfully develop
+the "Independence Air" brand, including costs related to aircrafts and
+marketing expenditures in this effort. Because a substantial portion of
+airline travel (both business and personal) is discretionary, the
+industry tends to experience adverse financial results during general
+economic downturns. Any prolonged general reduction in airline traffic
+may particularly affect us because our business plan is more dependent,
+in part, on the stimulation of discretionary air travel. In addition,
+seasonal variations in weather and traffic affect our operating results
+from quarter to quarter.  Given our high proportion of fixed costs, this
+seasonality affects our profitability from quarter to quarter.  Our base
+of operations is located in the Washington, D.C. area, and many of our
+areas of operations are located in the Northeast, which makes our
+operations susceptible to air traffic and airport congestion as well as
+bad weather conditions in the winter, causing increased costs associated
+with deicing aircraft, cancelled flights and accommodating displaced
+passengers.  Due to our geographic area of operations and our use of
+regional jets, we are more susceptible to adverse weather conditions
+along the East Coast than some of our competitors, who may be better able
+to spread weather-related risks over more diverse route systems.  As we
+enter new markets, we could be subject to additional seasonal variations.
+Due to the factors described above, quarter-to-quarter comparisons of our
+operating results may not be good indicators of our future performance.
+In addition, it is possible that in any future quarter our operating
+results could be below the expectations of investors and any published
+reports or analyses regarding Independence Air.
+
+Our business would be harmed if we lost the services of any key personnel
+
+          Our success depends to a large extent on the continued service
+of our executive management team and other key personnel. Although we
+have employment agreements with certain executive officers, it is
+possible that members of management may resign. Other key personnel may
+depart the Company due to our financial condition.  We may incur
+unexpected expenses and have difficulty replacing management or other key
+personnel who leave and, therefore, the loss of the services of any of
+these individuals could harm our business. We fund key-man life insurance
+on certain executive officers only to the extent necessary to fund life
+insurance commitments under employment agreements in the event of death.
+
+Risk Factors Affecting the Airline Industry
+
+The U.S. airline industry is experiencing significant restructurings and
+bankruptcies
+
+          Beginning in early 2001, the industry has experienced depressed
+demand and shifts in passenger demand, lower unit revenues, increased
+insurance costs, increased fuel costs, increased government regulations
+and taxes, and tightened credit markets, evidenced by higher credit
+spreads and reduced capacity to borrow. These factors are directly
+affecting the operations and financial condition of participants in the
+industry including aircraft manufacturers. Several major airlines have
+used the bankruptcy process or the threat of bankruptcy to reduce their
+expenses and streamline their operations. Our contractual relationships
+with others may continue to be affected by other companies' bankruptcies
+or by concerns regarding potential bankruptcies. The bankruptcy or
+prospect of bankruptcy among other companies that operate in our industry
+may result in unexpected expenses and create other risks or uncertainties
+that we are not able to anticipate or plan around.
+
+					27
+
+The travel industry has been materially adversely affected by the
+September 11, 2001 terrorist attacks and on-going security concerns
+
+          The U.S. airline industry continues to recover from the events
+of September 11, 2001 and increased concerns over additional acts of
+terrorism. The major carriers continue to experience losses or operate
+near break-even levels of profitability even after reducing capacity,
+negotiating wage and work rule concessions and, for certain carriers,
+filing for bankruptcy protection. Passenger traffic continues to be
+negatively impacted by the general economic situation in the United
+States, threats of terrorist activities, terrorist alerts, violence in
+the Middle East, and increased security measures at the nation's
+airports. Instability in the Middle East and other parts of the world has
+increased the risk that the industry will continue to be adversely
+affected by reduced demand, increased security costs, increased fuel
+costs, and other factors. While our code share agreements allowed us to
+recover certain of these additional expenses from our partners, no such
+cost recovery arrangements are available for our Independence Air
+operations, and the effects of any new terrorist attacks and/or security
+measures, as well as increased security costs could impair our ability to
+operate profitably.
+
+Airlines are often affected by factors beyond their control, including
+weather conditions, traffic congestion at airports and increased security
+measures, any of which could harm our operating results and financial
+condition
+
+          As with other airlines, we are subject to delays caused by
+factors beyond our control, including adverse weather conditions, air
+traffic and airport congestion and increased security measures. Delays
+frustrate passengers, reduce aircraft utilization and increase costs, all
+of which negatively affect profitability. During periods of fog, snow,
+rain, storms or other adverse weather conditions, flights may be
+cancelled or significantly delayed. Cancellations or delays due to
+weather conditions, traffic control problems and breaches in security
+could harm our operating results and financial condition.
+
+Changes in government regulations imposing additional requirements and
+restrictions on our operations could increase our operating costs and
+result in service delays and disruptions
+
+          Airlines are subject to extensive regulatory and legal
+requirements, both domestically and internationally, that involve
+significant compliance costs. In the last several years, Congress has
+passed laws, including extensive airline and airport security laws, and
+the DOT, FAA and TSA have issued regulations relating to the operation of
+airlines that have required significant expenditures. We expect to
+continue to incur expenses in connection with complying with government
+regulations. Additional laws, regulations, taxes and airport rates and
+charges have been proposed from time to time that could significantly
+increase the cost of airline operations or reduce the demand for air
+travel. If adopted, these measures could have the effect of raising
+ticket prices, reducing revenue and increasing costs. There can be no
+assurance that these and other laws or regulations enacted in the future
+will not harm our business.
+
+The airline industry is characterized by low profit margins and high
+fixed costs, and we may be unable to establish our brand or to compete
+effectively against other airlines with greater financial resources or
+lower operating costs
+
+          The airline industry is characterized generally by low profit
+margins and high fixed costs, primarily for personnel, aircraft fuel,
+debt service and rent. The expenses of an aircraft flight do not vary
+significantly with the number of passengers carried. As a result, a
+relatively small change in the number of passengers or in pricing could
+have a disproportionate effect on an airline's operating and financial
+results. Accordingly, a minor shortfall in expected revenue levels could
+harm our business. In addition, the airline industry is highly
+competitive and is particularly susceptible to price discounting because
+
+					28
+
+airlines incur only nominal costs to provide service to passengers
+occupying otherwise unsold seats. We compete with other airlines on
+substantially all of our routes. Many of these airlines are larger and
+have greater financial resources and name recognition or lower operating
+costs or both than we do. Some of these competitors may chose to add
+service, reduce their fares and/or increase frequent flyer or other
+benefits, in some of our markets following or in anticipation of our
+entry. Therefore, we may be unable to compete effectively against other
+airlines that introduce service or discounted fares in the markets that
+we serve which could harm our business.
+
+Our  reputation and financial results could be harmed in the event of  an
+accident or incident involving our aircraft
+
+          An accident or incident involving one of our aircraft could
+involve repair or replacement of a damaged aircraft and its consequential
+temporary or permanent loss from service, and significant potential
+claims of injured passengers and others. We are required by the DOT to
+carry liability insurance. Although we believe we currently maintain
+liability insurance in amounts and of the type generally consistent with
+industry practice, the amount of such coverage may not be adequate and we
+may be forced to bear substantial losses from an accident. Substantial
+claims resulting from an accident in excess of our related insurance
+coverage would harm our business and financial results. Moreover, any
+aircraft accident or incident, even if fully insured, could cause a
+public perception that we are less safe or reliable than other airlines,
+which would harm our business.
+
+Internet Website
+
+          The Company's Internet website can be found at www.flyi.com.
+The Company makes available free of charge on or through its Internet
+website under the heading "Company, Investor Information", access to its
+annual report on Form 10-K, quarterly reports on Form 10-Q, current
+reports on Form 8-K, and amendments to those reports filed or furnished
+pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as
+reasonably practicable after such material is filed with, or furnished
+to, the Securities and Exchange Commission.  The contents of these
+websites are not a part of this Form 10-K.
+
+Item 2.   Properties
+
+          Flight Equipment - Operating:  The following table describes
+Independence Air's operating fleet of aircraft, scheduled firm deliveries
+and options as of March 10, 2005:
+
+                 Total   Number   Number           Average
+                Number     of      of     Passenger  Age   Aircraft
+                  of    Aircraft Aircraft Capacity   In      On
+               Aircraft  Leased   Owned             Years   Order  Options
+
+Airbus A319         8       8      -       132       < 1     20     49
+Bombardier CRJ200   82      74     8        50       4.3     34     80
+                    90      82     8                 3.9     54    129
+
+          The Company and Independence Air have entered into a series of
+agreements with GE Commercial Aviation Services, Inc. and certain of its
+affiliates ("GECAS") as owner participant under leveraged leases relating
+to 24 CRJs, and with the various parties as loan participant under those
+leveraged leases, providing for the early termination of the leases.
+These 24 CRJs, which are included in the table above, are being returned
+to GECAS between February and July 2005.
+
+					29
+
+          Independence Air's commitment to purchase 34 CRJ aircraft on
+order is subject to certain conditions which, unless waived by
+Independence Air by April 2005, can not be satisfied as a result of
+United's rejection in bankruptcy of the Company's United Express
+agreement.  Independence Air does not expect to waive the conditions and
+therefore does not expect to take delivery of these ordered aircraft.  If
+Independence Air does not waive the conditions, the remaining $3.4
+million on deposit with Bombardier will be returned to Independence Air
+in April 2005.
+
+          As of March 14, 2005, Independence Air has taken delivery of
+eight leased Airbus 319 aircraft and expects to take delivery of four
+additional leased A319s during April and May 2005.  Independence Air also
+has executed a purchase agreement with Airbus' wholly-owned affiliate
+AVSA S.A.R.L. ("AVSA") to purchase 16 Airbus A319 aircraft with six
+scheduled for delivery in 2006 and ten scheduled for delivery in 2007.
+
+          Flight   Equipment  -  Non-Operating:   The   following   table
+describes Independence Air's non-operating fleet of aircraft as of  March
+10, 2005:
+
+                                   Total      Number of   Number of
+                                 Number of     Aircraft     Aircraft
+                                  Aircraft      Leased       Owned
+
+Fairchild 328Jet                    33           32           1
+BAE J-41 Turboprops                 30           25           5
+                                    63           57           6
+
+          Independence Air has 33 Fairchild 328Jet aircraft that were
+previously operated in the Delta Connection operation.  Independence Air
+is in the process of assigning the leases on 30 of these 328Jets to Delta
+pursuant to the terms of the Delta Connection agreement.  Upon assignment
+to Delta, the Company and Independence Air expects to be released from
+any further obligations on these 30 328Jets.  The Company has taken an
+early retirement charge for the future rents due on the two remaining
+leased 328Jets and recorded an impairment charge for the one owned 328Jet
+to reflect estimated current value.  Independence Air is actively trying
+to dispose of these three remaining 328Jets either through sale or
+sublease transactions.
+
+          Upon the termination of the United Express agreement,
+Independence Air early retired its remaining J-41 turboprop aircraft and
+recorded a charge for the future rents to be due.  Independence Air has
+negotiated the early lease termination for 21 of the 30 J-41s it
+previously operated.  Once the J-41s are returned and accepted by the
+lessors, the Company and Independence Air will be relieved of any further
+obligations on these aircraft.  Of the remaining nine J-41s, seven are
+pledged as security under an Enhanced Equipment Trust Certificate
+transaction which the Company and Independence Air continue to abide by,
+one is owned with a related mortgage that Independence Air is actively
+looking to sell, and one is leased from a lessor that Independence Air
+will continue to negotiate with.
+
+					30
+
+          Leased Facilities
+
+          Airports
+
+          Independence Air enters into agreements for the use of
+passenger terminals at most of the airports it serves and leases ticket
+counter and office space at those locations where ticketing and its
+aircraft are handled by Independence Air personnel.  Payments to airport
+authorities for ground facilities are generally based on a number of
+factors, including space occupied as well as flight and passenger
+volume.  Independence Air occupies a 69,000 square foot passenger
+concourse at Washington Dulles.  The concourse, designed to support
+Independence Air's regional jet operation, is owned by the Metropolitan
+Washington Airports Authority and leased to Independence Air under a
+lease with a termination date of September 30, 2014.  Independence Air
+also occupies additional gates on Concourse B at Washington Dulles for
+its Airbus operation; these gates are owned by the Metropolitan
+Washington Airports Authority and are operated under a 60 day Use Permit.
+Finally, Independence Air leases gates and terminal space at locations
+serviced by it.
+
+          Corporate Offices
+
+          The Company's executive, administrative, reservations and
+system control departments are located in a three-story office building
+encompassing 77,000 square feet of space under an operating lease ending
+December 2010.  Independence Air's employee training and services center
+is located in a nearby 79,000 square foot building under a lease ending
+December 31, 2007.  Together, these properties provide the necessary
+administrative facilities for the Company's and Independence Air's
+operations.
+
+          Maintenance Facilities
+
+          The FAA's safety regulations mandate periodic inspection and
+maintenance of commercial aircraft.  Independence Air performs most line
+maintenance, service and inspection of its aircraft and engines at its
+own maintenance facilities using its own personnel.  Independence Air
+performs maintenance functions at an 112,000 square foot aircraft
+maintenance facility at Washington Dulles, a 34,000 square foot hangar
+facility in Columbia, South Carolina, and a 17,000 square foot hangar bay
+at the Orlando International Airport.  The Washington Dulles aircraft
+maintenance facility is comprised of 60,000 square feet of hangar space
+and 52,000 square feet of support and administrative space.  The lease
+term for the Washington Dulles aircraft maintenance facility expires
+December 24, 2024.  The lease term for the Columbia facility expires on
+June 1, 2005 and Independence Air has notified the Airport Authority that
+it intends to renew the lease for one year.  The Orlando facility is a
+single bay, of a 4 bay hangar operated by another commercial airline, is
+leased under a monthly use agreement and can be terminated with 30 days
+notice.
+
+          Independence Air performs the majority of its maintenance
+function for CRJs at the facility at Washington-Dulles.  Line station
+maintenance for the Independence Air operation is provided by contract
+maintenance.  Some high frequency stations are minimally staffed by FLYi
+maintenance personnel.  Routine overnight maintenance for the Airbus
+aircraft is performed by contract maintenance at line stations and by
+Company mechanics at Washington Dulles and Orlando.  The heavier
+overnight checks are performed at the Orlando hangar facility.
+
+Item 3.   Legal Proceedings
+
+          Independence Air is involved in legal proceedings related to
+the insolvency of Fairchild Dornier GmbH ("Fairchild"), which was
+initiated in 2002.  Independence Air holds a bond in the amount of $1.2
+
+					31
+
+million from an independent insurance company, which secures deposits
+placed with Fairchild for undelivered aircraft, and has made a demand for
+payment under this bond.  Fairchild's insolvency trustee has made a claim
+for the collateral posted with the insurance company, and the insurance
+company has withheld payment of the bond.  The matter is presently with
+the U.S. Bankruptcy Court for the Western District of Texas.  The Company
+has fully reserved for the potential exposure related to this matter.
+
+          Independence Air was named in several lawsuits arising from the
+terrorist activities of September 11, 2001.  These actions were commenced
+by or on behalf of individuals who were injured or killed as a result of
+the hijackings of the four flights.  These actions seek compensatory and
+punitive damages.  However, pursuant to the Air Transportation Safety and
+System Stabilization Act, Independence Air's liability for these claims
+is limited to Independence Air's liability insurance.  In each case, the
+plaintiffs have named the airlines operating at the airports from which
+the flights originated, including Independence Air, under the theory that
+all of the airlines are jointly responsible for the alleged security
+breaches by the airport security contractor.  The court recently denied
+the motion of American Airlines and other defendants, including
+Independence Air, seeking dismissal of all ground victim claims on the
+basis that the airline defendants do not owe a duty as a matter of law to
+individuals injured or killed on the ground. The litigation is
+proceeding; however, no discovery has been presented to the non-carrier
+airlines. The Company anticipates that it will raise other defenses
+including its assertion that it is not responsible for the incidents as
+it had no control over the security checkpoints through which the
+hijackers allegedly gained access to the hijacked aircraft. As of the end
+of the year, only 26 pending claims remain, down from the peak of 101
+claims.  While the ultimate number of claims is likely to decrease, there
+is a remote possibility that they could rise as a result of potential
+environmental claims, which are not subject to the standard statute of
+limitation.
+
+          From time to time, claims are made against Independence Air
+with respect to activities arising from its airline operations. Typically
+these involve injuries or damages incurred by passengers and are
+considered routine to the industry. On April 1, 2002, one of Independence
+Air's insurers on its comprehensive aviation liability policy, Legion
+Insurance Company, a subsidiary of Mutual Risk Management Ltd.
+("Legion"), was placed into rehabilitation by the Commonwealth of
+Pennsylvania, its state of incorporation. The rehabilitation proceeding
+is styled Koken v. Legion Insurance Company, No. 183 M.D. 2002 (Pa.
+Commw. Ct.), and is before Judge Leavitt. Currently, Legion can pay no
+claims, expenses or other items of debt without approval from
+Pennsylvania, resulting in Independence Air directly carrying the
+corresponding exposure related to Legion's contribution percentage for
+payouts of claims and expenses that Legion represented on Independence
+Air's all-risk hull and liability insurance for the 1999, 2000, 2001 and
+2002 policy years. Those contribution percentages are 15% for claims
+arising from incidents occurring in 1999, 19% for 2000, 15% for 2001, and
+8.5% for the first quarter of 2002. Legion ceased to be an insurer for
+Independence Air as of April 1, 2002, and there is, therefore, no
+exposure with respect to Legion for claims arising after that date.
+
+          The insurance held by Legion on Independence Air's policy was
+fully covered by reinsurance, which means that other carriers are
+contractually obligated to cover all claims that are direct obligations
+of Legion. The Company believes that a "cut-through" provision exists
+that causes funds to pass directly from the reinsurers to Independence
+Air in situations such as the rehabilitation or insolvency of a primary
+insurer. Other companies, including American Airlines, Inc. ("American"),
+have similar policy provisions. American intervened in the Legion
+rehabilitation and moved to have its cut-through provisions enforced. On
+June 26, 2003, the Pennsylvania Commonwealth Court entered an order
+enforcing American's cut-through provisions. The Court ruled that the
+reinsurance contract proceeds at issue were not general assets of the
+Legion estate. On July 25, 2003, the Court entered an Order of
+Liquidation that incorporated the June 26, 2003 ruling. The Order
+provides a means whereby a company can intervene to assert rights to its
+own reinsurance. The Insurance Commissioner and others appealed. The
+
+					32
+
+appeal remains outstanding. Independence Air intervened in the matter
+and, after consideration, the Court held on April 5, 2004, that
+Independence Air's reinsurance policies contain an unambiguous cut-
+through provision that provides Independence Air with direct access to
+reinsurance proceeds in the event of Legion's insolvency or
+rehabilitation.  That ruling is now on appeal. If the appeals related to
+Independence Air's and American's reinsurance are upheld, the Legion
+shortfall should be fully covered by reinsurance. However, if the rulings
+are overturned on appeal, Independence Air will likely be underinsured
+for these claims at the percentages set forth above. This underinsurance
+would include September 11 related lawsuits and any other similar
+lawsuits that are brought against Independence Air. Independence Air has
+accrued what it believes are adequate reserves for its likely exposure on
+claims known to date. No reserves have been accrued for the September 11
+related claims.
+
+          During the month of October 2004, Independence Air voluntarily
+reported to the FAA that certain maintenance inspection tasks had not
+been performed in a timely manner with respect to certain CRJ aircraft.
+In all but one case, these inspection tasks were accomplished immediately
+upon Independence Air's finding of each issue.  The reports of these
+Company actions prompted the FAA to begin a review of certain aspects of
+Independence Air's maintenance tracking procedures, which review is
+continuing.  The outcome of this review cannot be predicted at this time,
+but could result in additional fines or actions by the FAA.
+
+          Independence Air also is the subject of ongoing FAA and TSA
+civil penalty cases relating to alleged violations of FAA and TSA
+enforced rules and regulations.  Independence Air believes that the
+number of such cases and the amount of the civil penalties sought by the
+FAA and TSA is consistent with the experience of other airlines with
+operations of the size and scope of those provided by Independence Air,
+and that the disposition of these cases is not likely to have a material
+effect on the Company's financial position or the results of its
+operations.
+
+          FLYi, Inc. is a party to a legal proceeding in the Department
+of Labor involving a former employee of Atlantic Coast Airlines, Stacey
+M. Platone, who alleges that she was terminated from employment in
+violation of the Sarbanes-Oxley Act for reporting what she believed to be
+an improper arrangement between Atlantic Coast Airlines and one of its
+unions.  The complainant's allegations were investigated by the
+Occupational Safety and Health Administration (OSHA), the Labor
+Department agency with responsibility for investigating allegations of
+Sarbanes-Oxley employment violations; in July 2003 OSHA found the
+complaint to be without merit.  The complainant filed objections to the
+decision, and on April 30, 2004, a Labor Department administrative law
+judge ruled that the complainant had been improperly terminated from
+employment, although the judge also found that legitimate grounds had
+existed to terminate the complainant's employment.  In the decision, the
+judge has ordered that the complainant be paid back pay and benefits, and
+the costs and expenses of litigation, including attorney's fees.  FLYi,
+Inc. believes that this case was wrongly decided and is vigorously
+pursuing the appeal.  The Labor Department's Administrative Review Board
+granted the Company's petition for review of the judge's decision on July
+30, 2004.  The parties have submitted briefs to the Board and are
+awaiting its decision.  The Company intends to vigorously pursue the
+appeal.
+
+          One party participating as a lender in the leveraged lease of a
+single   CRJ   aircraft  declined  to  participate  in  negotiations   to
+restructure the transaction, and chose to exercise its available remedies
+following  the Company's failure to pay the aircraft's lease  rents  when
+due.   On January 27, 2005, the Company was served with a lawsuit in  the
+Superior  Court  of  the State of New York, seeking  among  other  things
+termination  of  the  lease, repossession of  the  aircraft  and  damages
+resulting  from  the  early termination.  Because of  the  obligation  to
+mitigate damages with respect to the aircraft, the Company cannot  assess
+the amount, if any, that will ultimately be recovered in damages.
+
+					33
+
+          In addition to those matters discussed above, the Company is  a
+party  to routine litigation  all of which is viewed to be incidental  to
+its business, and none of which the Company believes are likely to have a
+material effect on the Company's financial position or the results of its
+operations.
+
+Item 4.   Submission of Matters to a Vote of Security Holders
+
+          No  matter  was  submitted  during  the  fiscal  quarter  ended
+December  31,  2004,  to a vote of the security holders  of  the  Company
+through the solicitation of proxies or otherwise.
+
+PART II
+
+Item 5.   Market  for  Registrant's  Common Equity,  Related  Stockholder
+          Matters and Issuer Purchases of Equity Securities
+
+          The  Company's  common stock, par value  $.02  per  share  (the
+"Common  Stock"),  is traded on the NASDAQ National Market  ("NASDAQ/NM")
+under  the symbol "ACAI".  Trading of the Common Stock commenced on  July
+21, 1993.
+
+          The  following  table  sets forth the  reported  high  and  low
+closing  sale prices of the Common Stock on the NASDAQ/NM for the periods
+indicated:
+
+                                              High            Low
+          2003
+          First quarter                      $14.54         $  5.50
+          Second quarter                     $13.31         $  6.38
+          Third quarter                      $11.16         $  7.02
+          Fourth quarter                     $12.68         $  8.54
+
+          2004
+          First quarter                     $ 10.17         $  6.77
+          Second quarter                    $  7.82         $  5.33
+          Third quarter                     $  5.61         $  3.56
+          Fourth quarter                    $  4.04         $  1.23
+
+          2005
+          First quarter (through March 1)   $  2.06         $  1.40
+
+          As of March 1, 2005, the closing sales price of the Common
+Stock on NASDAQ/NM was $1.45 per share and there were approximately 205
+holders of record of Common Stock.
+
+          The Company has not paid any cash dividends on its Common Stock
+and does not anticipate paying any cash dividends in the foreseeable
+future.  The Company intends to retain earnings to finance the growth of
+its operations.  The payment of cash dividends in the future will depend
+upon such factors as earnings levels, capital requirements, the Company's
+financial condition, the applicability of any restrictions imposed upon
+the Company subsidiaries by certain of its financing agreements, the
+prohibition of dividends imposed by the Company's line of credit, and
+other factors deemed relevant by the Board of Directors.  In addition,
+FLYi, INC. is a holding company and its only significant asset is its
+investment in its subsidiary, Independence Air.
+
+					34
+
+          The Company's Board of Directors has approved the repurchase of
+up to $40.0 million of the Company's outstanding common stock in open
+market or private transactions.  As of December 31, 2003, the Company has
+repurchased 2,171,837 shares of its common stock and has approximately
+$21.0 million remaining of the $40.0 million authorized for repurchase.
+The Company did not repurchase any stock during 2004 and has no plans to
+repurchase stock in 2005.
+
+Item 6.        Selected Financial Data
+
+The information required by this item is omitted pursuant to Rule 12b-25
+and will be filed in an amendment to the Form 10-K within 15 calendar
+days.
+
+Item  7.         Management's  Discussion  and  Analysis  of  Results  of
+Operations                    and Financial Condition
+
+The information required by this item is omitted pursuant to Rule 12b-25
+and will be filed in an amendment to the Form 10-K within 15 calendar
+days.
+
+Item 7A.  Quantitative and Qualitative Disclosures about Market Risk
+
+The information required by this item is omitted pursuant to Rule 12b-25
+and will be filed in an amendment to the Form 10-K within 15 calendar
+days.
+
+
+Item 8.        Consolidated Financial Statements
+
+
+The information required by this item is omitted pursuant to Rule 12b-25
+and will be filed in an amendment to the Form 10-K within 15 calendar
+days.
+
+					35
+
+
+Item 9.     Changes  in and Disagreements with Accountants on  Accounting
+     and Financial Disclosure
+
+           None to report.
+
+Item 9A.  Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+           The Company's management is responsible for establishing and
+maintaining "disclosure controls and procedures," as defined in Exchange
+Act Rule 13a-15(e).  Management necessarily applied its judgment in
+assessing the costs and benefits of such controls and procedures that, by
+their nature, can provide only reasonable assurance regarding
+management's control objectives. Management does not expect that its
+disclosure controls and procedures will prevent all errors and fraud. A
+control system, irrespective of how well it is designed and operated, can
+only provide reasonable assurance, and cannot guarantee, that it will
+succeed in its stated objectives.
+
+          On February 22, 2005, the Company issued a press release
+stating that on February 18, 2005 it successfully completed a consensual
+restructuring of its financial obligations.  The restructuring includes
+agreements with a majority of the company's aircraft creditors.
+Additional information regarding the restructuring is set forth through
+Forms 8-K filed with the Securities and Exchange Commission on February
+22, February 23 and February 25, 2005.  As a result of the timing of
+completing the restructuring, the resources and personnel required to
+complete and document the restructuring and the effects of
+the financial restructuring on the Company's financial statements, the
+Company has not been able to complete the work required to finalize
+certain portions of this Form 10-K, including certain exhibits, by the
+date of this Form 10-K.  Exchange Act Rule 12b-25(b) provides that, with
+respect to any portion of a report on Form 10-K that is not timely filed
+because the registrant is unable to do so without unreasonable effort or
+expense, such report shall be deemed to be filed on the prescribed due
+date for such report if, among other things, the portion thereof is
+actually filed within no later than the fifteenth calendar day following
+the prescribed due date.  The Company expects to file the information
+omitted from this Form 10-K on or before the fifteenth calendar day
+following the prescribed due date.
+
+          The Company's management, with the participation of the
+Company's principal executive officer and principal financial officer,
+has carried out an evaluation of the effectiveness as of December 31,
+2004 of the design and operation of the Company's disclosure controls and
+procedures.  Based upon the foregoing evaluation, the principal executive
+officer and principal financial officer concluded that, as of the end of
+the period covered by this Form 10-K, the Company's disclosure controls
+and procedures were effective to provide reasonable assurance that
+information required to be disclosed in the Company's Exchange Act
+reports is recorded, processed, summarized and reported within the time
+periods specified by the SEC, and that material information relating to
+the Company and its consolidated subsidiaries is made known to
+management, including the principal executive officer and principal
+financial officer, particularly during the period when the Company's
+periodic reports are being prepared.
+
+					36
+
+Evaluation of Internal Control over Financial Reporting
+
+          The Company's management is responsible for establishing and
+maintaining adequate internal control over financial reporting, as that
+term is defined in Exchange Act Rules 13a-15(f).  The Company's
+management, with the participation of the Company's principal executive
+officer and principal financial officer, in the process of conducting an
+evaluation of its internal control over financial reporting based on the
+framework in Internal Control--Integrated Framework issued by the
+Committee of Sponsoring Organizations of the Treadway Commission.  As
+reported in the Company's Form 10-Q for the quarter ended September 30,
+2004, management had identified internal control deficiencies existing at
+that time that constituted material weaknesses or significant
+deficiencies.  The Company undertook to implement compensating controls
+to remediate or mitigate those weaknesses, including segregation of
+duties and monitoring controls over the purchasing process and monitoring
+controls, to include adequate documentation, over the information
+technology control environment., The Company is continuing its efforts to
+initiate enhancements to aspects of its existing internal control over
+financial reporting and to establish and evaluate additional business
+functions, controls and procedures related to the Company's Independence
+Air operations.
+
+          Management's evaluation of the effectiveness of the Company's
+internal control over financial reporting as of December 31, 2004 has not
+yet been completed.  There can be no assurance that management and/or its
+independent registered public accounting firm will conclude that the
+weaknesses described in the Company's Form 10-Q for the quarter ended
+September 30, 2004 were adequately addressed as of December 31, 2004, or
+that other conditions will not be determined to have constituted
+significant deficiencies and/or material weaknesses as of December 31,
+2004.  Securities and Exchange Commission Release No. 34-50754 provides
+certain companies, including the Company, up to 45 additional days beyond
+the required filing date of this Form 10-K for the filing of management's
+annual report on internal control over financial reporting, and the
+related attestation report of the independent registered public
+accounting firm on management's report on internal control over financial
+reporting and the related report of the independent registered public
+accounting firm.  The Company expects to file such materials in an
+amendment to this Form 10-K, which is expected to be filed no later than
+May 2, 2005.
+
+Item 9B.  Other Information
+
+none.
+
+                                PART III
+
+Item 10.  Directors and Executive Officers of the Registrant
+
+          The information required by this Item is hereby incorporated by
+reference  from  the  Company's  definitive  proxy  statement,  which  is
+expected  to  be  filed  pursuant to Regulation  14A  of  the  Securities
+Exchange Act of 1934 not later than 120 days after the end of the  fiscal
+year covered by this report.
+
+
+Item 11.  Executive Compensation
+
+          The information required by this Item is hereby incorporated by
+reference  from  the  Company's  definitive  proxy  statement,  which  is
+expected  to  be  filed  pursuant to Regulation  14A  of  the  Securities
+Exchange Act of 1934 not later than 120 days after the end of the  fiscal
+year covered by this report.
+
+					37
+
+
+Item  12.  Security Ownership of Certain Beneficial Owners and Management
+and Related Stockholder Matters
+
+          The information required by this Item is hereby incorporated by
+reference from the Company's definitive proxy statement, which is
+expected to be filed pursuant to Regulation 14A of the Securities
+Exchange Act of 1934 not later than 120 days after the end of the fiscal
+year covered by this report.
+
+Item 13.  Certain Relationships and Related Transactions
+
+          The information required by this Item is hereby incorporated by
+reference from the Company's definitive proxy statement, which is
+expected to be filed pursuant to Regulation 14A of the Securities
+Exchange Act of 1934 not later than 120 days after the end of the fiscal
+year covered by this report.
+
+Item 14.  Principal Auditor Fees and Services
+
+          The information required by this Item is hereby incorporated by
+reference  from  the  Company's  definitive  proxy  statement,  which  is
+expected  to  be  filed  pursuant to Regulation  14A  of  the  Securities
+Exchange Act of 1934 not later than 120 days after the end of the  fiscal
+year covered by this report.
+
+
+                                 PART IV
+
+Item 15.  Exhibits and Financial Statement Schedules
+
+     (a)  1.   Financial Statements
+
+               The  information required by this item is omitted pursuant
+               to  Rule 12b-25 and will be filed in an amendment  to  the
+               Form 10-K within 15 calendar days.
+
+          2.   Consolidated Financial Statement Schedules
+
+               The  information required by this item is omitted pursuant
+               to  Rule 12b-25 and will be filed in an amendment  to  the
+               Form 10-K within 15 calendar days.
+
+          3.   Exhibits
+
+					38
+
+Exhibit
+Number                Description of Exhibit
+
+3.1 (note 3)     Restated Certificate of Incorporation of the Company.
+3.2 (note 5)     Restated By-laws of the Company.
+4.1 (note 1)     Specimen Common Stock Certificate.
+4.19 (note 18)   Rights Agreement between Atlantic Coast Airlines
+                 Holdings, Inc. and Continental Stock Transfer & Trust
+                 Company dated as of January 27, 1999.
+4.2 (note 5)     Indenture, dated as of February 25, 2004, by and between
+                 Atlantic Coast Airlines Holdings, Inc. and U.S. Bank
+                 National Association, as trustee (including form of 6%
+                 Convertible Note due 2034.
+4.21 (note 5)    Registration Rights Agreement, dated as of February 25,
+                 2004, by and between Atlantic Coast Airlines Holdings,
+                 Inc., Morgan Stanley & Co. Incorporated, as Initial
+                 Purchaser.
+10.1 (notes 20 & 22)
+                 Atlantic Coast Airlines, Inc. 1992 Stock Option Plan.
+10.6 (notes 13 & 21)
+                 United Express Agreement, dated as of November 22, 2000,
+                 as amended as of February 6, 2001, among United Airlines,
+                 Inc., Atlantic Coast Airlines and the Company.
+10.6(a) (notes 10 & 21)
+                 Amendment dated June 4, 2002 to United Express Agreement,
+                 dated as of November 22, 2000, among United Airlines, Inc.,
+                 Atlantic Coast Airlines and the Company.
+10.8 (notes 16 & 21)
+                 Delta Connection Agreement, dated as of September 9, 1999
+                 among Delta Air Lines, Inc., Atlantic Coast Airlines
+                 Holdings, Inc. and Atlantic Coast Jet, Inc.
+10.8(a) (notes 7 & 21)
+                 Amendment No. 1, dated June 29, 2000, Amendment No. 2,
+                 dated February 6, 2001, Amendment No. 3, dated January 29,
+                 2002, and Amendment No. 4, dated January 22, 2003, to
+                 the Delta Connection Agreement, dated as of September 9,
+                 1999 among Delta Air Lines, Inc., Atlantic Coast
+                 Airlines Holdings, Inc. and Atlantic Coast Airlines.
+10.12(a) (notes 12 & 22)
+                 Second Amended and Restated Severance Agreement, dated as
+                 of July 25, 2001, between the Company and Kerry B. Skeen.
+10.12(b) (notes 11 & 22)
+                 Amended and Restated Severance Agreement, dated as of
+                 December 28, 2001, between the Company and Thomas J. Moore.
+10.12(c) (notes 1 & 22)
+                 Amended and Restated Severance Agreement between the
+                 Company and Richard J. Surratt, dated as of December 30, 2004.
+10.12(d) (notes 1 & 22)
+                 Form of Severance Agreement substantially similar to the
+                 agreements with William Brown and Eric Nordling, dated
+                 as of December 30, 2004.
+10.12(f) (notes 6 & 22)
+                 Letter Agreement Clarifying the Severance Agreement with
+                 Thomas J. Moore, dated as of December 16, 2003.
+10.13(a) (note 8)Form of Indemnity Agreement. The Company has entered
+                 into substantially identical agreements with the
+                 individual members of its Board of Directors.
+10.23 (note 6)   Amended and Restated Loan and Security Agreement dated
+                 July 31, 2003 between Atlantic Coast Airlines and
+                 Wachovia Bank, National Association.
+10.24 (notes 17 & 22)
+                 Atlantic Coast Airlines, Inc. 1995 Stock Incentive Plan, as
+                 amended as of May 5, 1998.
+10.245 (notes 14 & 22)
+                 2000 Stock Incentive Plan of Atlantic Coast Airlines Holding,
+                 Inc.
+
+					39
+
+10.246 (notes 8 & 22)
+                 Non-Executive Officer Stock Plan of Atlantic Coast Airlines
+                 Holdings, Inc.
+10.247 (notes 8 & 22)
+                 Non-Officer Option Grant Program of Atlantic Coast Airlines
+                 Holdings, Inc.
+10.25(a)(notes 7 & 22)
+                 Form of Incentive Stock Option Agreement. The Company enters
+                 into this agreement with employees who have been granted
+                 incentive stock options pursuant to the Stock Incentive
+                 Plans. The exercise price, vesting schedule, and certain
+                 other terms vary among grants, as reflected in the form
+                 of agreement.
+10.25(b) (notes 7 & 22)
+                 Form of Incentive Stock Option Agreement. The Company enters
+                 into substantially this agreement, adjusted to reflect
+                 the terms of any employment agreements, with corporate
+                 officers who have been granted incentive stock options
+                 pursuant to the Stock Incentive Plans. The exercise
+                 price, vesting schedule, and certain other terms vary
+                 among grants, as reflected in the form of agreement.
+10.25(c) (notes 7 & 22)
+                 Form of Non-Qualified Stock Option Agreement. The Company
+                 enters into this agreement with employees who have been
+                 granted non-qualified stock options pursuant to the Stock
+                 Incentive Plans. The exercise price, vesting schedule,
+                 and certain other terms vary among grants, as reflected
+                 in the form of agreement.
+10.25(d) (notes 7 & 22)
+                 Form of Non-Qualified Stock Option Agreement. The Company
+                 enters into substantially this agreement, adjusted to
+                 reflect the terms of any employment agreements, with
+                 corporate officers who have been granted non-qualified
+                 stock options pursuant to the Stock Incentive Plans. The
+                 exercise price, vesting schedule, and certain other
+                 terms vary among grants, as reflected in the form of
+                 agreement.
+10.25(e) (notes 17 & 22)
+                 Form of Restricted Stock Agreement. The Company entered into
+                 this agreement with corporate officers who were granted
+                 restricted stock pursuant to the Stock Incentive Plans.
+10.25(f) (notes 7 & 22)
+                 Form of Director's Stock Option Agreement. The Company enters
+                 into this agreement with directors who have been granted
+                 stock options pursuant to the Company's Stock Incentive
+                 Plans.  The exercise price, vesting schedule, and
+                 certain other terms vary among grants, as reflected in
+                 the form of agreement.
+10.27 (notes 15 & 22)
+                 Form of Split Dollar Agreement and Agreement of Assignment
+                 of Life Insurance Death Benefit as Collateral.  The Company
+                 has entered into substantially identical agreements with
+                 Kerry B. Skeen, Thomas J. Moore and Richard J. Surratt.
+10.31 (notes 6 & 22)
+                 Summary of Senior Management Incentive Plan.  The Company
+                 has adopted a plan as described in this exhibit for 2004 and
+                 for the four previous years.
+10.32 (notes 6 & 22)
+                 Summary of Management Incentive Plan and Share the Success
+                 Program.  The Company has adopted plans as described in
+                 this exhibit for 2004 and for the four previous years.
+10.40A (notes 17 & 21)
+                 Purchase Agreement between Bombardier Inc. and Atlantic Coast
+                 Airlines Relating to the Purchase of Canadair Regional
+                 Jet Aircraft dated January 8, 1997, as amended through
+                 December 31, 1998.
+10.40A(1)(notes 16 & 21)
+                 Contract Change Orders No. 13, 14, and 15, dated
+                 April 28, 1999, July 29, 1999, and September 24, 1999,
+                 respectively, amending the Purchase Agreement between
+                 Bombardier Inc. and Atlantic Coast Airlines relating to the
+                 purchase of Canadair Regional Jet Aircraft dated
+                 January 8, 1997.
+10.41 (notes 16 & 21)
+                 Purchase Agreement between Bombardier Inc. and Atlantic Coast
+                 Airlines relating to the Purchase of Canadair Regional
+                 Jet Aircraft dated July 29, 1999, as amended through
+                 September 30, 1999.
+
+					40
+
+10.41(a) (notes 16 & 21)
+                 Purchase Agreement between Bombardier Inc. and Atlantic Coast
+                 Airlines relating to the Purchase of Canadair Regional
+                 Jet Aircraft dated July 29, 1999, as amended.
+10.41A(1) (notes 9 & 21)
+                 Contract Change Orders No. 1, 2, 3, 4, 5 and 6 dated September
+                 24, 1999, August 2, 2000, December 6, 2000, November 7,
+                 2001, December 20, 2001 and July 19, 2002, respectively,
+                 amending the Purchase Agreement between Bombardier Inc.
+                 and Atlantic Coast Airlines relating to the purchase of
+                 Canadair Regional Jet Aircraft dated July 29, 1999.
+10.41A(2) (notes 2 & 21)
+                 Letter Agreement between Independence Air, Inc. and Bombardier
+                 Aerospace dated November 29, 2004 relating to the sale
+                 of BCI Financed Aircraft and Deposits Allocation.
+10.42 (notes 4 & 21)
+                 Airbus A319/A320/A321 Purchase Agreement by and between AVSA,
+                 S.A.R.L, a societe a responsabilite limitee organized
+                 and existing under the laws of the Republic of France,
+                 and Atlantic Coast Airlines, dated April 1, 2004.
+10.43 (notes 2 & 21)
+                 General Terms of Sale Between IAE International Aero
+                 Engines Ag and Atlantic Coast Airlines Dated Effective
+                 September 30, 2004.
+10.50(a) (note 19)
+                 Form of Purchase Agreement, dated September 19, 1997, among
+                 the Company, Atlantic Coast Airlines, Morgan Stanley & Co.
+                 Incorporated and First National Bank of Maryland, as
+                 Trustee.
+10.50(b) (note 19)
+                 Form of Pass Through Trust Agreement, dated as of September
+                 25, 1997, among the Company, Atlantic Coast Airlines, and
+                 First National Bank of Maryland, as Trustee.
+10.50(c) (note 19)
+                 Form of Pass Through Trust Certificate.
+10.50(d) (note 19)
+                 Form of Participation Agreement, dated as of September
+                 30, 1997, Atlantic Coast Airlines, as Lessee and Initial
+                 Owner Participant, State Street Bank and Trust Company of
+                 Connecticut, National Association, as Owner Trustee, the
+                 First National Bank of Maryland, as Indenture Trustee,
+                 Pass-Through Trustee, and Subordination Agent,
+                 including, as exhibits thereto, Form of Lease Agreement,
+                 Form of Trust Indenture and Security Agreement, and Form
+                 of Trust Agreement.
+10.50(e) (note 19)
+                 Guarantee, dated as of September 30, 1997, from the
+                 Company.
+10.51 (note 5)   Purchase agreement dated February 19, 2004, between
+                 Atlantic Coast Airlines Holdings, Inc. and Morgan,
+                 Stanley & Co. Incorporated, as Initial Purchaser,
+                 related to issuance of Atlantic Coast Airlines Holdings,
+                 Inc.'s 6% Convertible Senior Notes due 2034.
+10.80 (note 19)  Ground Lease Agreement Between The Metropolitan
+                 Washington Airports Authority And Atlantic Coast
+                 Airlines dated as of June 23, 1997.
+10.85 (note 17)  Lease Agreement Between The Metropolitan Washington
+                 Airports Authority and Atlantic Coast Airlines, with
+                 amendments as of January 1, 1999.
+12.1 note 2)     Ratio of Earnings to Fixed Charges
+21.1 (note 1)    Subsidiaries of the Company.
+23.1 (note 2)    Consent of KPMG LLP.
+31.1 (note 1)    Certification of CEO.
+31.2 (note 1)    Certification of CFO.
+32.1 (note 2)    Certification pursuant to 8 U.S.C. section 1350, as
+                 adopted pursuant to section 906 of the Sarbanes-Oxley
+                 Act of 2002.
+
+					41
+
+Notes
+
+(1)  Filed as an Exhibit to this Annual Report on Form 10-K for the
+       fiscal year ended December 31, 2004.
+(2)  Omitted pursuant to Rule 12b-25 and to be filed as an Exhibit in an
+amendment to the Form 10-K within 15 calendar days.
+(3)  Filed as an Exhibit to the Quarterly Report on Form 10-Q for the
+three-month period ended September 30, 2004.
+(4)  Filed as an Exhibit to the Quarterly Report on Form 10-Q for the
+three-month period ended June 30, 2004.
+(5)  Filed as an Exhibit to the Quarterly Report on Form 10-Q for the
+three-month period ended March 31, 2004.
+(6)  Filed as an Exhibit to the Annual Report on Form 10-K for the fiscal
+year ended December 31, 2003.
+(7)  Filed as an Exhibit to the Quarterly Report on Form 10-Q for the
+three-month period ended March 31, 2003.
+(8)  Filed as an Exhibit to the Annual Report on Form 10-K for the fiscal
+year ended December 31, 2002.
+(9)  Filed as an Exhibit to the Quarterly Report on Form 10-Q for the
+three-month period ended September 30, 2002.
+(10) Filed as an Exhibit to the Quarterly Report on Form 10-Q for the
+three-month period ended June 30, 2002.
+(11) Filed as an Exhibit to the Annual Report on Form 10-K for the fiscal
+year ended December 31, 2001.
+(12) Filed as an Exhibit to the Quarterly Report on Form 10-Q for the
+three-month period ended September 30, 2001.
+(13) Filed by Exhibit to the Annual Report on Form 10-K for the fiscal
+year ended December 31, 2000.
+(14)   Filed as an Exhibit to the Quarterly Report on Form 10-Q for the
+       three-month period ended June 30, 2000.
+(15)   Filed as an Exhibit to the Amended Annual Report on Form 10-K/A
+       for the fiscal year ended December 31, 1999.
+(16)   Filed as Exhibit to the Quarterly Report on Form 10-Q for the
+       three month period ended September 30, 1999.
+(17)   Filed as an Exhibit to the Annual Report on Form 10-K for the
+       fiscal year ended December 31, 1998.
+(18)   Filed as Exhibit 99.1 to Form 8-A (File No. 000-21976).
+(19)   Filed as an Amendment to the Annual Report on Form 10-K for the
+       fiscal year ended December 31, 1997.
+(20)   Filed as an Exhibit to Form S-1, Registration No. 33-62206,
+       effective July 20, 1993.
+(21)   Portions of this document have been omitted pursuant to a request
+       for confidential treatment that has been granted or has been
+       requested.
+(22)   This document is a management contract or compensatory plan or
+       arrangement.
+
+					42
+
+
+
+Reports on Form 8-K:
+
+Feb. 28, 2005         Item 9.01        Results of operations for 2004
+Feb. 25, 2005         Items 1.01, 2.03, 3.02, 8.01  Details of
+                                        restructuring of aircraft financing
+Feb. 23, 2005         Item 7.01        FAQ's on restructuring announcement
+Feb. 22, 2005         Item 7.01        Press release announcing successful
+                                        restructuring of aircraft financing
+Feb. 16, 2005         Item 7.01        Disclosure that the Company did not
+                                        make the interest payment due on its
+                                        6% convertible note
+Feb. 11, 2005         Item 2.04(b)     Disclosure that one CRJ lessor reposed
+                                        its aircraft
+Jan. 11, 2005         Item 1.01        Agreement with GECAS
+Jan. 6, 2005          Item 1.01        Agreements with certain executive
+                                        officers
+Dec. 9, 2004          Item 1.01        Agreement with IAE
+Dec. 3, 2004          Item 1.01        Agreement with Bombardier
+Nov. 11, 2004         Item 1.01        Agreement with Airbus
+
+					43
+
+
+
+                             SIGNATURES
+
+      Pursuant  to  the requirements of Section 13 of 15(d)  of  the
+Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly
+authorized on March 16, 2005.
+
+                                                          FLYi, INC.
+
+                                                     By        /S/
+                                                      :
+                                /                     Kerry B. Skeen
+                                               Chairman of the Board
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf
+of the registrant and in the capacities indicated on March 16, 2005.
+
+Name                            Title
+
+
+           /S/                  Chairman of the Board of Directors
+Kerry B. Skeen                  and Chief Executive Officer
+                                (Principal executive officer)
+
+           /S/                  Director, President and
+Thomas J. Moore                 Chief Operating Officer
+
+
+           /S/                  Executive Vice President,Treasurer and
+Richard J. Surratt              Chief Financial Officer
+                                (Principal financial officer)
+
+           /S/                  Vice President, and Controller
+David W. Asai                   (Principal accounting officer)
+
+
+           /S/                                /S/
+C. Edward Acker                 Robert E. Buchanan
+Director                        Director
+
+           /S/                                /S/
+Susan MacGregor Coughlin        Caroline M. Devine
+Director                        Director
+
+           /S/                                /S/
+Daniel L. McGinnis              James C. Miller III
+Director                        Director
+
+
+
+					44
+
+
+
+</TEXT>
+</DOCUMENT>
