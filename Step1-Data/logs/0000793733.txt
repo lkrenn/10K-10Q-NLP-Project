@@ -1,0 +1,85 @@
+0001558370-20-000911
+[<re.Match object; span=(221308, 221538), match=';">Item\xa07.</span></a></p></td><td style="verti>, <re.Match object; span=(632787, 632809), match=';">ITEM 7.  MANAGEMENT'>]
+[<re.Match object; span=(223421, 223650), match=';">Item\xa08.</span></a></p></td><td style="verti>, <re.Match object; span=(1024727, 1025007), match=';">ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTAR>]
+
+0001047469-09-001647
+[]
+[]
+
+0001047469-10-001111
+[]
+[]
+
+0001047469-08-001764
+[]
+[]
+
+0000912057-03-000160
+[<re.Match object; span=(132307, 132328), match='<b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(220155, 220175), match='<b>ITEM 8. FINANCIAL'>]
+
+0001104659-06-016557
+[<re.Match object; span=(443879, 444136), match=';">Item 7.</font></b><font face="Times New Roman">]
+[<re.Match object; span=(707855, 708046), match=';">ITEM 8.</font></b><font face="Times New Roman">]
+
+0001047469-11-001402
+[]
+[]
+
+0001558370-16-003629
+[<re.Match object; span=(960617, 960762), match=';">ITEM 7.&#160;&#160;MANAGEMENT&#8217;S DISCUSSI>]
+[<re.Match object; span=(2113475, 2113571), match=';">ITEM 8.&#160;&#160;FINANCIAL STATEMENTS AND SU>]
+
+0000950149-02-000608
+[]
+[]
+
+0001047469-14-000913
+[]
+[]
+
+0000950149-01-500988
+[]
+[]
+
+0001047469-05-006092
+[<re.Match object; span=(164351, 164372), match='<b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(265506, 265526), match='<b>ITEM 8. FINANCIAL'>]
+
+0001558370-17-001066
+[<re.Match object; span=(787963, 788101), match=';">ITEM 7.&#160;&#160;MANAGEMENT&#8217;S DISCUSSI>]
+[<re.Match object; span=(1920630, 1920719), match=';">ITEM 8.&#160;&#160;FINANCIAL STATEMENTS AND SU>]
+
+0001047469-12-001456
+[]
+[]
+
+0001047469-04-007527
+[<re.Match object; span=(160151, 160172), match='<b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(253542, 253562), match='<b>ITEM 8. FINANCIAL'>]
+
+0001104659-07-015112
+[<re.Match object; span=(453420, 453660), match=';">Item 7.</font></b><font face="Times New Roman">]
+[<re.Match object; span=(723556, 723747), match=';">ITEM 8.</font></b><font face="Times New Roman">]
+
+0001047469-13-001174
+[]
+[]
+
+0001558370-18-001097
+[<re.Match object; span=(786449, 786587), match=';">ITEM 7.&#160;&#160;MANAGEMENT&#8217;S DISCUSSI>]
+[<re.Match object; span=(1844448, 1844537), match=';">ITEM 8.&#160;&#160;FINANCIAL STATEMENTS AND SU>]
+
+0001047469-15-000907
+[]
+[]
+
+0001558370-21-001367
+[<re.Match object; span=(252172, 252418), match=';">Item\xa07.</span></a></p></td><td style="verti>, <re.Match object; span=(736547, 736569), match=';">ITEM 7.  MANAGEMENT'>]
+[<re.Match object; span=(254445, 254690), match=';">Item\xa08.</span></a></p></td><td style="verti>, <re.Match object; span=(1179279, 1179575), match=';">ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTAR>]
+
+0001558370-19-000847
+[<re.Match object; span=(660366, 660504), match=';">ITEM 7.&#160;&#160;MANAGEMENT&#8217;S DISCUSSI>]
+[<re.Match object; span=(1549866, 1549955), match=';">ITEM 8.&#160;&#160;FINANCIAL STATEMENTS AND SU>]
+
+

@@ -1,0 +1,21 @@
+0000921929-04-000018
+[<re.Match object; span=(124652, 124681), match='<b>Item 7:         Management'>]
+[<re.Match object; span=(231319, 231340), match='<b>Item 8:  Financial'>]
+
+0001047469-05-017260
+[<re.Match object; span=(273792, 273836), match='<b>Item 7:&#160;&#160;&#160;&#160;Management'>]
+[<re.Match object; span=(430217, 430260), match='<b>Item 8:&#160;&#160;&#160;&#160;Financial'>, <re.Match object; span=(476306, 476326), match='<b>Item 8: Financial'>]
+
+0001068800-06-000462
+[<re.Match object; span=(523410, 523431), match='<b>Item 7: Management'>]
+[]
+
+0000921929-03-000018
+[<re.Match object; span=(95056, 95078), match='<b>Item 7:  Management'>]
+[<re.Match object; span=(197723, 197744), match='<b>Item 8:  Financial'>]
+
+0000921929-02-000014
+[<re.Match object; span=(96773, 96797), match='<b>Item 7:    Management'>]
+[<re.Match object; span=(183621, 183642), match='<b>Item 8:  Financial'>]
+
+

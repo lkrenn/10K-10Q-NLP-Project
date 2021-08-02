@@ -1,0 +1,33 @@
+0001165195-15-000011
+[<re.Match object; span=(4565, 4595), match='td>Item 7. </td><td>Management'>]
+[<re.Match object; span=(4781, 4810), match='td>Item 8.</td><td> Financial'>]
+
+0001165195-09-000005
+[]
+[]
+
+0001165195-13-000008
+[]
+[]
+
+0001165195-14-000010
+[<re.Match object; span=(4554, 4584), match='td>Item 7. </td><td>Management'>]
+[<re.Match object; span=(4770, 4799), match='td>Item 8.</td><td> Financial'>]
+
+0001165195-10-000002
+[]
+[]
+
+0001165195-11-000008
+[]
+[]
+
+0001165195-16-000061
+[]
+[]
+
+0001165195-12-000016
+[<re.Match object; span=(4632, 4662), match='td>Item 7. </td><td>Management'>, <re.Match object; span=(17043, 17065), match='h5>Item 7.  Management'>]
+[<re.Match object; span=(4848, 4877), match='td>Item 8.</td><td> Financial'>, <re.Match object; span=(32241, 32262), match='h5>Item 8.  Financial'>]
+
+

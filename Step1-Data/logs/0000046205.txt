@@ -1,0 +1,5 @@
+0000912057-02-012933
+[<re.Match object; span=(144978, 145031), match='<b>ITEM 7. </b></font><font size="2"><b><i>MANAGE>, <re.Match object; span=(616865, 616886), match='7">ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(204237, 204289), match='<b>ITEM 8. </b></font><font size="2"><b><i>FINANC>, <re.Match object; span=(617168, 617188), match='2">ITEM 8. FINANCIAL'>]
+
+

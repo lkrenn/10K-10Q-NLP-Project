@@ -1,0 +1,25 @@
+0000892712-07-000266
+[<re.Match object; span=(302058, 302079), match='<b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(397540, 397560), match='<b>ITEM 8. FINANCIAL'>]
+
+0000897069-02-000237
+[]
+[]
+
+0000892712-06-000257
+[<re.Match object; span=(212112, 212133), match='<b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(304356, 304376), match='<b>ITEM 8. FINANCIAL'>]
+
+0000897069-04-000626
+[<re.Match object; span=(213076, 213097), match='<b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(362453, 362473), match='2">ITEM 8. FINANCIAL'>]
+
+0000897069-05-000469
+[<re.Match object; span=(221788, 221809), match='<b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(340815, 340835), match='2">ITEM 8. FINANCIAL'>]
+
+0000897069-03-000333
+[]
+[]
+
+

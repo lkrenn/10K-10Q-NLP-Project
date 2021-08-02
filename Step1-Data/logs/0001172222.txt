@@ -1,0 +1,73 @@
+0001047469-11-000806
+[]
+[]
+
+0001047469-14-000752
+[]
+[]
+
+0001172222-21-000027
+[<re.Match object; span=(772777, 772821), match='%">ITEM 7.&#160;&#160;&#160;&#160;MANAGEMENT'>]
+[<re.Match object; span=(1169170, 1169460), match='%">ITEM 8.&#160;&#160;&#160;&#160;FINANCIAL STATE>]
+
+0001172222-17-000018
+[<re.Match object; span=(450872, 450916), match=';">ITEM 7.&#160;&#160;&#160;&#160;MANAGEMENT'>]
+[<re.Match object; span=(900658, 900935), match=';">ITEM 8.&#160;&#160;&#160;&#160;FINANCIAL STATE>]
+
+0001047469-10-000984
+[]
+[]
+
+0001047469-08-002138
+[<re.Match object; span=(1499434, 1499455), match='1">ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(1500238, 1500258), match='1">ITEM 8. FINANCIAL'>]
+
+0001104659-07-019751
+[<re.Match object; span=(453417, 453609), match=';">ITEM 7.</font></b><font face="Times New Roman">]
+[<re.Match object; span=(1035731, 1035922), match=';">ITEM 8.</font></b><font face="Times New Roman">]
+
+0001172222-20-000008
+[<re.Match object; span=(772088, 772112), match=';">ITEM 7.\xa0\xa0\xa0\xa0MANAGEMENT'>]
+[<re.Match object; span=(1187179, 1187436), match=';">ITEM 8.\xa0\xa0\xa0\xa0FINANCIAL STATEMENTS AN>]
+
+0000950136-05-001808
+[]
+[]
+
+0001104659-06-018706
+[<re.Match object; span=(563986, 564178), match=';">ITEM 7.</font></b><font face="Times New Roman">]
+[<re.Match object; span=(1096248, 1096439), match=';">ITEM 8.</font></b><font face="Times New Roman">]
+
+0001047469-09-001839
+[]
+[]
+
+0001047469-12-000763
+[]
+[]
+
+0001172222-15-000012
+[<re.Match object; span=(431633, 431677), match=';">ITEM 7.&#160;&#160;&#160;&#160;MANAGEMENT'>]
+[<re.Match object; span=(819835, 820112), match=';">ITEM 8.&#160;&#160;&#160;&#160;FINANCIAL STATE>]
+
+0001172222-18-000017
+[<re.Match object; span=(473765, 473809), match=';">ITEM 7.&#160;&#160;&#160;&#160;MANAGEMENT'>]
+[<re.Match object; span=(946409, 946686), match=';">ITEM 8.&#160;&#160;&#160;&#160;FINANCIAL STATE>]
+
+0001172222-19-000012
+[<re.Match object; span=(455316, 455360), match=';">ITEM 7.&#160;&#160;&#160;&#160;MANAGEMENT'>]
+[<re.Match object; span=(977667, 977944), match=';">ITEM 8.&#160;&#160;&#160;&#160;FINANCIAL STATE>]
+
+0001104659-03-006520
+[<re.Match object; span=(442597, 442871), match=';">ITEM 7.</font></b></a><b><font size="1" style=>]
+[<re.Match object; span=(696113, 696386), match=';">ITEM 8.</font></b></a><b><font size="1" style=>]
+
+0000950136-05-001827
+[]
+[]
+
+0001172222-16-000095
+[<re.Match object; span=(436204, 436248), match=';">ITEM 7.&#160;&#160;&#160;&#160;MANAGEMENT'>]
+[<re.Match object; span=(830283, 830560), match=';">ITEM 8.&#160;&#160;&#160;&#160;FINANCIAL STATE>]
+
+

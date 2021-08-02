@@ -1,0 +1,29 @@
+0001104659-04-018441
+[<re.Match object; span=(342000, 342021), match=';">Item 7. MANAGEMENT'>]
+[<re.Match object; span=(462427, 462447), match=';">Item 8. FINANCIAL'>]
+
+0001104659-08-036958
+[<re.Match object; span=(30615, 30636), match=' ">ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(31942, 31962), match=' ">ITEM 8. FINANCIAL'>, <re.Match object; span=(443591, 443690), match=';">Item 8.&#160; FINANCIAL STATEMENTS AND SUPPLEM>]
+
+0001104659-05-028143
+[<re.Match object; span=(22873, 22894), match='S">Item 7. MANAGEMENT'>, <re.Match object; span=(441574, 441595), match=';">Item 7. MANAGEMENT'>]
+[<re.Match object; span=(24604, 24624), match='A">Item 8. FINANCIAL'>, <re.Match object; span=(575222, 575242), match=';">Item 8. FINANCIAL'>]
+
+0001104659-07-048543
+[<re.Match object; span=(23747, 23768), match=' ">ITEM 7. MANAGEMENT'>, <re.Match object; span=(346474, 346501), match=';">Item 7.&#160; MANAGEMENT'>]
+[<re.Match object; span=(24566, 24586), match=' ">ITEM 8. FINANCIAL'>, <re.Match object; span=(530210, 530301), match=';">Item 8.&#160; FINANCIAL STATEMENTS AND SUPPLEM>]
+
+0001104659-02-002745
+[<re.Match object; span=(303059, 303206), match=';">Item 7.</font><font size="1" style="font-size:>]
+[<re.Match object; span=(375662, 375865), match=';">Item 8.</font><font size="1" style="font-size:>]
+
+0001047469-03-022928
+[<re.Match object; span=(120516, 120537), match='<b>Item 7. MANAGEMENT'>, <re.Match object; span=(522243, 522264), match='1">Item 7. MANAGEMENT'>]
+[<re.Match object; span=(177818, 177838), match='<b>Item 8. FINANCIAL'>, <re.Match object; span=(522545, 522565), match='1">Item 8. FINANCIAL'>]
+
+0001104659-06-043830
+[<re.Match object; span=(27063, 27084), match='3">ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(28558, 28578), match='2">ITEM 8. FINANCIAL'>]
+
+

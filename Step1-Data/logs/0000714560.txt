@@ -1,0 +1,49 @@
+0000950153-08-000353
+[]
+[]
+
+0000950134-09-003177
+[]
+[]
+
+0001193125-05-038938
+[<re.Match object; span=(251170, 251191), match='/a>Item 7. Management'>]
+[<re.Match object; span=(588060, 588080), match='/a>Item 8. Financial'>]
+
+0000950123-11-017132
+[]
+[]
+
+0000950153-07-000433
+[]
+[]
+
+0001193125-04-040389
+[<re.Match object; span=(201330, 201351), match='/a>Item 7. Management'>]
+[<re.Match object; span=(430152, 430172), match='/a>Item 8. Financial'>]
+
+0001193125-14-074631
+[<re.Match object; span=(435071, 435097), match='/a>Item&#160;7. Management'>]
+[<re.Match object; span=(897071, 897110), match='/a>Item&#160;8A. Consolidated Financial'>, <re.Match object; span=(1664514, 1664553), match='/a>Item&#160;8B. Consolidated Financial'>]
+
+0001193125-13-067179
+[<re.Match object; span=(484567, 484593), match='/a>Item&#160;7. Management'>]
+[<re.Match object; span=(1073501, 1073540), match='/a>Item&#160;8A. Consolidated Financial'>, <re.Match object; span=(1835366, 1835405), match='/a>Item&#160;8B. Consolidated Financial'>]
+
+0000928385-03-000866
+[]
+[]
+
+0000950124-06-001200
+[]
+[]
+
+0000950123-10-013709
+[<re.Match object; span=(427141, 427172), match='s">Item&#160;7.&#160;Management'>]
+[<re.Match object; span=(974939, 974973), match='s">Item&#160;8A.&#160;Consolidated'>]
+
+0000950123-12-002888
+[<re.Match object; span=(22583, 22609), match='1">Item&#160;7. Management'>]
+[<re.Match object; span=(23504, 23543), match='3">Item&#160;8A. Consolidated Financial'>, <re.Match object; span=(23973, 24012), match='4">Item&#160;8B. Consolidated Financial'>]
+
+

@@ -1,0 +1,33 @@
+0000950129-03-000862
+[<re.Match object; span=(10796, 10817), match='4">Item 7. Management'>]
+[<re.Match object; span=(11566, 11586), match='1">Item 8. Financial'>, <re.Match object; span=(451997, 452054), match='2">Item&#160;8.&#160;&#160;&#160;&#160;&#160;<i>F>]
+
+0001144331-06-000017
+[<re.Match object; span=(269443, 269470), match='2">Item 7.&#160; Management'>]
+[<re.Match object; span=(435913, 435939), match='2">Item 8.&#160; Financial'>]
+
+0001144331-08-000019
+[<re.Match object; span=(287510, 287537), match='2">Item 7.&#160; Management'>]
+[<re.Match object; span=(578705, 578731), match='2">Item 8.&#160; Financial'>]
+
+0001144331-04-000017
+[<re.Match object; span=(247712, 247759), match='<b>Item&#160;7.&#160;&#160;&#160; <i>Management'>]
+[<re.Match object; span=(391592, 391638), match='<b>Item&#160;8.&#160;&#160;&#160; <i>Financial'>]
+
+0001144331-10-000025
+[<re.Match object; span=(282475, 282522), match='2">Item 7.&#160; <a name="item7"></a>Management'>]
+[<re.Match object; span=(700860, 700886), match='2">Item 8.&#160; Financial'>]
+
+0001144331-07-000011
+[<re.Match object; span=(275076, 275103), match='2">Item 7.&#160; Management'>]
+[<re.Match object; span=(438735, 438761), match='2">Item 8.&#160; Financial'>]
+
+0001144331-09-000016
+[<re.Match object; span=(230472, 230499), match='2">Item 7.&#160; Management'>]
+[<re.Match object; span=(643977, 644003), match='2">Item 8.&#160; Financial'>]
+
+0001144331-05-000020
+[<re.Match object; span=(296451, 296495), match='2">Item&#160;7.&#160;&#160;&#160; Management'>]
+[<re.Match object; span=(521784, 521827), match='2">Item&#160;8.&#160;&#160;&#160; Financial'>]
+
+

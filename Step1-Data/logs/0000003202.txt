@@ -1,0 +1,41 @@
+0001193125-09-039009
+[<re.Match object; span=(13667, 13693), match='3">ITEM&#160;7. MANAGEMENT'>]
+[<re.Match object; span=(17129, 17154), match='3">ITEM&#160;8. FINANCIAL'>]
+
+0000891020-04-000326
+[<re.Match object; span=(5522, 5543), match='6">ITEM 7. MANAGEMENT'>, <re.Match object; span=(201347, 201378), match='<b>ITEM 7. </b><b><i>MANAGEMENT'>]
+[<re.Match object; span=(5804, 5824), match='8">ITEM 8. FINANCIAL'>, <re.Match object; span=(293347, 293377), match='<b>ITEM 8. </b><b><i>FINANCIAL'>]
+
+0001072613-02-000412
+[<re.Match object; span=(44562, 44594), match='<b>ITEM 7.&#160;&#160;MANAGEMENT'>]
+[<re.Match object; span=(81763, 81794), match='<b>ITEM 8.&#160;&#160;FINANCIAL'>]
+
+0000891020-03-001023
+[<re.Match object; span=(5351, 5372), match='6">ITEM 7. MANAGEMENT'>, <re.Match object; span=(116872, 116903), match='<b>ITEM 7. </b><b><i>MANAGEMENT'>]
+[<re.Match object; span=(5633, 5653), match='8">ITEM 8. FINANCIAL'>, <re.Match object; span=(183003, 183033), match='<b>ITEM 8. </b><b><i>FINANCIAL'>]
+
+0001193125-06-034169
+[<re.Match object; span=(295777, 295813), match='/a>ITEM&#160;7. </b><b><i>MANAGEMENT'>]
+[<re.Match object; span=(499310, 499345), match='/a>ITEM&#160;8. </b><b><i>FINANCIAL'>]
+
+0000950124-05-001050
+[<re.Match object; span=(139541, 139595), match='<b>ITEM 7.</b>&#160;&#160;&#160;&#160;<b><i>MANAG>]
+[<re.Match object; span=(264339, 264392), match='<b>ITEM 8.</b>&#160;&#160;&#160;&#160;<b><i>FINAN>]
+
+0000912057-01-005488
+[<re.Match object; span=(46458, 46479), match='<b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(72175, 72195), match='<b>ITEM 8. FINANCIAL'>]
+
+0000766421-10-000012
+[<re.Match object; span=(209119, 209173), match='a">IT</a>EM&#160;7.&#160;&#160;&#160;&#160; MANAG>]
+[<re.Match object; span=(831319, 831366), match='s">IT</a>EM&#160;8.&#160;&#160;&#160; FINANCIAL'>]
+
+0001193125-07-046435
+[]
+[]
+
+0001193125-08-043431
+[<re.Match object; span=(15848, 15874), match='2">ITEM&#160;7. MANAGEMENT'>]
+[<re.Match object; span=(19864, 19889), match='1">ITEM&#160;8. FINANCIAL'>]
+
+
