@@ -23,8 +23,8 @@
 [<re.Match object; span=(40519, 40707), match='">Item 8.</font></p></td>\n<td valign="bottom"><f>, <re.Match object; span=(821375, 821499), match='a>ITEM&#160;8.</b></font></td>\n<td align="left" >]
 
 0000319687-09-000008
-[<re.Match object; span=(502381, 502437), match='">Item\n7.&#160;&#160;<a name="MgmtDiscussion">Ma>]
-[<re.Match object; span=(56894, 57166), match='">Item\n      8.</font></div>\n</td>\n<td colspan>, <re.Match object; span=(1131575, 1131655), match='">Item\n8.&#160;&#160;<a name="FinancialStatement>]
+[<re.Match object; span=(48778, 49107), match='">Item\n      7.</font></div>\n</td>\n<td align=">, <re.Match object; span=(502381, 502437), match='">Item\n7.&#160;&#160;<a name="MgmtDiscussion">Ma>]
+[<re.Match object; span=(56894, 57237), match='">Item\n      8.</font></div>\n</td>\n<td colspan>, <re.Match object; span=(1131575, 1131970), match='">Item\n8.&#160;&#160;<a name="FinancialStatement>]
 
 0000319687-05-000036
 [<re.Match object; span=(13967, 14129), match='">Item 7.</p></font></td>\n<td colspan="2" valign>, <re.Match object; span=(200400, 200450), match='p>ITEM 7.  <a name="MgmtDiscussion"></a>MANAGEMEN>]
@@ -39,8 +39,8 @@
 [<re.Match object; span=(26057, 26291), match='">Item 8.</p></font></td>\n<td colspan="2" valign>, <re.Match object; span=(421681, 421835), match='p>ITEM 8.  <a name="FinancialStatementsandSupplem>]
 
 0000319687-10-000011
-[<re.Match object; span=(607745, 607826), match='">Item\n7.&#160;&#160;<a name="MgmtDiscussion"><!>]
-[<re.Match object; span=(65562, 65834), match='">Item\n      8.</font></div>\n</td>\n<td colspan>, <re.Match object; span=(1191911, 1192016), match='">Item\n8.&#160;&#160;<a name="FinancialStatement>]
+[<re.Match object; span=(55324, 55702), match='">Item\n      7.</font></div>\n</td>\n<td align=">, <re.Match object; span=(607745, 607826), match='">Item\n7.&#160;&#160;<a name="MgmtDiscussion"><!>]
+[<re.Match object; span=(65562, 65954), match='">Item\n      8.</font></div>\n</td>\n<td colspan>, <re.Match object; span=(1191911, 1192016), match='">Item\n8.&#160;&#160;<a name="FinancialStatement>]
 
 0001193125-17-054129
 [<re.Match object; span=(40177, 40372), match='">Item&#160;7.</font></p></td>\n<td valign="botto>, <re.Match object; span=(375079, 375204), match='a>ITEM&#160;7.</b></font></td>\n<td align="left" >]

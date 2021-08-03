@@ -8,7 +8,7 @@
 
 0001047469-04-006590
 [<re.Match object; span=(203680, 203705), match='b>Item&#160;7. MANAGEMENT'>]
-[<re.Match object; span=(369724, 369756), match='i>Item 8. CONSOLIDATED FINANCIAL'>]
+[<re.Match object; span=(369724, 370081), match='i>Item 8. CONSOLIDATED FINANCIAL STATEMENTS AND S>]
 
 0001047469-03-009316
 [<re.Match object; span=(178795, 178843), match='b>Item&#160;7.&#160;&#160;&#160;&#160;MANAGEMENT'>, <re.Match object; span=(918984, 919004), match='">Item 7. MANAGEMENT'>]

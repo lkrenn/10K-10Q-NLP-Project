@@ -32,7 +32,7 @@
 
 0000950124-06-001200
 [<re.Match object; span=(30515, 30683), match='">Item&#160;7.</a></div>\n</td>\n<td>&#160;</td>\>, <re.Match object; span=(446936, 446981), match='b>Item&#160;7.</b></td>\n<td>\n<b><i>Management'>]
-[<re.Match object; span=(31514, 31695), match='">Item&#160;8A.</a></div>\n</td>\n<td>&#160;</td>>, <re.Match object; span=(32033, 32214), match='">Item&#160;8B.</a></div>\n</td>\n<td>&#160;</td>>, <re.Match object; span=(32553, 32721), match='">Item&#160;8C.</a></div>\n</td>\n<td>&#160;</td>>, <re.Match object; span=(906572, 906630), match='b>Item&#160;8A.</b></td>\n<td>\n<b><i>Consolidate>, <re.Match object; span=(1704022, 1704080), match='b>Item&#160;8B.</b></td>\n<td>\n<b><i>Consolidate>, <re.Match object; span=(2168658, 2168733), match='b>Item&#160;8C.&#160;&#160;&#160;&#160;&#160;</b>>]
+[<re.Match object; span=(31514, 31695), match='">Item&#160;8A.</a></div>\n</td>\n<td>&#160;</td>>, <re.Match object; span=(32033, 32214), match='">Item&#160;8B.</a></div>\n</td>\n<td>&#160;</td>>, <re.Match object; span=(32553, 32721), match='">Item&#160;8C.</a></div>\n</td>\n<td>&#160;</td>>, <re.Match object; span=(906572, 906630), match='b>Item&#160;8A.</b></td>\n<td>\n<b><i>Consolidate>, <re.Match object; span=(1704022, 1704080), match='b>Item&#160;8B.</b></td>\n<td>\n<b><i>Consolidate>, <re.Match object; span=(2168658, 2169043), match='b>Item&#160;8C.&#160;&#160;&#160;&#160;&#160;</b>>]
 
 0000950123-10-013709
 [<re.Match object; span=(37287, 37391), match='">Item 7.</a>\n</div>\n</td>\n<td>\n&#160;\n</td>>, <re.Match object; span=(427142, 427172), match='">Item&#160;7.&#160;Management'>]

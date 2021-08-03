@@ -8,15 +8,15 @@
 
 0001159154-14-000020
 [<re.Match object; span=(28735, 28969), match='">Item 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(646839, 646860), match='">ITEM 7.  MANAGEMENT'>]
-[<re.Match object; span=(30360, 30593), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(646839, 646905), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1123014, 1123033), match='">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(30360, 30593), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(646839, 646905), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1123014, 1123365), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 0001159154-11-000006
 [<re.Match object; span=(27978, 28212), match='">Item 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(639100, 639121), match='">ITEM 7.  MANAGEMENT'>]
-[<re.Match object; span=(29699, 29932), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(639100, 639166), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1083205, 1083224), match='">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(29699, 29932), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(639100, 639166), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1083205, 1083556), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 0001159154-16-000178
 [<re.Match object; span=(28419, 28653), match='">Item 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(632200, 632221), match='">ITEM 7.  MANAGEMENT'>]
-[<re.Match object; span=(30044, 30277), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(632200, 632266), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1092959, 1092978), match='">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(30044, 30277), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(632200, 632266), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1092959, 1093310), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 0001144204-10-013878
 [<re.Match object; span=(29539, 29800), match='">Item\n      7.</font></div>\n</td>\n<td align=">, <re.Match object; span=(667409, 667670), match='">ITEM\n      7.&#160;</font></div>\n</td>\n<td a>]
@@ -28,11 +28,11 @@
 
 0001159154-12-000009
 [<re.Match object; span=(28670, 28904), match='">Item 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(670027, 670048), match='">ITEM 7.  MANAGEMENT'>]
-[<re.Match object; span=(30391, 30624), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(670027, 670093), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1147534, 1147553), match='">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(30391, 30624), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(670027, 670093), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1147534, 1147885), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 0001159154-15-000021
 [<re.Match object; span=(28513, 28747), match='">Item 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(605789, 605810), match='">ITEM 7.  MANAGEMENT'>]
-[<re.Match object; span=(30138, 30371), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(605789, 605855), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1069948, 1069967), match='">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(30138, 30371), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(605789, 605855), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1069948, 1070299), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 0001159154-07-000011
 [<re.Match object; span=(32292, 32624), match='">Item\n                  7.</a></font></div>\n</>, <re.Match object; span=(734469, 734507), match='">ITEM\n        7.</a>&#160; MANAGEMENT'>]
@@ -40,10 +40,10 @@
 
 0001159154-06-000009
 [<re.Match object; span=(31681, 32006), match='">Item\n                7.</a></font></div>\n</td>, <re.Match object; span=(734423, 734455), match='">ITEM\n      7.&#160; MANAGEMENT'>]
-[<re.Match object; span=(33654, 33968), match='">Item\n                8.</a></font></div>\n</td>, <re.Match object; span=(1116954, 1116979), match='">ITEM\n      8. FINANCIAL'>]
+[<re.Match object; span=(33654, 33989), match='">Item\n                8.</a></font></div>\n</td>, <re.Match object; span=(1116954, 1116979), match='">ITEM\n      8. FINANCIAL'>]
 
 0001159154-13-000018
 [<re.Match object; span=(28974, 29208), match='">Item 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(671818, 671839), match='">ITEM 7.  MANAGEMENT'>]
-[<re.Match object; span=(30695, 30928), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(671818, 671884), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1438319, 1438338), match='">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(30695, 30928), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(671818, 671884), match='">ITEM 7.  MANAGEMENT&#8217;S DISCUSSION AND ANAL>, <re.Match object; span=(1438319, 1438670), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 

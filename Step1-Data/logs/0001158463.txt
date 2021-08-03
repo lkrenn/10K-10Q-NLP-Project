@@ -39,8 +39,8 @@
 [<re.Match object; span=(32679, 32799), match='">Item 8.</a>\n</div>\n</td>\n<td>&#160;\n</td>\n>, <re.Match object; span=(537586, 537717), match='">ITEM&#160;8.&#160;&#160;</font></b>\n</td>\n<td>]
 
 0001158463-13-000010
-[<re.Match object; span=(589659, 589684), match='">ITEM&#160;7. MANAGEMENT'>]
-[<re.Match object; span=(589659, 589729), match='">ITEM&#160;7. MANAGEMENT&#8217;S DISCUSSION AND >, <re.Match object; span=(1095872, 1095891), match='">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(37213, 37571), match='">Item 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(589659, 589684), match='">ITEM&#160;7. MANAGEMENT'>]
+[<re.Match object; span=(45423, 45780), match='">Item 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(589659, 589729), match='">ITEM&#160;7. MANAGEMENT&#8217;S DISCUSSION AND >, <re.Match object; span=(1095872, 1095891), match='">ITEM 8. FINANCIAL'>]
 
 0001628280-21-003705
 [<re.Match object; span=(774463, 774511), match='">ITEM&#160;7.&#160;&#160;&#160;&#160;MANAGEMENT'>]
@@ -48,7 +48,7 @@
 
 0000950136-07-000901
 [<re.Match object; span=(1178683, 1178895), match='">ITEM\n7.&#160;</td>\n<td style="font-family:ser>]
-[<re.Match object; span=(1835552, 1835594), match='">ITEM\n8.&#160;&#160;&#160;&#160;FINANCIAL'>]
+[<re.Match object; span=(1835552, 1835961), match='">ITEM\n8.&#160;&#160;&#160;&#160;FINANCIAL STATE>]
 
 0001158463-18-000018
 [<re.Match object; span=(34378, 34688), match='">Item 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(599823, 599871), match='">ITEM&#160;7.&#160;&#160;&#160;&#160;MANAGEMENT'>]
@@ -64,7 +64,7 @@
 
 0000950136-06-001033
 [<re.Match object; span=(988855, 989067), match='">ITEM\n7.&#160;</td>\n<td style="font-family:ser>]
-[<re.Match object; span=(1539465, 1539507), match='">ITEM\n8.&#160;&#160;&#160;&#160;FINANCIAL'>]
+[<re.Match object; span=(1539465, 1539874), match='">ITEM\n8.&#160;&#160;&#160;&#160;FINANCIAL STATE>]
 
 0001047469-03-005952
 [<re.Match object; span=(232600, 232620), match='b>ITEM 7. MANAGEMENT'>]

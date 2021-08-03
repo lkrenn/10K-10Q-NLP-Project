@@ -15,12 +15,12 @@
 [<re.Match object; span=(14064, 14216), match='">Item 8. Financial Statements and Supplementary >, <re.Match object; span=(296664, 296708), match='b>Item&#160;8.</b></td>\n<td>\n<b><i>Financial'>]
 
 0000092380-21-000033
-[]
-[]
+[<re.Match object; span=(971419, 971752), match='">Item 7</span><span style="color:#000000;font-fa>]
+[<re.Match object; span=(1383863, 1384195), match='">Item 8.</span><span style="color:#000000;font-f>]
 
 0000950134-05-002093
 [<re.Match object; span=(12042, 12062), match='">ITEM 7. MANAGEMENT'>, <re.Match object; span=(142800, 142820), match='b>ITEM 7. MANAGEMENT'>]
-[<re.Match object; span=(12795, 13001), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >, <re.Match object; span=(268369, 268468), match='b>ITEM 8. FINANCIAL\nSTATEMENTS AND SUPPLEMENTARY>]
+[<re.Match object; span=(12795, 13124), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >, <re.Match object; span=(268369, 268468), match='b>ITEM 8. FINANCIAL\nSTATEMENTS AND SUPPLEMENTARY>]
 
 0000092380-20-000024
 [<re.Match object; span=(420120, 420430), match='">Item 7.</span></div></td><td style="vertical-al>, <re.Match object; span=(1023156, 1023332), match='">Item 7</span><span style="font-family:inherit;f>]

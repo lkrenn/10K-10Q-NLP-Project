@@ -52,7 +52,7 @@
 
 0001193125-04-046746
 [<re.Match object; span=(15027, 15261), match='">Item&#160;7.</font></p></td>\n<td valign="botto>, <re.Match object; span=(241241, 241353), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]
-[<re.Match object; span=(16209, 16442), match='">Item&#160;8.</font></p></td>\n<td valign="botto>, <re.Match object; span=(438231, 438342), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
+[<re.Match object; span=(16209, 16442), match='">Item&#160;8.</font></p></td>\n<td valign="botto>, <re.Match object; span=(438231, 438580), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
 
 0001193125-09-067916
 [<re.Match object; span=(18828, 19010), match='">Item&#160;7.</font></p></td>\n<td valign="botto>, <re.Match object; span=(207741, 207853), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]

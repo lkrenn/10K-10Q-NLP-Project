@@ -8,7 +8,7 @@
 
 0001165195-13-000008
 [<re.Match object; span=(10163, 10247), match='">Item 7.</font>\n</div>\n</td>\n<td>\n<div>\n<fo>, <re.Match object; span=(34101, 34127), match='">Item\n      7. Management'>]
-[<re.Match object; span=(10639, 10722), match='">Item 8.</font>\n</div>\n</td>\n<td>\n<div>\n<fo>, <re.Match object; span=(55131, 55156), match='">Item\n      8. Financial'>]
+[<re.Match object; span=(10639, 11008), match='">Item 8.</font>\n</div>\n</td>\n<td>\n<div>\n<fo>, <re.Match object; span=(55131, 55156), match='">Item\n      8. Financial'>]
 
 0001165195-14-000010
 [<re.Match object; span=(4555, 4584), match='d>Item 7. </td><td>Management'>]
