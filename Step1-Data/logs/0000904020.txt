@@ -11,7 +11,7 @@
 []
 
 0000950133-04-000449
-[<re.Match object; span=(302242, 302268), match='<b>Item&#160;7. Management'>]
-[<re.Match object; span=(398049, 398087), match='<b>Item&#160;8. Consolidated Financial'>]
+[<re.Match object; span=(17435, 17541), match='">Item 7.<br/></font></td>\n<td><font size="2">&#>, <re.Match object; span=(302243, 302268), match='b>Item&#160;7. Management'>]
+[<re.Match object; span=(21047, 21165), match='">Item 8.<br/></font></td>\n<td><font size="2">&#>, <re.Match object; span=(398050, 398211), match='b>Item&#160;8. Consolidated Financial Statements<>]
 
 

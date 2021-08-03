@@ -1,22 +1,22 @@
 0000892712-07-000266
-[<re.Match object; span=(302058, 302079), match='<b>ITEM 7. MANAGEMENT'>]
-[<re.Match object; span=(397540, 397560), match='<b>ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(17941, 18090), match='">ITEM 7</font></p>\n</td><td valign="top" width=>, <re.Match object; span=(302059, 302079), match='b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(19124, 19272), match='">ITEM 8</font></p>\n</td><td valign="top" width=>, <re.Match object; span=(397541, 397756), match='b>ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 0000897069-02-000237
 []
 []
 
 0000892712-06-000257
-[<re.Match object; span=(212112, 212133), match='<b>ITEM 7. MANAGEMENT'>]
-[<re.Match object; span=(304356, 304376), match='<b>ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(15972, 16110), match='">ITEM 7</p>\n</td><td valign="top" width="552"><>, <re.Match object; span=(212113, 212133), match='b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(16963, 17100), match='">ITEM 8</p>\n</td><td valign="top" width="552"><>, <re.Match object; span=(304357, 304564), match='b>ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 0000897069-04-000626
-[<re.Match object; span=(213076, 213097), match='<b>ITEM 7. MANAGEMENT'>]
-[<re.Match object; span=(362453, 362473), match='2">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(13029, 13129), match='/>ITEM 7</font></td>\n<td align="LEFT"><font face>, <re.Match object; span=(213077, 213097), match='b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(13771, 13870), match='/>ITEM 8</font></td>\n<td align="LEFT"><font face>, <re.Match object; span=(362454, 362682), match='">ITEM 8. FINANCIAL\nSTATEMENTS AND SUPPLEMENTARY>]
 
 0000897069-05-000469
-[<re.Match object; span=(221788, 221809), match='<b>ITEM 7. MANAGEMENT'>]
-[<re.Match object; span=(340815, 340835), match='2">ITEM 8. FINANCIAL'>]
+[<re.Match object; span=(12597, 12697), match='/>Item 7</font></td>\n<td align="LEFT"><font face>, <re.Match object; span=(221789, 221809), match='b>ITEM 7. MANAGEMENT'>]
+[<re.Match object; span=(13325, 13424), match='/>Item 8</font></td>\n<td align="LEFT"><font face>, <re.Match object; span=(340816, 341040), match='">ITEM 8. FINANCIAL\nSTATEMENTS AND SUPPLEMENTARY>]
 
 0000897069-03-000333
 []

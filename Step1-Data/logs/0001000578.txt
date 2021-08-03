@@ -1,5 +1,5 @@
 0001000578-02-000002
-[<re.Match object; span=(90501, 90524), match='<p>Item 7. - Management'>]
-[<re.Match object; span=(159858, 159878), match='Y">Item 8.\tFinancial'>]
+[<re.Match object; span=(90502, 90524), match='p>Item 7. - Management'>]
+[<re.Match object; span=(159859, 159995), match='">Item 8.\tFinancial Statements and Supplementary>]
 
 
