@@ -4,6 +4,6 @@
 
 0000948846-03-000009
 [<re.Match object; span=(102224, 102330), match='p>ITEM 7.</p></font></b></td>\n<td valign="TOP" w>]
-[<re.Match object; span=(217014, 217213), match='p>ITEM 8.</p></font></b></td>\n<td valign="TOP" w>]
+[<re.Match object; span=(217014, 217119), match='p>ITEM 8.</p></font></b></td>\n<td valign="TOP" w>]
 
 

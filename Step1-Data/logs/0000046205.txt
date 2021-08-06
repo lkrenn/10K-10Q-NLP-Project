@@ -1,5 +1,5 @@
 0000912057-02-012933
 [<re.Match object; span=(9957, 10069), match='">ITEM 7.</font></td>\n<td width="1%"><font size=>, <re.Match object; span=(144979, 145031), match='b>ITEM 7. </b></font><font size="2"><b><i>MANAGEM>, <re.Match object; span=(616866, 616886), match='">ITEM 7. MANAGEMENT'>]
-[<re.Match object; span=(10721, 10832), match='">ITEM 8.</font></td>\n<td width="1%"><font size=>, <re.Match object; span=(204238, 204549), match='b>ITEM 8. </b></font><font size="2"><b><i>FINANCI>, <re.Match object; span=(617169, 617360), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
+[<re.Match object; span=(10721, 10832), match='">ITEM 8.</font></td>\n<td width="1%"><font size=>, <re.Match object; span=(204238, 204289), match='b>ITEM 8. </b></font><font size="2"><b><i>FINANCI>, <re.Match object; span=(617169, 617360), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 

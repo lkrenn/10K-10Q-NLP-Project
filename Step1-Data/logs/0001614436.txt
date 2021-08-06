@@ -1,9 +1,9 @@
 0001193125-15-073939
-[<re.Match object; span=(20376, 20396), match='">Item 7. Management'>, <re.Match object; span=(297637, 297704), match='a>ITEM&#160;7.</b></td>\n<td align="left" valign=>]
-[<re.Match object; span=(24423, 24442), match='">Item 8. Financial'>, <re.Match object; span=(533326, 533392), match='a>ITEM&#160;8.</b></td>\n<td align="left" valign=>]
+[<re.Match object; span=(297637, 297704), match='a>ITEM&#160;7.</b></td>\n<td align="left" valign=>]
+[<re.Match object; span=(533326, 533392), match='a>ITEM&#160;8.</b></td>\n<td align="left" valign=>]
 
 0001193125-16-485622
-[<re.Match object; span=(20949, 20969), match='">Item 7. Management'>, <re.Match object; span=(294291, 294358), match='a>ITEM&#160;7.</b></td>\n<td align="left" valign=>]
-[<re.Match object; span=(25162, 25181), match='">Item 8. Financial'>, <re.Match object; span=(522100, 522166), match='a>ITEM&#160;8.</b></td>\n<td align="left" valign=>]
+[<re.Match object; span=(294291, 294358), match='a>ITEM&#160;7.</b></td>\n<td align="left" valign=>]
+[<re.Match object; span=(522100, 522166), match='a>ITEM&#160;8.</b></td>\n<td align="left" valign=>]
 
 

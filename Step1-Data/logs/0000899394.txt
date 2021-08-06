@@ -1,49 +1,49 @@
 0001193125-11-084453
-[<re.Match object; span=(21374, 21609), match='">Item&#160;7.</font></td>\n<td valign="bottom"><>, <re.Match object; span=(276802, 276927), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]
-[<re.Match object; span=(23113, 23347), match='">Item&#160;8.</font></td>\n<td valign="bottom"><>, <re.Match object; span=(313880, 314004), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
+[]
+[]
 
 0000898430-03-001916
-[<re.Match object; span=(18999, 19306), match='">Item 7</font></p></td>\n<td valign="bottom" wid>, <re.Match object; span=(269743, 269786), match='a>Item 7.&#160;&#160;&#160;&#160;Management'>]
-[<re.Match object; span=(20720, 21027), match='">Item 8</font></p></td>\n<td valign="bottom" wid>, <re.Match object; span=(290902, 290944), match='a>Item 8.&#160;&#160;&#160;&#160;Financial'>]
+[]
+[]
 
 0001193125-09-069645
-[<re.Match object; span=(19227, 19408), match='">Item&#160;7.</font></p></td>\n<td valign="botto>, <re.Match object; span=(223984, 224096), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]
-[<re.Match object; span=(20523, 20752), match='">Item&#160;8.</font></p></td>\n<td valign="botto>, <re.Match object; span=(262674, 262785), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
+[]
+[]
 
 0001193125-04-040942
-[<re.Match object; span=(16847, 17022), match='">Item 7</font></p></td>\n<td valign="bottom"><fo>, <re.Match object; span=(244677, 244720), match='a>Item 7.&#160;&#160;&#160;&#160;Management'>]
-[<re.Match object; span=(18083, 18257), match='">Item 8</font></p></td>\n<td valign="bottom"><fo>, <re.Match object; span=(267338, 267511), match='a>Item&#160;8.</b></font></td>\n<td valign="top" >]
+[]
+[]
 
 0001193125-20-191135
 [<re.Match object; span=(23513, 23617), match='">ITEM 7.</p></td>\n<td valign="bottom">&#160;</t>, <re.Match object; span=(270353, 270528), match='a>ITEM&#160;7.</b></td>\n<td align="left" valign=>]
-[<re.Match object; span=(24652, 24755), match='">ITEM 8.</p></td>\n<td valign="bottom">&#160;</t>, <re.Match object; span=(428220, 428587), match='a>ITEM&#160;8.</b></td>\n<td align="left" valign=>]
+[<re.Match object; span=(24652, 24755), match='">ITEM 8.</p></td>\n<td valign="bottom">&#160;</t>, <re.Match object; span=(428220, 428394), match='a>ITEM&#160;8.</b></td>\n<td align="left" valign=>]
 
 0001193125-06-056244
-[<re.Match object; span=(20366, 20591), match='">Item 7</font></p></td>\n<td valign="bottom"><fo>, <re.Match object; span=(253042, 253154), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]
-[<re.Match object; span=(21730, 21954), match='">Item 8</font></p></td>\n<td valign="bottom"><fo>, <re.Match object; span=(278288, 278399), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
+[]
+[]
 
 0001193125-08-057627
-[<re.Match object; span=(19221, 19403), match='">Item&#160;7.</font></p></td>\n<td valign="botto>, <re.Match object; span=(238046, 238158), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]
-[<re.Match object; span=(20466, 20647), match='">Item&#160;8.</font></p></td>\n<td valign="botto>, <re.Match object; span=(274929, 275040), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
+[]
+[]
 
 0001193125-10-071487
-[<re.Match object; span=(20875, 21079), match='">Item&#160;7.</font></p></td>\n<td valign="botto>, <re.Match object; span=(253065, 253190), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]
-[<re.Match object; span=(22243, 22447), match='">Item&#160;8.</font></p></td>\n<td valign="botto>, <re.Match object; span=(292728, 292852), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
+[]
+[]
 
 0001193125-12-018557
-[<re.Match object; span=(21197, 21222), match='">Item&#160;7. Management'>]
-[<re.Match object; span=(22434, 22458), match='">Item&#160;8. Financial'>, <re.Match object; span=(314168, 314192), match='a>Item&#160;8. Financial'>]
+[]
+[]
 
 0001193125-05-046506
-[<re.Match object; span=(16493, 16720), match='">Item 7</font></p></td>\n<td valign="bottom"><fo>, <re.Match object; span=(245703, 245815), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]
-[<re.Match object; span=(17861, 18087), match='">Item 8</font></p></td>\n<td valign="bottom"><fo>, <re.Match object; span=(270513, 270624), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
+[]
+[]
 
 0001193125-07-055856
-[<re.Match object; span=(19606, 19835), match='">Item&#160;7</font></p></td>\n<td valign="bottom>, <re.Match object; span=(265037, 265149), match='a>Item&#160;7.</b></font></td>\n<td align="left" >]
-[<re.Match object; span=(20974, 21203), match='">Item&#160;8</font></p></td>\n<td valign="bottom>, <re.Match object; span=(293463, 293574), match='a>Item&#160;8.</b></font></td>\n<td align="left" >]
+[]
+[]
 
 0001193125-21-103375
 [<re.Match object; span=(24026, 24135), match='">ITEM&#160;7.</p></td>\n<td valign="bottom">&#16>, <re.Match object; span=(249597, 249772), match='a>ITEM&#160;7.</b></td>\n<td align="left" valign=>]
-[<re.Match object; span=(25215, 25323), match='">ITEM&#160;8.</p></td>\n<td valign="bottom">&#16>, <re.Match object; span=(431151, 431534), match='a>ITEM&#160;8.</b></td>\n<td align="left" valign=>]
+[<re.Match object; span=(25215, 25323), match='">ITEM&#160;8.</p></td>\n<td valign="bottom">&#16>, <re.Match object; span=(431151, 431325), match='a>ITEM&#160;8.</b></td>\n<td align="left" valign=>]
 
 

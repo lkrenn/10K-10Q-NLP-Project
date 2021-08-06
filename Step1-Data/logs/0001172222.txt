@@ -20,11 +20,11 @@
 
 0001047469-08-002138
 [<re.Match object; span=(16760, 16926), match='">ITEM 7.</font></td>\n<td style="font-family:tim>, <re.Match object; span=(1499435, 1499455), match='">ITEM 7. MANAGEMENT'>]
-[<re.Match object; span=(17910, 18075), match='">ITEM 8.</font></td>\n<td style="font-family:tim>, <re.Match object; span=(1500239, 1500577), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
+[<re.Match object; span=(17910, 18075), match='">ITEM 8.</font></td>\n<td style="font-family:tim>, <re.Match object; span=(1500239, 1500258), match='">ITEM 8. FINANCIAL'>]
 
 0001104659-07-019751
-[<re.Match object; span=(453418, 453715), match='">ITEM 7.</font></b><font face="Times New Roman" >]
-[<re.Match object; span=(1035732, 1035981), match='">ITEM 8.</font></b><font face="Times New Roman" >]
+[<re.Match object; span=(453418, 453609), match='">ITEM 7.</font></b><font face="Times New Roman" >]
+[<re.Match object; span=(1035732, 1035922), match='">ITEM 8.</font></b><font face="Times New Roman" >]
 
 0001172222-20-000008
 [<re.Match object; span=(347972, 348351), match='">ITEM 7.</span></a></div></td><td style="vertica>, <re.Match object; span=(772089, 772112), match='">ITEM 7.\xa0\xa0\xa0\xa0MANAGEMENT'>]
@@ -36,7 +36,7 @@
 
 0001104659-06-018706
 [<re.Match object; span=(563987, 564178), match='">ITEM 7.</font></b><font face="Times New Roman" >]
-[<re.Match object; span=(1096249, 1096622), match='">ITEM 8.</font></b><font face="Times New Roman" >]
+[<re.Match object; span=(1096249, 1096439), match='">ITEM 8.</font></b><font face="Times New Roman" >]
 
 0001047469-09-001839
 [<re.Match object; span=(22829, 23141), match='">ITEM 7.</font></p></a></td>\n<td style="font-fa>]
