@@ -47,7 +47,7 @@
 [<re.Match object; span=(26302, 26472), match='">Item&#160;8.</font></td>\n<td style="font-famil>, <re.Match object; span=(2616168, 2616397), match='">ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY >]
 
 0000100517-01-500026
-[<re.Match object; span=(15972, 15992), match='u>Item 7. Management'>, <re.Match object; span=(49521, 49541), match='u>Item 7. Management'>, <re.Match object; span=(102255, 102294), match='u>Item 7.</u>&#160;&#160; <u>Management'>, <re.Match object; span=(446978, 447146), match='u>Item 7A. Quantitative\nand Qualitative Disclosu>]
+[<re.Match object; span=(15972, 15992), match='u>Item 7. Management'>, <re.Match object; span=(49521, 49541), match='u>Item 7. Management'>, <re.Match object; span=(102255, 102294), match='u>Item 7.</u>&#160;&#160; <u>Management'>]
 [<re.Match object; span=(183812, 184166), match='u>Item 8.&#160; Financial Statements and Suppleme>]
 
 0000100517-19-000009

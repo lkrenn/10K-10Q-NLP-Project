@@ -23,7 +23,7 @@
 [<re.Match object; span=(43458, 43691), match='">Item&#160;8.</font></td>\n<td valign="bottom"><>, <re.Match object; span=(1139155, 1139279), match='a>ITEM&#160;8.</b></font></td>\n<td align="left" >]
 
 0000101001-01-500005
-[<re.Match object; span=(14890, 14910), match='u>Item\n7. Management'>, <re.Match object; span=(48850, 48870), match='u>Item 7. Management'>, <re.Match object; span=(79707, 79743), match='b>Item 7.</b>&#160;&#160; Management'>, <re.Match object; span=(359494, 359661), match='u>Item 7A. Quantitative\nand Qualitative Disclosu>]
+[<re.Match object; span=(14890, 14910), match='u>Item\n7. Management'>, <re.Match object; span=(48850, 48870), match='u>Item 7. Management'>, <re.Match object; span=(79707, 79743), match='b>Item 7.</b>&#160;&#160; Management'>]
 [<re.Match object; span=(159304, 159648), match='u>Item 8.&#160; Financial Statements and Suppleme>]
 
 0001193125-13-074391

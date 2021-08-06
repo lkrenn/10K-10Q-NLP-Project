@@ -19,7 +19,7 @@
 [<re.Match object; span=(40470, 40883), match='">Item&#160;8.&#160;</p></td>\n<td style="padding>]
 
 0000950153-01-501504
-[<re.Match object; span=(6990, 7009), match='">Item 7.Management'>, <re.Match object; span=(13752, 13885), match='">Item&#160;7.\n\t</font></div>\n</td>\n<td><font>, <re.Match object; span=(190942, 191237), match='">Item&#160;7.&#160;&#160;&#160;&#160;&#160;<i>Ma>]
+[<re.Match object; span=(13752, 13885), match='">Item&#160;7.\n\t</font></div>\n</td>\n<td><font>, <re.Match object; span=(190942, 191237), match='">Item&#160;7.&#160;&#160;&#160;&#160;&#160;<i>Ma>]
 [<re.Match object; span=(7274, 7465), match='">Item 8.Financial Statements and Supplementary D>, <re.Match object; span=(14798, 14930), match='">Item&#160;8.\n\t</font></div>\n</td>\n<td><font>, <re.Match object; span=(269301, 269468), match='">Item&#160;8.&#160;&#160;&#160;&#160;&#160;<i>Fi>]
 
 0000950153-06-003018

@@ -11,7 +11,7 @@
 [<re.Match object; span=(1075461, 1075554), match='">Item 8:&#160;\nFinancial Statements and Supplem>]
 
 0001144204-09-029443
-[<re.Match object; span=(30246, 30497), match='">Item\n      7:</font></div>\n</td>\n<td valign=>, <re.Match object; span=(285199, 285218), match='">Item\n7:Management'>]
+[<re.Match object; span=(30246, 30497), match='">Item\n      7:</font></div>\n</td>\n<td valign=>]
 [<re.Match object; span=(31080, 31330), match='">Item\n      8:</font></div>\n</td>\n<td valign=>, <re.Match object; span=(285199, 285263), match='">Item\n7:Management&#8217;s Discussion and Analy>, <re.Match object; span=(867607, 867946), match='">Item\n8:&#160;&#160;Financial Statements and Su>]
 
 
