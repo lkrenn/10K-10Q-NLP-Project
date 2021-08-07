@@ -1,9 +1,0 @@
-0000948846-02-000006
-[<re.Match object; span=(118116, 118222), match='p>ITEM 7.</p></font></b></td>\n<td valign="TOP" w>]
-[<re.Match object; span=(202139, 202485), match='p>ITEM 8.&#160;&#160;FINANCIAL STATEMENTS AND SUP>, <re.Match object; span=(243888, 244118), match='b>ITEM 8, ITEM 14(a)(1) and (2), (c) and (d)</td>>]
-
-0000948846-03-000009
-[<re.Match object; span=(102224, 102330), match='p>ITEM 7.</p></font></b></td>\n<td valign="TOP" w>]
-[<re.Match object; span=(217014, 217119), match='p>ITEM 8.</p></font></b></td>\n<td valign="TOP" w>]
-
-

@@ -1,58 +1,58 @@
 0001104659-07-024922
-[]
-[]
+[<re.Match object; span=(780146, 780490), match='">Item 7.</font></b><font face="Times New Roman" >]
+[<re.Match object; span=(1032143, 1032439), match='">Item 8.</font></b><font face="Times New Roman" >]
 
 0001362468-19-000010
-[]
-[]
+[<re.Match object; span=(33490, 33813), match='">ITEM 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(554648, 554684), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(35301, 35623), match='">ITEM 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(808429, 808464), match='">Item&#160;8.&#160;&#160;Financial'>]
 
 0001362468-18-000008
-[]
-[]
+[<re.Match object; span=(33375, 33698), match='">ITEM 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(551842, 551878), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(35186, 35508), match='">ITEM 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(821933, 821968), match='">Item&#160;8.&#160;&#160;Financial'>]
 
 0001047469-08-002507
-[]
-[]
+[<re.Match object; span=(1080533, 1080553), match='">Item 7. Management'>]
+[<re.Match object; span=(1081381, 1081400), match='">Item 8. Financial'>]
 
 0001362468-16-000054
-[]
-[]
+[<re.Match object; span=(32179, 32502), match='">ITEM 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(577716, 577752), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(33990, 34312), match='">ITEM 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(901132, 901550), match='">Item&#160;8.&#160;&#160;Financial Statements an>]
 
 0001437749-12-001771
-[]
-[]
+[<re.Match object; span=(582837, 582873), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(1031653, 1031688), match='">Item&#160;8.&#160;&#160;Financial'>]
 
 0001362468-20-000011
-[]
-[]
+[<re.Match object; span=(251119, 251435), match='">ITEM 7.</span></div></td><td style="vertical-al>, <re.Match object; span=(753928, 753949), match='">Item\xa07.\xa0\xa0Management'>]
+[<re.Match object; span=(252900, 253215), match='">ITEM 8.</span></div></td><td style="vertical-al>, <re.Match object; span=(956241, 956644), match='">Item\xa08.\xa0\xa0Financial Statements and Supp>]
 
 0001362468-21-000012
-[]
-[]
+[<re.Match object; span=(648398, 648434), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(765118, 765533), match='">Item&#160;8.&#160;&#160;Financial Statements an>]
 
 0001362468-14-000010
-[]
-[]
+[<re.Match object; span=(27232, 27252), match='">ITEM 7. Management'>, <re.Match object; span=(577483, 577519), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(28404, 28423), match='">ITEM 8. Financial'>, <re.Match object; span=(1004365, 1004743), match='">Item&#160;8.&#160;&#160;Financial Statements an>]
 
 0001437749-11-001503
-[]
-[]
+[<re.Match object; span=(734298, 734334), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(1161355, 1161390), match='">Item&#160;8.&#160;&#160;Financial'>]
 
 0001362468-15-000009
-[]
-[]
+[<re.Match object; span=(27327, 27347), match='">ITEM 7. Management'>, <re.Match object; span=(598688, 598724), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(28499, 28518), match='">ITEM 8. Financial'>, <re.Match object; span=(991389, 991767), match='">Item&#160;8.&#160;&#160;Financial Statements an>]
 
 0001047469-09-002190
 []
 []
 
 0001437749-13-001984
-[]
-[]
+[<re.Match object; span=(594678, 594714), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(1027589, 1027624), match='">Item&#160;8.&#160;&#160;Financial'>]
 
 0001362468-17-000006
-[]
-[]
+[<re.Match object; span=(32508, 32831), match='">ITEM 7.</font></div></td><td style="vertical-al>, <re.Match object; span=(537371, 537407), match='">Item&#160;7.&#160;&#160;Management'>]
+[<re.Match object; span=(34319, 34641), match='">ITEM 8.</font></div></td><td style="vertical-al>, <re.Match object; span=(839154, 839189), match='">Item&#160;8.&#160;&#160;Financial'>]
 
 0001047469-10-001935
 []

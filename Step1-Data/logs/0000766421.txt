@@ -43,8 +43,8 @@
 [<re.Match object; span=(31352, 31704), match='">ITEM&#160;8.</font></a></div></td><td style="ve>, <re.Match object; span=(1420555, 1420604), match='">ITEM&#160;8.&#160;&#160; CONSOLIDATED FINANCIAL>]
 
 0000891020-04-000322
-[<re.Match object; span=(302554, 302584), match='b>ITEM 7. </b><b><i>MANAGEMENT'>]
-[<re.Match object; span=(415221, 415263), match='b>ITEM 8. </b><b><i>CONSOLIDATED FINANCIAL'>]
+[<re.Match object; span=(9704, 9805), match='">Item&#160;7.</a></div></td>\n<td>&#160;</td>\n<>, <re.Match object; span=(302554, 302584), match='b>ITEM 7. </b><b><i>MANAGEMENT'>]
+[<re.Match object; span=(10380, 10493), match='">Item&#160;8.</a></div></td>\n<td>&#160;</td>\n<>, <re.Match object; span=(415221, 415569), match='b>ITEM 8. </b><b><i>CONSOLIDATED FINANCIAL STATEM>]
 
 0000766421-17-000016
 [<re.Match object; span=(28077, 28431), match='">ITEM&#160;7.</font></a></div></td><td style="ve>, <re.Match object; span=(757470, 757519), match='">ITEM&#160;7.&#160;&#160;&#160;&#160; MANAGEMENT>]
